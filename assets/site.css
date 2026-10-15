@@ -1,0 +1,62 @@
+/* Gerado por agentes/blog.py a partir de identidade/tokens.json. Não editar à mão. */
+@font-face{font-family:"Instrument Serif";src:url("/assets/fonts/InstrumentSerif-Regular.ttf") format("truetype");font-weight:400;font-display:swap}
+@font-face{font-family:"Instrument Sans";src:url("/assets/fonts/InstrumentSans-Variable.ttf") format("truetype");font-weight:400 700;font-display:swap}
+:root{--creme:#F7F0EA;--grafite:#2E2A27;--branco:#FFFFFF;--marca:#FFE680;--laranja:#B5764B;--verde:#4F8F72;--suave:#7C736C;--linha:#E6DDD3;--serif:"Instrument Serif",Georgia, serif;--sans:"Instrument Sans",system-ui, sans-serif}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--creme);color:var(--grafite);font-family:var(--sans);font-size:18px;line-height:1.65}
+img{max-width:100%;height:auto}
+a{color:var(--laranja);text-underline-offset:3px}
+a:hover{color:var(--grafite)}
+.topo{max-width:760px;margin:0 auto;padding:28px 16px 8px;text-align:center}
+.marca img{width:220px;max-width:70%;height:auto}
+.topo nav{margin-top:14px;display:flex;flex-wrap:wrap;gap:6px 20px;justify-content:center;font-size:15px}
+.topo nav a{color:var(--grafite);text-decoration:none;font-weight:500}
+.topo nav a:hover{color:var(--laranja)}
+main{max-width:760px;margin:0 auto;padding:8px 16px 24px}
+.cartao{background:var(--branco);border-radius:24px;padding:36px 36px 28px;margin:16px 0;box-shadow:0 1px 2px rgba(46,42,39,.06)}
+.hero{padding:28px 4px 4px}
+.hero h1{font-family:var(--serif);font-weight:400;font-size:48px;line-height:1.08;margin:0 0 10px}
+.lead{font-size:20px;line-height:1.5;margin:0 0 14px}
+h1,h2,h3{font-family:var(--serif);font-weight:400;line-height:1.15}
+.artigo h1{font-size:44px;margin:6px 0 12px}
+h2{font-size:30px;margin:34px 0 8px}
+h3{font-size:23px;margin:22px 0 4px}
+.artigo>h2:first-child{margin-top:0}
+.etiqueta{font-size:13px;letter-spacing:.09em;text-transform:uppercase;font-weight:700;color:var(--laranja);margin:0}
+.etiqueta a{color:inherit;text-decoration:none}
+.byline,.meta,.tipo{font-size:14px;color:var(--suave)}
+.byline{margin:0 0 22px}
+.meta{display:block;margin-top:2px}
+.resposta{background:var(--creme);border-radius:16px;padding:6px 22px 14px;margin:6px 0 10px;border-left:6px solid var(--marca)}
+.resposta h2{font-family:var(--sans);font-size:14px;letter-spacing:.09em;text-transform:uppercase;font-weight:700;margin:16px 0 6px}
+.resposta mark{background:var(--marca);padding:2px 8px;border-radius:4px}
+.resposta p{margin:0 0 6px;font-size:19px}
+.resposta .tipo{margin-top:8px}
+.fonte{border-top:1px solid var(--linha);margin-top:34px;padding-top:2px}
+.fonte h2{font-size:24px}
+.lista{list-style:none;margin:0;padding:0}
+.lista li{padding:16px 0;border-top:1px solid var(--linha)}
+.lista li:first-child{border-top:0}
+.lista a{font-family:var(--serif);font-size:25px;line-height:1.2;text-decoration:none;color:var(--grafite)}
+.lista a:hover{color:var(--laranja)}
+.resumo{display:block;margin-top:6px;font-size:16px;color:var(--grafite)}
+.relacionados h2{font-size:26px;margin:28px 4px 0}
+.relacionados .lista{background:var(--branco);border-radius:24px;padding:8px 28px;margin-top:10px}
+.chips{list-style:none;display:flex;flex-wrap:wrap;gap:10px;padding:0;margin:8px 0 0}
+.chips a{display:inline-block;border:1px solid var(--linha);border-radius:999px;padding:6px 16px;text-decoration:none;color:var(--grafite);font-size:16px}
+.chips a:hover{border-color:var(--laranja);color:var(--laranja)}
+.chips span{color:var(--suave);font-size:14px;margin-left:4px}
+.cta h2{margin-top:0}
+.botao{display:inline-block;background:var(--laranja);color:var(--branco);padding:12px 22px;border-radius:999px;text-decoration:none;font-weight:600;font-size:16px;margin:4px 8px 4px 0}
+.botao:hover{background:var(--grafite);color:var(--branco)}
+.botao.secundario{background:transparent;color:var(--grafite);border:1px solid var(--grafite)}
+table{border-collapse:collapse;width:100%;font-size:16px;margin:12px 0}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--linha);vertical-align:top}
+th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--suave)}
+.rodape{max-width:760px;margin:0 auto;padding:12px 16px 56px;text-align:center;font-size:15px;color:var(--suave)}
+.rodape p{margin:6px 0}
+.rodape a{color:var(--grafite);margin:0 8px}
+.rodape-lema strong{font-family:var(--serif);font-weight:400;font-size:22px;color:var(--grafite)}
+.aviso{font-size:13px}
+@media (max-width:600px){body{font-size:17px}.cartao{padding:26px 20px 20px;border-radius:20px}.artigo h1{font-size:34px}.hero h1{font-size:38px}h2{font-size:26px}.lista a{font-size:22px}}

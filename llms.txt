@@ -1,0 +1,23 @@
+# The Welf Journal
+
+> Saúde baseada em evidência, em português claro. A gente lê o estudo inteiro e conta o que importa. Cada artigo parte de um estudo ou documento oficial, com link para a fonte primária e o tipo de evidência declarado.
+
+## Como apuramos
+- [Como apuramos](https://thewelfjournal.com.br/como-apuramos/): fonte primária, tipo de estudo, números com origem, limites
+- [Correções](https://thewelfjournal.com.br/correcoes/): como avisar um erro e registro de correções
+- [Sobre](https://thewelfjournal.com.br/sobre/): quem faz o The Welf Journal
+
+## Por especialidade
+- [Cardiologia](https://thewelfjournal.com.br/especialidade/cardiologia/): 2 artigo(s)
+- [Geriatria](https://thewelfjournal.com.br/especialidade/geriatria/): 1 artigo(s)
+- [Nutrologia](https://thewelfjournal.com.br/especialidade/nutrologia/): 1 artigo(s)
+
+## Artigos recentes
+- [Café de manhã e risco de morte: o que 40.725 americanos mostraram](https://thewelfjournal.com.br/artigos/cafe-de-manha-risco-de-morte/): Em 40.725 adultos dos Estados Unidos acompanhados por quase dez anos, quem tomou café só de manhã foi associado a 13% menos risco de morte por qualquer causa e a 20% menos por doença cardiovascular. Entre quem espalhou o café pelo dia, não houve diferença clara. O estudo é observacional e não prova causa.
+- [Musculação e memória em idosos: o que o estudo da Unicamp mostrou](https://thewelfjournal.com.br/artigos/musculacao-memoria-idosos-unicamp/): Um estudo da Unicamp acompanhou 44 idosos com comprometimento cognitivo leve por 24 semanas. Quem fez musculação foi melhor no teste de memória de palavras e histórias e não perdeu volume no hipocampo direito, área ligada à memória. No grupo parado, ele encolheu. A amostra é pequena e não prova proteção contra demência.
+- [Anabolizante e coração: o que mudou em quem parou de usar, em Oslo](https://thewelfjournal.com.br/artigos/anabolizante-coracao-oslo/): Em um acompanhamento de homens que treinam com peso em Oslo, os 15 que pararam de usar anabolizante viram a fração de ejeção do coração subir 6 pontos, enquanto nos 35 que continuaram ela ficou em 48%. O estudo é observacional e mostra associação, não prova de causa.
+- [Creatina por 12 semanas, com e sem treino: o que o estudo mostrou](https://thewelfjournal.com.br/artigos/creatina-12-semanas-com-e-sem-treino/): Em um ensaio randomizado com 64 adultos de 45 a 65 anos, quem tomou 10 gramas de creatina por dia durante 12 semanas ganhou 1,1 kg de massa magra sem treinar e 1,27 kg treinando e fazendo dieta. Parte do ganho pode ser água, e a creatinina, exame do rim, subiu.
+
+## Contato e redes
+- [Instagram](https://www.instagram.com/thewelfjournal/)
+- [Newsletter](https://thewelfjournal.beehiiv.com/)
