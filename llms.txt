@@ -9,14 +9,21 @@
 
 ## Por especialidade
 - [Cardiologia](https://thewelfjournal.com.br/especialidade/cardiologia/): 4 artigo(s)
+- [Medicina do sono](https://thewelfjournal.com.br/especialidade/medicina-do-sono/): 3 artigo(s)
+- [Nutrologia](https://thewelfjournal.com.br/especialidade/nutrologia/): 2 artigo(s)
 - [Psiquiatria](https://thewelfjournal.com.br/especialidade/psiquiatria/): 2 artigo(s)
+- [Endocrinologia](https://thewelfjournal.com.br/especialidade/endocrinologia/): 1 artigo(s)
 - [Geriatria](https://thewelfjournal.com.br/especialidade/geriatria/): 1 artigo(s)
 - [Medicina de família](https://thewelfjournal.com.br/especialidade/medicina-de-familia/): 1 artigo(s)
-- [Medicina do sono](https://thewelfjournal.com.br/especialidade/medicina-do-sono/): 1 artigo(s)
-- [Nutrologia](https://thewelfjournal.com.br/especialidade/nutrologia/): 1 artigo(s)
+- [Oncologia](https://thewelfjournal.com.br/especialidade/oncologia/): 1 artigo(s)
 - [Ortopedia](https://thewelfjournal.com.br/especialidade/ortopedia/): 1 artigo(s)
 
 ## Artigos recentes
+- [Anvisa proíbe a venda de canetas de retatrutida e de tirzepatida sem registro anunciadas em sites](https://thewelfjournal.com.br/artigos/canetas-sem-registro/): A Anvisa publicou em 14 de outubro de 2026 a Resolução RE nº 4.035, que proíbe fabricar, importar, distribuir, anunciar e usar produtos sem registro, entre eles canetas de retatrutida e de tirzepatida vendidas em sites. A agência determinou apreensão. A retatrutida não tem autorização para venda no Brasil.
+- [Uso recente de cannabis foi associado a sono mais fragmentado em adultos de meia-idade, mostra coorte americana](https://thewelfjournal.com.br/artigos/cannabis-sono/): Numa coorte americana publicada no JAMA Network Open em 2026, o uso recente e o acumulado de cannabis foram associados a pior qualidade objetiva do sono em adultos de meia-idade. Quem usou recentemente também dormiu mais de oito horas com mais frequência, mas com sono fragmentado. O estudo envolveu 1.266 participantes.
+- [FDA aprova o Anktiva com BCG para câncer de bexiga papilar de alto grau que não respondeu ao BCG](https://thewelfjournal.com.br/artigos/fda-bexiga-anktiva/): Em 14 de outubro de 2026, a FDA, agência de medicamentos dos Estados Unidos, ampliou a aprovação do Anktiva, usado junto com BCG, para adultos com câncer de bexiga papilar de alto grau que não respondeu ao BCG. É o primeiro tratamento aprovado especificamente para esse grupo.
+- [Quais alimentos têm mais potássio: ranking do USDA por tipo de comida, em miligramas por 100 gramas](https://thewelfjournal.com.br/artigos/potassio-por-tipo/): Pela tabela do USDA, o departamento de agricultura dos Estados Unidos, o pistache cru lidera castanhas e sementes, com 1.025 mg de potássio por 100 g. Para adultos, os institutos americanos de saúde recomendam 2.600 mg por dia para mulheres e 3.400 mg para homens. Uma banana média tem cerca de 422 mg.
+- [Quanto o sono diminui a cada década de idade? Metanálise com 169 estudos mostra](https://thewelfjournal.com.br/artigos/sono-por-decada/): Uma metanálise de 169 estudos, com 5.273 adultos saudáveis, mostrou que o tempo total de sono caiu em média 10,1 minutos a cada década de idade, e o tempo acordado depois de dormir subiu 9,7 minutos. Sono profundo e a fase dos sonhos não mudaram de forma significativa.
 - [Antipsicótico: peso e açúcar no sangue sobem mais nos primeiros 90 dias de uso, mostra estudo inglês com quase 97 mil pessoas](https://thewelfjournal.com.br/artigos/antipsicotico-90-dias/): Num estudo inglês observacional com quase 97 mil adultos com transtornos mentais graves, o peso e o açúcar no sangue foram associados a uma subida rápida nos primeiros 90 dias de antipsicótico, e depois a ritmo mais lento. Os autores recomendam medir os dois antes de começar e perto de 12 semanas.
 - [Café depois de uma trombose: estudo norueguês associou 1 a 2 xícaras por dia a menos recaídas](https://thewelfjournal.com.br/artigos/cafe-trombose/): Num estudo de coorte norueguês com 2.071 pessoas que já tiveram trombose venosa, tomar 1 a 2 xícaras de café por dia foi associado a risco 51% menor de nova trombose, comparado a não tomar café. Com mais de 6 xícaras, a diferença não ficou clara. O estudo não prova que o café proteja.
 - [Dor crônica pode ficar escondida em casos de depressão resistente ao tratamento, argumenta artigo na Nature Mental Health](https://thewelfjournal.com.br/artigos/dor-depressao-refrataria/): Uma análise crítica publicada na Nature Mental Health em 2026 argumenta que as escalas usadas para medir depressão não perguntam sobre dor crônica. Segundo os autores, isso pode esconder dor em casos tratados como depressão resistente. Não é ensaio nem coorte e não traz dado novo: propõe uma pergunta de pesquisa.
