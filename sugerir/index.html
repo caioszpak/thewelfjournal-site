@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sugira uma pauta | The Welf Journal</title>
+<meta name="description" content="Envie um link, tema ou documento para virar pauta no The Welf Journal.">
+<link rel="canonical" href="https://thewelfjournal.com.br/sugerir/">
+<meta property="og:site_name" content="The Welf Journal">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Sugira uma pauta | The Welf Journal">
+<meta property="og:description" content="Envie um link, tema ou documento para virar pauta no The Welf Journal.">
+<meta property="og:url" content="https://thewelfjournal.com.br/sugerir/">
+<meta property="og:image" content="https://thewelfjournal.com.br/assets/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="The Welf Journal" href="/feed.xml">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="/assets/fonts/InstrumentSerif-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "NewsMediaOrganization", "@id": "https://thewelfjournal.com.br/#org", "name": "The Welf Journal", "alternateName": "TWJ", "url": "https://thewelfjournal.com.br/", "logo": {"@type": "ImageObject", "url": "https://thewelfjournal.com.br/assets/twj_wordmark_grafite.png"}, "description": "Saúde baseada em evidência, em português claro. A gente lê o estudo inteiro e conta o que importa.", "slogan": "Seu wellness, num feed só", "founder": {"@type": "Person", "name": "Caio Rezende Szpak"}, "sameAs": ["https://www.instagram.com/thewelfjournal/", "https://thewelfjournal.beehiiv.com/"]}]}</script></head>
+<body>
+<header class="topo">
+  <div class="topo-in">
+    <a class="marca" href="/" aria-label="The Welf Journal, página inicial"><img src="/assets/twj_wordmark_branco.png" alt="The Welf Journal" width="190"></a>
+    <nav aria-label="Principal">
+      <a href="/">Início</a>
+      <a href="/artigos/">Artigos</a>
+      <a href="/#editorias">Editorias</a>
+      <a href="/como-apuramos/">Como apuramos</a>
+      <a href="/sobre/">Sobre</a>
+      <a class="nav-news" href="https://thewelfjournal.beehiiv.com/?utm_source=blog&amp;utm_medium=nav" rel="noopener">Newsletter</a>
+    </nav>
+  </div>
+</header>
+<p class="faixa-confianca">Cada artigo parte de um estudo ou documento oficial, com a fonte primária e o tipo de evidência. <a href="/como-apuramos/">Como apuramos</a></p>
+<main>
+<div class="wrap estreito">
+<article class="cartao artigo">
+  <h1>Sugira uma pauta</h1>
+  <p class="lead">Viu um estudo, uma notícia ou uma dúvida de saúde que merece virar conteúdo? Mande para a gente. Pode ser um link, um tema solto ou uma pauta pronta.</p>
+
+<h2>Como funciona</h2>
+<ul>
+  <li>A gente lê o que chega. O que tem <strong>fonte primária</strong> (estudo publicado, órgão oficial ou texto de lei) entra na fila de pautas.</li>
+  <li>Sem fonte primária confiável, o assunto não vira artigo. É a nossa regra, e ela vale para todo mundo.</li>
+  <li>Se virar conteúdo e você deixar, citamos seu nome como colaborador.</li>
+</ul>
+
+<h2>Envie sua sugestão</h2>
+<form class="form-twj" data-form="sugerir" data-endpoint="https://script.google.com/macros/s/AKfycbwcYAdsWR_HD2hcpuhtIzo8Ai5SCq0Csgg44lbRrZWN-kB7Ookh2KABpxJt0OnSeD3wcQ/exec" novalidate>
+  <label>O que você quer enviar? *
+    <select name="tipo" required><option value="">Escolha</option><option>Link de estudo ou notícia</option><option>Tema ou pergunta</option><option>Pauta completa</option><option>Documento (PDF ou imagem)</option></select>
+  </label>
+  <label>Link<input type="url" name="link" maxlength="500" placeholder="https://"></label>
+  <label>Tema ou pauta *<span class="dica">Conte em poucas linhas o assunto ou a ideia.</span><textarea name="tema" required rows="5" maxlength="3000"></textarea></label>
+  <label>Por que isso importa?<textarea name="porque" rows="3" maxlength="1500"></textarea></label>
+  <label>Anexos <span class="dica">PDF ou imagem (print, gráfico, laudo). Até 3 arquivos de 5 MB.</span><input type="file" accept=".pdf,.png,.jpg,.jpeg,.webp" multiple></label>
+  <label>Seu nome <span class="dica">Opcional.</span><input name="nome" maxlength="120" autocomplete="name"></label>
+  <label>Seu e-mail <span class="dica">Opcional. Só para o caso de a gente precisar de mais detalhe.</span><input type="email" name="email" maxlength="160" autocomplete="email"></label>
+  <fieldset><legend>Podemos citar seu nome se virar conteúdo?</legend>
+    <label class="check"><input type="radio" name="pode_citar" value="sim"> Sim</label>
+    <label class="check"><input type="radio" name="pode_citar" value="nao" checked> Não, prefiro anonimato</label>
+  </fieldset>
+  <input class="armadilha" name="site_url" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <label class="check"><input type="checkbox" name="aceite" value="sim" required> Autorizo o The Welf Journal a usar esses dados só para avaliar a sugestão. *</label>
+  <button class="botao" type="submit">Enviar sugestão</button>
+  <p class="form-status" role="status" aria-live="polite" hidden></p>
+</form>
+<script src="/assets/forms.js" defer></script>
+</article>
+</div>
+</main>
+<footer class="rodape">
+  <p class="rodape-lema"><strong>The Welf Journal</strong></p>
+  <p>Seu wellness, num feed só. Saúde baseada em evidência, em português claro. A gente lê o estudo inteiro e conta o que importa.</p>
+  <p><a class="botao" href="https://thewelfjournal.beehiiv.com/?utm_source=blog&amp;utm_medium=rodape_botao" rel="noopener">Entrar na fila da newsletter</a></p>
+  <p class="rodape-links">
+    <a href="https://www.instagram.com/thewelfjournal/" rel="me noopener">Instagram</a>
+    <a href="https://thewelfjournal.beehiiv.com/?utm_source=blog&amp;utm_medium=rodape" rel="noopener">Newsletter</a>
+    <a href="/como-apuramos/">Como apuramos</a>
+    <a href="/correcoes/">Correções</a>
+    <a href="/participe/">Participe</a>
+    <a href="/feed.xml">RSS</a>
+  </p>
+  <p class="aviso">Conteúdo informativo. Não substitui consulta, diagnóstico nem orientação de profissional de saúde.</p>
+</footer>
+</body>
+</html>

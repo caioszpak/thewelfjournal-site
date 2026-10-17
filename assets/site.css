@@ -108,4 +108,31 @@ th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--suav
 .faixa-confianca{background:#EFE4DA;color:var(--grafite);font-size:14px;text-align:center;padding:8px 16px}
 .faixa-confianca a{color:var(--laranja);font-weight:600}
 @media (max-width:900px){.grade{grid-template-columns:1fr}.destaque h2{font-size:34px}.topo-in{flex-wrap:wrap;gap:10px 16px}.topo nav{margin-left:0;width:100%}}
+.form-twj{display:grid;gap:18px;margin:12px 0 8px}
+.form-twj label{display:grid;gap:6px;font-weight:600;font-size:16px}
+.form-twj .dica{font-weight:400;font-size:14px;color:var(--suave)}
+.form-twj input,.form-twj select,.form-twj textarea{font:inherit;font-weight:400;font-size:17px;color:var(--grafite);background:var(--creme);border:1px solid var(--linha);border-radius:12px;padding:12px 14px;width:100%}
+.form-twj input:focus,.form-twj select:focus,.form-twj textarea:focus{outline:2px solid var(--laranja);outline-offset:1px;background:var(--branco)}
+.form-twj input[type=file]{padding:10px;background:var(--branco);border-style:dashed}
+.form-twj .check{display:flex;align-items:flex-start;gap:10px;font-weight:400;font-size:15px}
+.form-twj .check input{width:auto;margin-top:5px;flex:none}
+.form-twj fieldset{border:0;padding:0;margin:0;display:grid;gap:8px}
+.form-twj legend{font-weight:600;font-size:16px;padding:0;margin-bottom:6px}
+.form-twj .botao{justify-self:start;border:0;cursor:pointer;font-family:inherit}
+.form-twj .botao:disabled{opacity:.6;cursor:wait}
+.armadilha{position:absolute!important;left:-9999px;height:0;width:0;opacity:0}
+.form-status{margin:0;padding:12px 16px;border-radius:12px;font-size:16px}
+.form-status.ok{background:#E3F0E9;color:#24553f}
+.form-status.erro{background:#F8E4DC;color:#8a3a1f}
+.nota-form{font-size:14px;color:var(--suave)}
+.participe-grade{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:20px}
+.participe-card{display:flex;flex-direction:column;gap:6px;background:var(--creme);border-radius:18px;padding:22px;text-decoration:none;color:var(--grafite);border:1px solid var(--linha);transition:border-color .15s}
+.participe-card:hover{border-color:var(--laranja)}
+.participe-card h2{font-size:28px;margin:0}
+.participe-card p{margin:0;font-size:16px;line-height:1.5;color:#4a443f}
+.p-num{font-family:var(--serif);font-size:20px;color:var(--laranja)}
+.p-ir{margin-top:auto;padding-top:10px;font-weight:600;color:var(--laranja);font-size:15px}
+.faca-parte{padding:6px 0}
+.faca-parte .participe-grade{margin-top:12px}
+@media (max-width:900px){.participe-grade{grid-template-columns:1fr}}
 @media (max-width:600px){body{font-size:17px}.feed{grid-template-columns:1fr}.cartao{padding:26px 20px 20px;border-radius:20px}.artigo h1{font-size:34px}.titulo-pagina h1{font-size:38px}h2{font-size:26px}.lista a{font-size:22px}.marca img{width:160px}}
