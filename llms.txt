@@ -8,16 +8,24 @@
 - [Sobre](https://thewelfjournal.com.br/sobre/): quem faz o The Welf Journal
 
 ## Por editoria
-- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 1 artigo(s)
-- [Sono](https://thewelfjournal.com.br/editoria/sono/): 4 artigo(s)
+- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 2 artigo(s)
+- [Saúde + Tech](https://thewelfjournal.com.br/editoria/saude-tech/): 1 artigo(s)
+- [Sono](https://thewelfjournal.com.br/editoria/sono/): 5 artigo(s)
 - [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 1 artigo(s)
 - [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 3 artigo(s)
 - [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 1 artigo(s)
 - [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 3 artigo(s)
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 1 artigo(s)
 - [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 2 artigo(s)
+- [Pesquisa](https://thewelfjournal.com.br/editoria/pesquisa/): 1 artigo(s)
+- [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [Google Health e Flo Health anunciam parceria para integrar dados de ciclo menstrual](https://thewelfjournal.com.br/artigos/flo-google-health/): Em 12 de outubro de 2026, o Google Health anunciou uma parceria de vários anos com a Flo Health, aplicativo de saúde feminina. A partir do início do próximo ano, quem autorizar poderá ligar os dados de ciclo da Flo às métricas do Google Health. A empresa promete que nada passa sem permissão.
+- [Pico físico entre 26 e 36 anos: 427 suecos testados dos 16 aos 63 mostram a queda](https://thewelfjournal.com.br/artigos/forma-fisica-35-anos/): Num estudo sueco que testou 427 pessoas, nascidas em 1958, dos 16 aos 63 anos, fôlego e resistência muscular chegaram ao pico entre 26 e 36 anos. Depois a capacidade física caiu de 30% a 48% até os 63. O estudo é observacional, sem prova de que o treino muda essa curva.
+- [Mulheres relatam mais dor em todos os 11 locais do corpo, mostra estudo com 6,1 milhões](https://thewelfjournal.com.br/artigos/oldme-newme-cozinha/): Um estudo na Nature Medicine reuniu dados autorrelatados de 6.125.459 pessoas em 118 países. Mulheres relataram mais dor nos 11 locais do corpo analisados, e nos países de menor desenvolvimento a dor na velhice foi bem mais comum. É observacional: mostra quem relata dor, não o motivo.
+- [Preventivo nos EUA e no Brasil: quem nunca fez o exame e por quê](https://thewelfjournal.com.br/artigos/preventivo-eua-brasil/): Um estudo transversal publicado na JAMA Network Open em 2026 examinou, de 2005 a 2023, a taxa de americanas que nunca fizeram o exame preventivo. No Brasil, a Pesquisa Nacional de Saúde de 2019 mostrou que 6,1% das mulheres de 25 a 64 anos nunca fizeram; em 2013 eram 9,7%. As bases são diferentes.
+- [Dormir pouco ou muito foi associado a mais doença do coração em 474.684 pessoas](https://thewelfjournal.com.br/artigos/sono-coracao-depressao/): Numa meta-análise de 15 estudos com 474.684 pessoas, dormir pouco foi associado a 48% mais risco de doença coronária. Dormir muito foi associado a mais risco de coronária, AVC e doença cardiovascular total. Outra meta-análise, com 21 estudos, associou a insônia a risco 2,1 vezes maior de depressão.
 - [Anvisa proíbe venda de canetas de retatrutida e tirzepatida sem registro em sites](https://thewelfjournal.com.br/artigos/canetas-sem-registro/): A Anvisa publicou em 14 de outubro de 2026 a Resolução RE nº 4.035, que proíbe fabricar, importar, distribuir, anunciar e usar produtos sem registro, entre eles canetas de retatrutida e de tirzepatida vendidas em sites. A agência determinou apreensão. A retatrutida não tem autorização para venda no Brasil.
 - [Uso recente de cannabis foi associado a sono mais fragmentado na meia-idade](https://thewelfjournal.com.br/artigos/cannabis-sono/): Numa coorte americana publicada no JAMA Network Open em 2026, o uso recente e o acumulado de cannabis foram associados a pior qualidade objetiva do sono em adultos de meia-idade. Quem usou recentemente também dormiu mais de oito horas com mais frequência, mas com sono fragmentado. O estudo envolveu 1.266 participantes.
 - [FDA aprova Anktiva com BCG para câncer de bexiga que não respondeu ao BCG](https://thewelfjournal.com.br/artigos/fda-bexiga-anktiva/): Em 14 de outubro de 2026, a FDA, agência de medicamentos dos Estados Unidos, ampliou a aprovação do Anktiva, usado junto com BCG, para adultos com câncer de bexiga papilar de alto grau que não respondeu ao BCG. É o primeiro tratamento aprovado especificamente para esse grupo.
