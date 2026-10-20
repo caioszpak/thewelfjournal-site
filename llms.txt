@@ -10,8 +10,8 @@
 ## Por editoria
 - [Saúde](https://thewelfjournal.com.br/editoria/saude/): 2 artigo(s)
 - [Saúde + Tech](https://thewelfjournal.com.br/editoria/saude-tech/): 1 artigo(s)
-- [Sono](https://thewelfjournal.com.br/editoria/sono/): 5 artigo(s)
-- [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 1 artigo(s)
+- [Sono](https://thewelfjournal.com.br/editoria/sono/): 7 artigo(s)
+- [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 2 artigo(s)
 - [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 3 artigo(s)
 - [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 1 artigo(s)
 - [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 3 artigo(s)
@@ -21,6 +21,9 @@
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [Dormir 8 horas ou mais foi associado a quase o dobro de risco de piora renal no diabetes](https://thewelfjournal.com.br/artigos/dormir-8-horas-ou-mais-foi-associado-a-quase-o-dobro-de-risco-de-piora/): Num estudo prospectivo com 678 japoneses com diabetes tipo 2, acompanhados por cerca de seis anos, dormir oito horas ou mais, em média, foi associado a quase o dobro do risco de ter ou piorar a doença renal do diabetes, em comparação com dormir menos de seis horas. O estudo observou pessoas, não sorteou.
+- [Treino pesado perto da hora de dormir foi associado a sono pior em 14.689 pessoas](https://thewelfjournal.com.br/artigos/sono-treino-tarde/): Num estudo observacional com 14.689 pessoas que usam relógio de monitoramento, treinar pesado perto da hora de dormir foi associado a dormir mais tarde, dormir menos e ter o coração menos relaxado à noite. Quando o treino terminou 4 horas ou mais antes de dormir, não houve associação com mudança no sono.
+- [Wegovy em comprimido: 194 adultos que trocaram a injeção, em estudo ainda sem revisão](https://thewelfjournal.com.br/artigos/wegovy-comprimido/): Em 194 adultos que trocaram uma caneta injetável por Wegovy em comprimido, 40,7% perderam 5% ou mais do peso em três meses, e a taxa de obesidade caiu de 87,1% para 65,5%. É uma análise retrospectiva, com peso autorrelatado, ainda sem revisão por pares e divulgada pela fabricante.
 - [Google Health e Flo Health anunciam parceria para integrar dados de ciclo menstrual](https://thewelfjournal.com.br/artigos/flo-google-health/): Em 12 de outubro de 2026, o Google Health anunciou uma parceria de vários anos com a Flo Health, aplicativo de saúde feminina. A partir do início do próximo ano, quem autorizar poderá ligar os dados de ciclo da Flo às métricas do Google Health. A empresa promete que nada passa sem permissão.
 - [Pico físico entre 26 e 36 anos: 427 suecos testados dos 16 aos 63 mostram a queda](https://thewelfjournal.com.br/artigos/forma-fisica-35-anos/): Num estudo sueco que testou 427 pessoas, nascidas em 1958, dos 16 aos 63 anos, fôlego e resistência muscular chegaram ao pico entre 26 e 36 anos. Depois a capacidade física caiu de 30% a 48% até os 63. O estudo é observacional, sem prova de que o treino muda essa curva.
 - [Mulheres relatam mais dor em todos os 11 locais do corpo, mostra estudo com 6,1 milhões](https://thewelfjournal.com.br/artigos/oldme-newme-cozinha/): Um estudo na Nature Medicine reuniu dados autorrelatados de 6.125.459 pessoas em 118 países. Mulheres relataram mais dor nos 11 locais do corpo analisados, e nos países de menor desenvolvimento a dor na velhice foi bem mais comum. É observacional: mostra quem relata dor, não o motivo.
