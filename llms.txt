@@ -18,9 +18,11 @@
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 1 artigo(s)
 - [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 2 artigo(s)
 - [Pesquisa](https://thewelfjournal.com.br/editoria/pesquisa/): 1 artigo(s)
+- [Notícias](https://thewelfjournal.com.br/editoria/noticias/): 1 artigo(s)
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [Quênia confirma 3 casos de Ebola Bundibugyo, e 2 já estavam em quarentena](https://thewelfjournal.com.br/artigos/thb-ebola-quenia/): O Quênia confirmou três casos de Ebola Bundibugyo, com uma morte. Os dois novos pacientes, de 39 e 65 anos, parentes do primeiro caso, adoeceram em quarentena, segundo a Organização Mundial da Saúde em 16 de outubro de 2026. Não há vacina licenciada nem tratamento específico para essa espécie do vírus.
 - [Dormir 8 horas ou mais foi associado a quase o dobro de risco de piora renal no diabetes](https://thewelfjournal.com.br/artigos/dormir-8-horas-ou-mais-foi-associado-a-quase-o-dobro-de-risco-de-piora/): Num estudo prospectivo com 678 japoneses com diabetes tipo 2, acompanhados por cerca de seis anos, dormir oito horas ou mais, em média, foi associado a quase o dobro do risco de ter ou piorar a doença renal do diabetes, em comparação com dormir menos de seis horas. O estudo observou pessoas, não sorteou.
 - [Treino pesado perto da hora de dormir foi associado a sono pior em 14.689 pessoas](https://thewelfjournal.com.br/artigos/sono-treino-tarde/): Num estudo observacional com 14.689 pessoas que usam relógio de monitoramento, treinar pesado perto da hora de dormir foi associado a dormir mais tarde, dormir menos e ter o coração menos relaxado à noite. Quando o treino terminou 4 horas ou mais antes de dormir, não houve associação com mudança no sono.
 - [Wegovy em comprimido: 194 adultos que trocaram a injeção, em estudo ainda sem revisão](https://thewelfjournal.com.br/artigos/wegovy-comprimido/): Em 194 adultos que trocaram uma caneta injetável por Wegovy em comprimido, 40,7% perderam 5% ou mais do peso em três meses, e a taxa de obesidade caiu de 87,1% para 65,5%. É uma análise retrospectiva, com peso autorrelatado, ainda sem revisão por pares e divulgada pela fabricante.
