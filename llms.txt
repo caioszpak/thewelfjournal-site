@@ -16,13 +16,14 @@
 - [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 2 artigo(s)
 - [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 3 artigo(s)
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 1 artigo(s)
-- [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 3 artigo(s)
+- [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 4 artigo(s)
 - [Como Funciona](https://thewelfjournal.com.br/editoria/como-funciona/): 1 artigo(s)
 - [Pesquisa](https://thewelfjournal.com.br/editoria/pesquisa/): 1 artigo(s)
 - [Notícias](https://thewelfjournal.com.br/editoria/noticias/): 1 artigo(s)
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [Depressão com perfil circadiano: 23% dos pacientes e pior resposta a antidepressivos](https://thewelfjournal.com.br/artigos/subtipo-circadiano-de-depressao-23-dos-pacientes-e-pior-resposta-a-ant/): Num estudo observacional australiano, 2604 pessoas com depressão, 23% do grupo, tinham um subtipo ligado ao relógio biológico. Esse subtipo foi associado a início mais cedo, sintomas mais graves e pior resposta autorrelatada a dois grupos de antidepressivos. É um retrato num único momento e ainda precisa de replicação.
 - [Fobia social aparece em 4% das pessoas ao longo da vida, aponta estudo em 28 países](https://thewelfjournal.com.br/artigos/felca-fobia-social/): Um levantamento com 142.405 pessoas em 28 países estimou que a fobia social, o medo intenso de ser julgado, aparece em 4% da população em algum momento da vida. O estudo é observacional: descreve quem tem o quadro, mas não prova por que ele surge nem como tratar.
 - [Extrato de limão elevou o GLP-1 em 22% em pessoas com pré-diabetes, diz ensaio](https://thewelfjournal.com.br/artigos/glp1-extrato-de-limao/): Em um ensaio randomizado com placebo, pessoas com pré-diabetes que tomaram 200 mg por dia de um extrato de limão por 12 semanas tiveram GLP-1 no sangue 22% maior e açúcar alto no sangue 6% menor. O GLP-1 é o hormônio que as canetas emagrecedoras imitam. O resumo não informa quantas pessoas participaram.
 - [Estatina se liga a canal de cálcio do músculo em estudo de laboratório](https://thewelfjournal.com.br/artigos/estatina-pode-abrir-um-canal-de-calcio-no-musculo-o-que-explica-a-dor/): Em experimentos de laboratório, a atorvastatina, uma estatina, se ligou direto a um canal de cálcio do músculo, o receptor de rianodina tipo 1, e o abriu. O trabalho usou microscopia eletrônica de alta resolução, sem pessoas. Ele mostra um alvo inesperado do remédio, mas não prova que isso cause a dor muscular.
@@ -52,7 +53,6 @@
 - [Café de manhã e risco de morte: o que 40.725 americanos mostraram](https://thewelfjournal.com.br/artigos/cafe-de-manha-risco-de-morte/): Em 40.725 adultos dos Estados Unidos acompanhados por quase dez anos, quem tomou café só de manhã foi associado a 13% menos risco de morte por qualquer causa e a 20% menos por doença cardiovascular. Entre quem espalhou o café pelo dia, não houve diferença clara. O estudo é observacional e não prova causa.
 - [Musculação e memória em idosos: o que o estudo da Unicamp mostrou](https://thewelfjournal.com.br/artigos/musculacao-memoria-idosos-unicamp/): Um estudo da Unicamp acompanhou 44 idosos com comprometimento cognitivo leve por 24 semanas. Quem fez musculação foi melhor no teste de memória de palavras e histórias e não perdeu volume no hipocampo direito, área ligada à memória. No grupo parado, ele encolheu. A amostra é pequena e não prova proteção contra demência.
 - [Anabolizante e coração: o que mudou em quem parou de usar, em Oslo](https://thewelfjournal.com.br/artigos/anabolizante-coracao-oslo/): Em um acompanhamento de homens que treinam com peso em Oslo, os 15 que pararam de usar anabolizante viram a fração de ejeção do coração subir 6 pontos, enquanto nos 35 que continuaram ela ficou em 48%. O estudo é observacional e mostra associação, não prova de causa.
-- [Creatina por 12 semanas, com e sem treino: o que o estudo mostrou](https://thewelfjournal.com.br/artigos/creatina-12-semanas-com-e-sem-treino/): Em um ensaio randomizado com 64 adultos de 45 a 65 anos, quem tomou 10 gramas de creatina por dia durante 12 semanas ganhou 1,1 kg de massa magra sem treinar e 1,27 kg treinando e fazendo dieta. Parte do ganho pode ser água, e a creatinina, exame do rim, subiu.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)
