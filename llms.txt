@@ -14,7 +14,7 @@
 - [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 3 artigo(s)
 - [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 3 artigo(s)
 - [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 2 artigo(s)
-- [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 4 artigo(s)
+- [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 5 artigo(s)
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 1 artigo(s)
 - [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 4 artigo(s)
 - [Como Funciona](https://thewelfjournal.com.br/editoria/como-funciona/): 2 artigo(s)
@@ -23,6 +23,7 @@
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [Dieta mediterrânea sozinha não baixou a inflamação; com jejum, sim, em 53 adultos](https://thewelfjournal.com.br/artigos/jejum-intermitente-nao-a-dieta-mediterranea-sozinha-derrubou-a-inflama/): Num ensaio com sorteio, 53 adultos com risco metabólico receberam dieta mediterrânea pronta por 8 semanas e a inflamação não mudou. Quando entraram dois dias de jejum por semana, a proteína C-reativa, marcador de inflamação, caiu no grupo mediterrâneo em relação ao grupo de comparação, junto com perda de peso maior.
 - [Anatomia em camadas: 9 entre o couro cabeludo e o cérebro, 3 na pele](https://thewelfjournal.com.br/artigos/anatomia-camadas-3d/): O couro cabeludo tem 5 camadas e, junto com o osso do crânio e as 3 membranas que envolvem o cérebro, são 9 camadas entre o fio de cabelo e o tecido cerebral. A fonte é um capítulo de anatomia descritiva do StatPearls, não um estudo com participantes. O líquor funciona como colchão para o cérebro.
 - [Leite e mortalidade: 29 estudos com 938 mil pessoas não acharam ligação](https://thewelfjournal.com.br/artigos/cr7-dieta-chef/): Uma meta-análise de 29 estudos de coorte, com 938 mil pessoas, não encontrou ligação entre leite e mais mortes, doença coronariana ou cardiovascular. Derivados fermentados, como queijo, tiveram associação pequena, de 2% menos risco cardiovascular por 10 gramas ao dia, que enfraqueceu quando um estudo sueco grande saiu da conta.
 - [Depressão com perfil circadiano: 23% dos pacientes e pior resposta a antidepressivos](https://thewelfjournal.com.br/artigos/subtipo-circadiano-de-depressao-23-dos-pacientes-e-pior-resposta-a-ant/): Num estudo observacional australiano, 2604 pessoas com depressão, 23% do grupo, tinham um subtipo ligado ao relógio biológico. Esse subtipo foi associado a início mais cedo, sintomas mais graves e pior resposta autorrelatada a dois grupos de antidepressivos. É um retrato num único momento e ainda precisa de replicação.
@@ -52,7 +53,6 @@
 - [17 a 19 horas sem dormir pioram o desempenho como 0,05% de álcool, em alguns testes](https://thewelfjournal.com.br/artigos/horas-acordado-desempenho/): Em um estudo com 39 pessoas, ficar de 17 a 19 horas sem dormir deixou o desempenho em alguns testes igual ou pior que com 0,05% de álcool no sangue. Algumas respostas ficaram até 50% mais lentas. É um estudo pequeno, e o resultado vale para falta total de sono.
 - [Dormir com luz no quarto foi associado a mais doenças do coração, em mais de 11 mil pessoas](https://thewelfjournal.com.br/artigos/luz-no-sono/): Quem dormia com mais luz no quarto foi associado a coração com formato e funcionamento um pouco piores, num estudo de coorte (observou pessoas ao longo do tempo) com mais de 11 mil britânicos. Em 8 a 10 anos, foi associado a mais infarto, derrame e insuficiência cardíaca. O estudo não prova que a luz seja o motivo.
 - [Gordura da medula óssea e perda de osso: o que um estudo em camundongos mostrou](https://thewelfjournal.com.br/artigos/osso-sting/): Um estudo em camundongos e em células de laboratório aponta que a gordura da medula óssea, com a idade, liga um alarme de inflamação chamado STING nas células de defesa vizinhas. Camundongos velhos sem esse alarme ficaram protegidos da perda de osso. Não há dado em pessoas.
-- [Café de manhã e risco de morte: o que 40.725 americanos mostraram](https://thewelfjournal.com.br/artigos/cafe-de-manha-risco-de-morte/): Em 40.725 adultos dos Estados Unidos acompanhados por quase dez anos, quem tomou café só de manhã foi associado a 13% menos risco de morte por qualquer causa e a 20% menos por doença cardiovascular. Entre quem espalhou o café pelo dia, não houve diferença clara. O estudo é observacional e não prova causa.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)
