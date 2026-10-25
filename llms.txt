@@ -12,7 +12,7 @@
 - [Saúde + Tech](https://thewelfjournal.com.br/editoria/saude-tech/): 1 artigo(s)
 - [Sono](https://thewelfjournal.com.br/editoria/sono/): 8 artigo(s)
 - [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 4 artigo(s)
-- [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 3 artigo(s)
+- [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 4 artigo(s)
 - [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 2 artigo(s)
 - [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 7 artigo(s)
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 1 artigo(s)
@@ -23,6 +23,7 @@
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [Taurina sobe com a idade e, em camundongos idosos, mais taurina veio com melhora](https://thewelfjournal.com.br/artigos/taurina-sobe-com-a-idade-e-em-camundongos-idosos-mais-taurina-melhorou/): Um estudo na revista Cell, de 2026, mostrou que a taurina no sangue sobe com a idade, em pessoas e camundongos. Em camundongos idosos, dar mais taurina foi acompanhado de melhor saúde e menor mortalidade por infecção generalizada. É pesquisa de animais e células, e ainda não prova efeito de suplemento em gente.
 - [Quais alimentos têm mais ferro por 100 g, segundo a tabela do USDA](https://thewelfjournal.com.br/artigos/ferro-por-tipo/): Por 100 g, a tabela do USDA registra 14,6 mg de ferro no gergelim seco, 13,9 mg no cacau em pó e 11,6 mg no fígado de frango cozido. O espinafre cozido tem 3,6 mg e o bife magro cozido, 3,3 mg, mas o corpo absorve pior o ferro de planta.
 - [Canetas GLP-1 e nervo do olho: 8,5 contra 5,5 casos por 10 mil em 18 meses](https://thewelfjournal.com.br/artigos/thb-canetas-olho/): Um estudo observacional com pessoas com diabetes tipo 2 associou o uso de GLP-1 a mais casos de falta de sangue no nervo do olho em 18 meses: 8,5 contra 5,5 por 10 mil. Os autores dizem que o risco absoluto segue muito baixo e que não dá para afirmar causa.
 - [Comer depois do jantar foi associado a doença hepática gordurosa e cirrose, diz estudo](https://thewelfjournal.com.br/artigos/thb-figado-comer-tarde/): Um estudo com dados de duas grandes coortes americanas, publicado em 2026 na Clinical Gastroenterology and Hepatology, mostrou que comer tarde da noite foi associado a doença hepática gordurosa e a cirrose. O estudo é observacional e não prova que o horário da refeição seja o motivo.
@@ -52,7 +53,6 @@
 - [Quanto o sono diminui a cada década de idade? Metanálise com 169 estudos mostra](https://thewelfjournal.com.br/artigos/sono-por-decada/): Uma metanálise de 169 estudos, com 5.273 adultos saudáveis, mostrou que o tempo total de sono caiu em média 10,1 minutos a cada década de idade, e o tempo acordado depois de dormir subiu 9,7 minutos. Sono profundo e a fase dos sonhos não mudaram de forma significativa.
 - [Antipsicótico: peso e açúcar no sangue sobem mais nos primeiros 90 dias de uso](https://thewelfjournal.com.br/artigos/antipsicotico-90-dias/): Num estudo inglês observacional com quase 97 mil adultos com transtornos mentais graves, o peso e o açúcar no sangue foram associados a uma subida rápida nos primeiros 90 dias de antipsicótico, e depois a ritmo mais lento. Os autores recomendam medir os dois antes de começar e perto de 12 semanas.
 - [Café após trombose: 1 a 2 xícaras por dia foram associadas a menos recaídas](https://thewelfjournal.com.br/artigos/cafe-trombose/): Num estudo de coorte norueguês com 2.071 pessoas que já tiveram trombose venosa, tomar 1 a 2 xícaras de café por dia foi associado a risco 51% menor de nova trombose, comparado a não tomar café. Com mais de 6 xícaras, a diferença não ficou clara. O estudo não prova que o café proteja.
-- [Dor crônica pode ficar escondida em casos de depressão resistente, diz artigo](https://thewelfjournal.com.br/artigos/dor-depressao-refrataria/): Uma análise crítica publicada na Nature Mental Health em 2026 argumenta que as escalas usadas para medir depressão não perguntam sobre dor crônica. Segundo os autores, isso pode esconder dor em casos tratados como depressão resistente. Não é ensaio nem coorte e não traz dado novo: propõe uma pergunta de pesquisa.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)
