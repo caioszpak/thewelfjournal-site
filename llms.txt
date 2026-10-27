@@ -10,7 +10,7 @@
 ## Por editoria
 - [Saúde](https://thewelfjournal.com.br/editoria/saude/): 3 artigo(s)
 - [Saúde + Tech](https://thewelfjournal.com.br/editoria/saude-tech/): 1 artigo(s)
-- [Sono](https://thewelfjournal.com.br/editoria/sono/): 8 artigo(s)
+- [Sono](https://thewelfjournal.com.br/editoria/sono/): 9 artigo(s)
 - [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 4 artigo(s)
 - [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 4 artigo(s)
 - [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 2 artigo(s)
@@ -23,6 +23,7 @@
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [CBN em camundongos: tolerância e sinais de abstinência após cinco dias](https://thewelfjournal.com.br/artigos/goma-de-cannabis-para-dormir-cbn-causou-tolerancia-e-abstinencia-em-ca/): Em camundongos, o canabinol (CBN), composto que aparece em gomas para dormir, gerou tolerância em vários efeitos após cinco dias de doses duas vezes ao dia. Ao bloquear o receptor canabinoide, surgiram sinais de abstinência. É um estudo em animais: não testou sono nem pessoas.
 - [Omeprazol ou pantoprazol: ensaio com 669 pessoas viu cura igual na esofagite](https://thewelfjournal.com.br/artigos/omeprazol-vs-pantoprazol/): Em um ensaio randomizado com 669 pessoas com esofagite de refluxo moderada a grave, pantoprazol 40 mg e omeprazol 40 mg cicatrizaram o esôfago em taxas equivalentes, após 4 e 8 semanas. A diferença prática aparece fora do refluxo: interação com outros remédios e dose por miligrama, que o ensaio não testou.
 - [Taurina sobe com a idade e, em camundongos idosos, mais taurina veio com melhora](https://thewelfjournal.com.br/artigos/taurina-sobe-com-a-idade-e-em-camundongos-idosos-mais-taurina-melhorou/): Um estudo na revista Cell, de 2026, mostrou que a taurina no sangue sobe com a idade, em pessoas e camundongos. Em camundongos idosos, dar mais taurina foi acompanhado de melhor saúde e menor mortalidade por infecção generalizada. É pesquisa de animais e células, e ainda não prova efeito de suplemento em gente.
 - [Quais alimentos têm mais ferro por 100 g, segundo a tabela do USDA](https://thewelfjournal.com.br/artigos/ferro-por-tipo/): Por 100 g, a tabela do USDA registra 14,6 mg de ferro no gergelim seco, 13,9 mg no cacau em pó e 11,6 mg no fígado de frango cozido. O espinafre cozido tem 3,6 mg e o bife magro cozido, 3,3 mg, mas o corpo absorve pior o ferro de planta.
@@ -52,7 +53,6 @@
 - [FDA aprova Anktiva com BCG para câncer de bexiga que não respondeu ao BCG](https://thewelfjournal.com.br/artigos/fda-bexiga-anktiva/): Em 14 de outubro de 2026, a FDA, agência de medicamentos dos Estados Unidos, ampliou a aprovação do Anktiva, usado junto com BCG, para adultos com câncer de bexiga papilar de alto grau que não respondeu ao BCG. É o primeiro tratamento aprovado especificamente para esse grupo.
 - [Alimentos com mais potássio: ranking do USDA em miligramas por 100 gramas](https://thewelfjournal.com.br/artigos/potassio-por-tipo/): Pela tabela do USDA, o departamento de agricultura dos Estados Unidos, o pistache cru lidera castanhas e sementes, com 1.025 mg de potássio por 100 g. Para adultos, os institutos americanos de saúde recomendam 2.600 mg por dia para mulheres e 3.400 mg para homens. Uma banana média tem cerca de 422 mg.
 - [Quanto o sono diminui a cada década de idade? Metanálise com 169 estudos mostra](https://thewelfjournal.com.br/artigos/sono-por-decada/): Uma metanálise de 169 estudos, com 5.273 adultos saudáveis, mostrou que o tempo total de sono caiu em média 10,1 minutos a cada década de idade, e o tempo acordado depois de dormir subiu 9,7 minutos. Sono profundo e a fase dos sonhos não mudaram de forma significativa.
-- [Antipsicótico: peso e açúcar no sangue sobem mais nos primeiros 90 dias de uso](https://thewelfjournal.com.br/artigos/antipsicotico-90-dias/): Num estudo inglês observacional com quase 97 mil adultos com transtornos mentais graves, o peso e o açúcar no sangue foram associados a uma subida rápida nos primeiros 90 dias de antipsicótico, e depois a ritmo mais lento. Os autores recomendam medir os dois antes de começar e perto de 12 semanas.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)
