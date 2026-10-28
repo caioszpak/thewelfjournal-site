@@ -8,7 +8,7 @@
 - [Sobre](https://thewelfjournal.com.br/sobre/): quem faz o The Welf Journal
 
 ## Por editoria
-- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 8 artigo(s)
+- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 9 artigo(s)
 - [Saúde + Tech](https://thewelfjournal.com.br/editoria/saude-tech/): 1 artigo(s)
 - [Sono](https://thewelfjournal.com.br/editoria/sono/): 11 artigo(s)
 - [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 8 artigo(s)
@@ -18,12 +18,15 @@
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 2 artigo(s)
 - [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 6 artigo(s)
 - [Como Funciona](https://thewelfjournal.com.br/editoria/como-funciona/): 6 artigo(s)
-- [Pesquisa](https://thewelfjournal.com.br/editoria/pesquisa/): 2 artigo(s)
+- [Pesquisa](https://thewelfjournal.com.br/editoria/pesquisa/): 4 artigo(s)
 - [Notícias](https://thewelfjournal.com.br/editoria/noticias/): 7 artigo(s)
 - [Cérebro & Comportamento](https://thewelfjournal.com.br/editoria/cerebro-comportamento/): 2 artigo(s)
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 
 ## Artigos recentes
+- [14 doses de álcool por semana: 1 em 25 de risco de morte ligada à bebida, estima estudo](https://thewelfjournal.com.br/artigos/duas-doses-de-alcool-por-dia-ja-elevam-o-risco-de-morte-por-causas-lig/): Um estudo americano estimou o risco de morrer por problemas ligados ao álcool ao longo da vida. Com 14 doses por semana, o risco foi de 1 em 25, ou 4%. Não houve efeito protetor em doses baixas. É um modelo estatístico com dados de pesquisas nacionais, não um acompanhamento de pessoas.
+- [Sacituzumabe tirumotecano reduz risco de morte em um terço no câncer de endométrio](https://thewelfjournal.com.br/artigos/sacituzumabe-tirumotecano-reduz-risco-de-morte-em-um-terco-no-cancer-d/): Num ensaio clínico randomizado com 776 pacientes com câncer de endométrio avançado ou recorrente, o sacituzumabe tirumotecano foi comparado à quimioterapia escolhida pelo médico. Ele reduziu o risco de morte em cerca de um terço e alongou o tempo sem progressão da doença. Efeitos graves foram mais frequentes.
+- [Tarlatamabe com durvalumabe prolonga a vida no câncer de pulmão de pequenas células](https://thewelfjournal.com.br/artigos/tarlatamabe-com-durvalumabe-como-manutencao-prolonga-a-vida-no-cancer/): Num ensaio clínico randomizado com 563 pacientes com câncer de pulmão de pequenas células em estágio extenso, a manutenção com tarlatamabe e durvalumabe prolongou a sobrevida em relação ao durvalumabe sozinho. O tempo sem progressão da doença também foi maior. Efeitos adversos graves foram um pouco mais frequentes.
 - [Doença cardiovascular a cada 72 segundos: o que o Cardiômetro mostra](https://thewelfjournal.com.br/artigos/20261026-cardio-72s/): A Sociedade Brasileira de Cardiologia e a World Heart Federation lançaram em 2026 o Hub de Doenças Cardiovasculares, com o Cardiômetro, que traz o dado de uma doença cardiovascular a cada 72 segundos. A projeção para 2030 é um cenário que depende da tendência das últimas duas décadas.
 - [Sete conselhos para estudar Medicina, em post inspirado no Prof. Porto](https://thewelfjournal.com.br/artigos/estude-medicina-celmo/): O post reúne sete conselhos para quem estuda Medicina ou já atua há tempo, inspirados em um post do Prof. Porto. A legenda cita ouvir primeiro, estudar para cuidar, aceitar o 'não sei' e lembrar que do outro lado há uma pessoa. Não há estudo por trás: é opinião de um professor.
 - [Fibras alimentares: os dois tipos, onde achar e o que mostram os estudos](https://thewelfjournal.com.br/artigos/fibras-10-slides/): Fibra solúvel vira gel e ajuda no colesterol e na glicose; a insolúvel dá volume ao intestino. Uma análise no Lancet, observacional, associou mais fibra a menos doença do coração, diabetes tipo 2 e câncer de intestino, com maior ganho entre 25 e 29 gramas por dia. A recomendação costuma ficar entre 21 e 38 gramas.
@@ -51,9 +54,6 @@
 - [Anti-hipertensivos em 60 segundos: 5 classes, macetes de nome e efeitos comuns](https://thewelfjournal.com.br/artigos/anti-hipertensivos-60s/): O post resume cinco classes de remédio para pressão alta, cada uma com um macete no nome, como -pril e -sartana. O texto é editorial, sem estudo único, e se apoia em diretriz europeia de 2023, bulas e uma revisão. Quem usa esses remédios não deve trocar nem parar sem falar com o médico.
 - [MHRA reforça avisos de antidepressivos na bula no Reino Unido](https://thewelfjournal.com.br/artigos/antidepressivos-mhra/): A agência reguladora britânica, a MHRA, anunciou em 15/10 novas medidas para antidepressivos: aviso em caixa na bula sobre pensamentos suicidas, cartão do paciente, folheto de segurança a partir de 2027 e o termo disfunção sexual pós-ISRS na bula de 10 remédios. A agência diz que quer dar mais clareza, não afastar quem precisa de tratamento.
 - [AVC ficou mais comum em adultos de 20 a 54 anos numa região dos EUA](https://thewelfjournal.com.br/artigos/avc-jovens/): Pesquisadores acompanharam os AVCs, os derrames, internados na região de Cincinnati, nos EUA, entre 1993 e 2020. Foram 2.076 primeiros AVCs em adultos de 20 a 54 anos, faixa em que o AVC ficou mais comum, enquanto entre os mais velhos ficou menos comum. É um estudo observacional: mostra o padrão, sem provar a causa.
-- [Camadas do braço, da unha e do pé: o que cada uma faz no corpo](https://thewelfjournal.com.br/artigos/camadas-anatomia-3d/): O braço tem sete camadas empilhadas: pele, gordura, músculos superficiais, músculos profundos, vasos e nervos, ligamentos e ossos. A unha e o pé têm cinco cada. É um esquema didático da anatomia padrão, feito com ilustrações geradas por inteligência artificial, e simplifica o que na vida real se mistura.
-- [Canetas GLP-1 e neuropatia óptica isquêmica: o que o estudo de Rutgers mostrou](https://thewelfjournal.com.br/artigos/caneta-olho-visao/): Um estudo de Rutgers associou as canetas GLP-1 a mais casos de neuropatia óptica isquêmica, quando o nervo do olho fica sem sangue e a visão cai de repente. Em 18 meses, o risco foi de 8,5 por 10 mil com a caneta contra 5,5 com outro remédio para diabetes. Os autores dizem que não prova causa.
-- [Cefalosporinas: como descobrir a geração pela letra depois de CEF](https://thewelfjournal.com.br/artigos/cefalosporinas-geracao/): A letra depois de CEF indica a geração da cefalosporina, um antibiótico: A é primeira, O ou U é segunda, T é terceira, cefepima é a quarta e final ROL marca a quinta. É um macete de memória, não critério oficial. Quanto mais alta a geração, mais bactérias gram-negativas ela alcança, mas isso não quer dizer melhor.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)
