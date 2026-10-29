@@ -1,337 +1,403 @@
 {
- "especialidades/cardiologia.jpg": {
-  "fotografo": "Puwadon Sang-ngern",
-  "pagina": "https://www.pexels.com/photo/crop-woman-with-stethoscope-and-heart-5340274/",
-  "fonte": "Pexels"
- },
- "especialidades/cardiologia-2.jpg": {
-  "fotografo": "https://kaboompics.com/",
-  "pagina": "https://www.pexels.com/photo/part-of-a-person-with-a-stethoscope-5207102/",
-  "fonte": "Pexels"
- },
- "especialidades/dermatologia.jpg": {
-  "fotografo": "KATRIN  BOLOVTSOVA",
-  "pagina": "https://www.pexels.com/photo/woman-in-white-robe-massaging-her-face-4672661/",
-  "fonte": "Pexels"
- },
- "especialidades/dermatologia-2.jpg": {
-  "fotografo": "Sora Shimazaki",
-  "pagina": "https://www.pexels.com/photo/crop-ethnic-woman-touching-cheek-against-mirror-at-home-5938260/",
-  "fonte": "Pexels"
- },
- "especialidades/endocrinologia.jpg": {
-  "fotografo": "Arunangshu Banerjee",
-  "pagina": "https://www.pexels.com/photo/digital-glucometer-and-lancing-device-on-wooden-surface-33200680/",
-  "fonte": "Pexels"
- },
- "especialidades/endocrinologia-2.jpg": {
-  "fotografo": "Towfiqu barbhuiya",
-  "pagina": "https://www.pexels.com/photo/close-up-of-person-using-a-blood-glucose-monitor-11391942/",
-  "fonte": "Pexels"
- },
- "especialidades/gastroenterologia.jpg": {
-  "fotografo": "Valeria Boltneva",
-  "pagina": "https://www.pexels.com/photo/bowl-of-salad-1484522/",
-  "fonte": "Pexels"
- },
- "especialidades/gastroenterologia-2.jpg": {
-  "fotografo": "Kampus Production",
-  "pagina": "https://www.pexels.com/photo/assorted-vegetables-in-brown-wooden-bowl-6670133/",
-  "fonte": "Pexels"
- },
- "especialidades/geriatria.jpg": {
-  "fotografo": "Vlada Karpovich",
-  "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
-  "fonte": "Pexels"
- },
- "especialidades/geriatria-2.jpg": {
-  "fotografo": "Yan Krukau",
-  "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
-  "fonte": "Pexels"
- },
- "especialidades/ginecologia-e-obstetricia.jpg": {
-  "fotografo": "RDNE Stock project",
-  "pagina": "https://www.pexels.com/photo/a-pregnant-woman-wearing-cap-9214910/",
-  "fonte": "Pexels"
- },
- "especialidades/ginecologia-e-obstetricia-2.jpg": {
-  "fotografo": "Ivan S",
-  "pagina": "https://www.pexels.com/photo/a-pregnant-woman-holding-an-apple-7990372/",
-  "fonte": "Pexels"
- },
- "especialidades/hepatologia.jpg": {
-  "fotografo": "https://kaboompics.com/",
-  "pagina": "https://www.pexels.com/photo/glass-tubes-with-colorful-liquids-on-table-4226902/",
-  "fonte": "Pexels"
- },
- "especialidades/hepatologia-2.jpg": {
-  "fotografo": "Gustavo Fring",
-  "pagina": "https://www.pexels.com/photo/person-holding-test-tube-rack-4149031/",
-  "fonte": "Pexels"
- },
- "especialidades/infectologia.jpg": {
-  "fotografo": "Tima Miroshnichenko",
-  "pagina": "https://www.pexels.com/photo/a-scientist-using-microscope-9574403/",
-  "fonte": "Pexels"
- },
- "especialidades/infectologia-2.jpg": {
-  "fotografo": "Tima Miroshnichenko",
-  "pagina": "https://www.pexels.com/photo/a-white-microscope-9574397/",
-  "fonte": "Pexels"
- },
- "especialidades/medicina-de-familia.jpg": {
-  "fotografo": "cottonbro studio",
-  "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
-  "fonte": "Pexels"
- },
- "especialidades/medicina-de-familia-2.jpg": {
-  "fotografo": "Cedric Fauntleroy",
-  "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
-  "fonte": "Pexels"
- },
- "especialidades/medicina-do-esporte.jpg": {
-  "fotografo": "Gustavo Fring",
-  "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
-  "fonte": "Pexels"
- },
- "especialidades/medicina-do-esporte-2.jpg": {
-  "fotografo": "Yaroslav Shuraev",
-  "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
-  "fonte": "Pexels"
- },
- "especialidades/medicina-do-sono.jpg": {
-  "fotografo": "Nitin Khajotia",
-  "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
-  "fonte": "Pexels"
- },
- "especialidades/medicina-do-sono-2.jpg": {
-  "fotografo": "cottonbro studio",
-  "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
-  "fonte": "Pexels"
- },
- "especialidades/neurologia.jpg": {
-  "fotografo": "Anna Shvets",
-  "pagina": "https://www.pexels.com/photo/a-doctor-holding-an-mri-result-of-the-brain-4226219/",
-  "fonte": "Pexels"
- },
- "especialidades/neurologia-2.jpg": {
-  "fotografo": "cottonbro studio",
-  "pagina": "https://www.pexels.com/photo/mri-images-of-the-brain-5723883/",
-  "fonte": "Pexels"
- },
- "especialidades/nutrologia.jpg": {
-  "fotografo": "Valeria Boltneva",
-  "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
-  "fonte": "Pexels"
- },
- "especialidades/nutrologia-2.jpg": {
-  "fotografo": "Nataliya Vaitkevich",
-  "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
-  "fonte": "Pexels"
- },
- "especialidades/oncologia.jpg": {
-  "fotografo": "Mikhail Nilov",
-  "pagina": "https://www.pexels.com/photo/scientist-looking-through-microscope-8851548/",
-  "fonte": "Pexels"
- },
- "especialidades/oncologia-2.jpg": {
-  "fotografo": "Zakir Rushanly",
-  "pagina": "https://www.pexels.com/photo/a-woman-wearing-a-lab-coat-in-a-laboratory-11811080/",
-  "fonte": "Pexels"
- },
- "especialidades/ortopedia.jpg": {
-  "fotografo": "Yan Krukau",
-  "pagina": "https://www.pexels.com/photo/physiotherapist-holding-womans-leg-5793895/",
-  "fonte": "Pexels"
- },
- "especialidades/ortopedia-2.jpg": {
-  "fotografo": "Kampus Production",
-  "pagina": "https://www.pexels.com/photo/a-woman-in-gray-tank-top-working-out-in-the-gym-6111610/",
-  "fonte": "Pexels"
- },
- "especialidades/pediatria.jpg": {
-  "fotografo": "Pavel Danilyuk",
-  "pagina": "https://www.pexels.com/photo/doctor-in-white-lab-coat-examining-girl-s-breath-5998445/",
-  "fonte": "Pexels"
- },
- "especialidades/pediatria-2.jpg": {
-  "fotografo": "Tahir Xəlfəquliyev",
-  "pagina": "https://www.pexels.com/photo/optometrist-performing-eye-exam-on-child-33029347/",
-  "fonte": "Pexels"
- },
- "especialidades/psiquiatria.jpg": {
-  "fotografo": "Alena Darmel",
-  "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
-  "fonte": "Pexels"
- },
- "especialidades/psiquiatria-2.jpg": {
-  "fotografo": "Andrea Piacquadio",
-  "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
-  "fonte": "Pexels"
- },
- "especialidades/urologia.jpg": {
-  "fotografo": "MART  PRODUCTION",
-  "pagina": "https://www.pexels.com/photo/hands-doctor-health-anonymous-7088834/",
-  "fonte": "Pexels"
- },
- "especialidades/urologia-2.jpg": {
-  "fotografo": "Los Muertos Crew",
-  "pagina": "https://www.pexels.com/photo/a-patient-at-a-doctor-s-office-8460095/",
-  "fonte": "Pexels"
- },
- "especialidades/geral.jpg": {
-  "fotografo": "Edward Jenner",
-  "pagina": "https://www.pexels.com/photo/female-laboratory-scientist-looking-at-a-microscope-4031525/",
-  "fonte": "Pexels"
- },
- "especialidades/geral-2.jpg": {
-  "fotografo": "https://kaboompics.com/",
-  "pagina": "https://www.pexels.com/photo/glassware-with-colorful-liquid-substances-on-a-lab-desk-8540819/",
-  "fonte": "Pexels"
- },
- "artigos/anabolizante-coracao-oslo.jpg": {
-  "fotografo": "Tima Miroshnichenko",
-  "pagina": "https://www.pexels.com/photo/a-man-working-out-using-dumbbells-5327471/",
-  "fonte": "Pexels"
- },
- "artigos/cafe-de-manha-risco-de-morte.jpg": {
-  "fotografo": "Duygu  M",
-  "pagina": "https://www.pexels.com/photo/a-close-up-shot-of-a-cup-of-coffee-12125694/",
-  "fonte": "Pexels"
- },
- "artigos/creatina-12-semanas.jpg": {
-  "fotografo": "Vlada Karpovich",
-  "pagina": "https://www.pexels.com/photo/a-person-scooping-powder-from-a-jar-6944061/",
-  "fonte": "Pexels"
- },
- "artigos/musculacao-memoria-idosos.jpg": {
-  "fotografo": "Kampus Production",
-  "pagina": "https://www.pexels.com/photo/elderly-man-in-red-shirt-working-out-in-the-gym-6922172/",
-  "fonte": "Pexels"
- },
- "artigos/cafe-trombose.jpg": {
-  "fotografo": "Nur Boyacı",
-  "pagina": "https://www.pexels.com/photo/foamy-coffee-in-a-ceramic-cup-from-above-35061739/",
-  "fonte": "Pexels"
- },
- "artigos/luz-no-sono.jpg": {
-  "fotografo": "SHVETS production",
-  "pagina": "https://www.pexels.com/photo/woman-lying-on-bed-while-using-a-cellphone-8036688/",
-  "fonte": "Pexels"
- },
- "artigos/antipsicotico-90-dias.jpg": {
-  "fotografo": "MART  PRODUCTION",
-  "pagina": "https://www.pexels.com/photo/close-up-shot-of-softgel-capsules-7277984/",
-  "fonte": "Pexels"
- },
- "artigos/dor-depressao-refrataria.jpg": {
-  "fotografo": "Nam Phong Bùi",
-  "pagina": "https://www.pexels.com/photo/photo-of-woman-wearing-eyeglasses-2498128/",
-  "fonte": "Pexels"
- },
- "artigos/dor-musculo-nervo.jpg": {
-  "fotografo": "https://kaboompics.com/",
-  "pagina": "https://www.pexels.com/photo/woman-touching-her-back-4506105/",
-  "fonte": "Pexels"
- },
- "artigos/forma-fisica-35-anos.jpg": {
-  "fotografo": "Liliana Drew",
-  "pagina": "https://www.pexels.com/photo/man-in-orange-crew-neck-t-shirt-running-8498120/",
-  "fonte": "Pexels"
- },
- "artigos/horas-acordado.jpg": {
-  "fotografo": "cottonbro studio",
-  "pagina": "https://www.pexels.com/photo/pretty-woman-covering-her-eyes-9063388/",
-  "fonte": "Pexels"
- },
- "artigos/osso-sting.jpg": {
-  "fotografo": "cottonbro studio",
-  "pagina": "https://www.pexels.com/photo/x-ray-of-the-hands-5723885/",
-  "fonte": "Pexels"
- },
- "editorias/saude-tech.jpg": {
-  "fotografo": "MART  PRODUCTION",
-  "pagina": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-smartwatch-8032913/",
-  "fonte": "Pexels"
- },
- "editorias/canetas-emagrecedoras.jpg": {
-  "fotografo": "Haberdoedas Photography",
-  "pagina": "https://www.pexels.com/photo/close-up-of-semaglutide-injection-pen-on-surface-32532049/",
-  "fonte": "Pexels"
- },
- "editorias/mercado-de-saude.jpg": {
-  "fotografo": "World Sikh Organization of Canada",
-  "pagina": "https://www.pexels.com/photo/pharmacist-in-front-of-shelves-with-medicines-14797855/",
-  "fonte": "Pexels"
- },
- "artigos/canetas-sem-registro.jpg": {
-  "fotografo": "Pavel Danilyuk",
-  "pagina": "https://www.pexels.com/photo/a-woman-holding-an-insulin-injection-pen-7653692/",
-  "fonte": "Pexels"
- },
- "artigos/potassio-por-tipo.jpg": {
-  "fotografo": "Engin Akyurt",
-  "pagina": "https://www.pexels.com/photo/close-up-shot-of-yellow-banana-10112720/",
-  "fonte": "Pexels"
- },
- "editorias/saude.jpg": {
-  "fotografo": "cottonbro studio",
-  "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
-  "fonte": "Pexels"
- },
- "editorias/saude-2.jpg": {
-  "fotografo": "Cedric Fauntleroy",
-  "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
-  "fonte": "Pexels"
- },
- "editorias/sono.jpg": {
-  "fotografo": "Nitin Khajotia",
-  "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
-  "fonte": "Pexels"
- },
- "editorias/sono-2.jpg": {
-  "fotografo": "cottonbro studio",
-  "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
-  "fonte": "Pexels"
- },
- "editorias/longevidade.jpg": {
-  "fotografo": "Vlada Karpovich",
-  "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
-  "fonte": "Pexels"
- },
- "editorias/longevidade-2.jpg": {
-  "fotografo": "Yan Krukau",
-  "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
-  "fonte": "Pexels"
- },
- "editorias/nutricao.jpg": {
-  "fotografo": "Valeria Boltneva",
-  "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
-  "fonte": "Pexels"
- },
- "editorias/nutricao-2.jpg": {
-  "fotografo": "Nataliya Vaitkevich",
-  "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
-  "fonte": "Pexels"
- },
- "editorias/performance.jpg": {
-  "fotografo": "Gustavo Fring",
-  "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
-  "fonte": "Pexels"
- },
- "editorias/performance-2.jpg": {
-  "fotografo": "Yaroslav Shuraev",
-  "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
-  "fonte": "Pexels"
- },
- "editorias/saude-mental.jpg": {
-  "fotografo": "Alena Darmel",
-  "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
-  "fonte": "Pexels"
- },
- "editorias/saude-mental-2.jpg": {
-  "fotografo": "Andrea Piacquadio",
-  "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
-  "fonte": "Pexels"
- }
+  "especialidades/cardiologia.jpg": {
+    "fotografo": "Puwadon Sang-ngern",
+    "pagina": "https://www.pexels.com/photo/crop-woman-with-stethoscope-and-heart-5340274/",
+    "fonte": "Pexels"
+  },
+  "especialidades/cardiologia-2.jpg": {
+    "fotografo": "https://kaboompics.com/",
+    "pagina": "https://www.pexels.com/photo/part-of-a-person-with-a-stethoscope-5207102/",
+    "fonte": "Pexels"
+  },
+  "especialidades/dermatologia.jpg": {
+    "fotografo": "KATRIN  BOLOVTSOVA",
+    "pagina": "https://www.pexels.com/photo/woman-in-white-robe-massaging-her-face-4672661/",
+    "fonte": "Pexels"
+  },
+  "especialidades/dermatologia-2.jpg": {
+    "fotografo": "Sora Shimazaki",
+    "pagina": "https://www.pexels.com/photo/crop-ethnic-woman-touching-cheek-against-mirror-at-home-5938260/",
+    "fonte": "Pexels"
+  },
+  "especialidades/endocrinologia.jpg": {
+    "fotografo": "Arunangshu Banerjee",
+    "pagina": "https://www.pexels.com/photo/digital-glucometer-and-lancing-device-on-wooden-surface-33200680/",
+    "fonte": "Pexels"
+  },
+  "especialidades/endocrinologia-2.jpg": {
+    "fotografo": "Towfiqu barbhuiya",
+    "pagina": "https://www.pexels.com/photo/close-up-of-person-using-a-blood-glucose-monitor-11391942/",
+    "fonte": "Pexels"
+  },
+  "especialidades/gastroenterologia.jpg": {
+    "fotografo": "Valeria Boltneva",
+    "pagina": "https://www.pexels.com/photo/bowl-of-salad-1484522/",
+    "fonte": "Pexels"
+  },
+  "especialidades/gastroenterologia-2.jpg": {
+    "fotografo": "Kampus Production",
+    "pagina": "https://www.pexels.com/photo/assorted-vegetables-in-brown-wooden-bowl-6670133/",
+    "fonte": "Pexels"
+  },
+  "especialidades/geriatria.jpg": {
+    "fotografo": "Vlada Karpovich",
+    "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
+    "fonte": "Pexels"
+  },
+  "especialidades/geriatria-2.jpg": {
+    "fotografo": "Yan Krukau",
+    "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
+    "fonte": "Pexels"
+  },
+  "especialidades/ginecologia-e-obstetricia.jpg": {
+    "fotografo": "RDNE Stock project",
+    "pagina": "https://www.pexels.com/photo/a-pregnant-woman-wearing-cap-9214910/",
+    "fonte": "Pexels"
+  },
+  "especialidades/ginecologia-e-obstetricia-2.jpg": {
+    "fotografo": "Ivan S",
+    "pagina": "https://www.pexels.com/photo/a-pregnant-woman-holding-an-apple-7990372/",
+    "fonte": "Pexels"
+  },
+  "especialidades/hepatologia.jpg": {
+    "fotografo": "https://kaboompics.com/",
+    "pagina": "https://www.pexels.com/photo/glass-tubes-with-colorful-liquids-on-table-4226902/",
+    "fonte": "Pexels"
+  },
+  "especialidades/hepatologia-2.jpg": {
+    "fotografo": "Gustavo Fring",
+    "pagina": "https://www.pexels.com/photo/person-holding-test-tube-rack-4149031/",
+    "fonte": "Pexels"
+  },
+  "especialidades/infectologia.jpg": {
+    "fotografo": "Tima Miroshnichenko",
+    "pagina": "https://www.pexels.com/photo/a-scientist-using-microscope-9574403/",
+    "fonte": "Pexels"
+  },
+  "especialidades/infectologia-2.jpg": {
+    "fotografo": "Tima Miroshnichenko",
+    "pagina": "https://www.pexels.com/photo/a-white-microscope-9574397/",
+    "fonte": "Pexels"
+  },
+  "especialidades/medicina-de-familia.jpg": {
+    "fotografo": "cottonbro studio",
+    "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
+    "fonte": "Pexels"
+  },
+  "especialidades/medicina-de-familia-2.jpg": {
+    "fotografo": "Cedric Fauntleroy",
+    "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
+    "fonte": "Pexels"
+  },
+  "especialidades/medicina-do-esporte.jpg": {
+    "fotografo": "Gustavo Fring",
+    "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
+    "fonte": "Pexels"
+  },
+  "especialidades/medicina-do-esporte-2.jpg": {
+    "fotografo": "Yaroslav Shuraev",
+    "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
+    "fonte": "Pexels"
+  },
+  "especialidades/medicina-do-sono.jpg": {
+    "fotografo": "Nitin Khajotia",
+    "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
+    "fonte": "Pexels"
+  },
+  "especialidades/medicina-do-sono-2.jpg": {
+    "fotografo": "cottonbro studio",
+    "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
+    "fonte": "Pexels"
+  },
+  "especialidades/neurologia.jpg": {
+    "fotografo": "Anna Shvets",
+    "pagina": "https://www.pexels.com/photo/a-doctor-holding-an-mri-result-of-the-brain-4226219/",
+    "fonte": "Pexels"
+  },
+  "especialidades/neurologia-2.jpg": {
+    "fotografo": "cottonbro studio",
+    "pagina": "https://www.pexels.com/photo/mri-images-of-the-brain-5723883/",
+    "fonte": "Pexels"
+  },
+  "especialidades/nutrologia.jpg": {
+    "fotografo": "Valeria Boltneva",
+    "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
+    "fonte": "Pexels"
+  },
+  "especialidades/nutrologia-2.jpg": {
+    "fotografo": "Nataliya Vaitkevich",
+    "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
+    "fonte": "Pexels"
+  },
+  "especialidades/oncologia.jpg": {
+    "fotografo": "Mikhail Nilov",
+    "pagina": "https://www.pexels.com/photo/scientist-looking-through-microscope-8851548/",
+    "fonte": "Pexels"
+  },
+  "especialidades/oncologia-2.jpg": {
+    "fotografo": "Zakir Rushanly",
+    "pagina": "https://www.pexels.com/photo/a-woman-wearing-a-lab-coat-in-a-laboratory-11811080/",
+    "fonte": "Pexels"
+  },
+  "especialidades/ortopedia.jpg": {
+    "fotografo": "Yan Krukau",
+    "pagina": "https://www.pexels.com/photo/physiotherapist-holding-womans-leg-5793895/",
+    "fonte": "Pexels"
+  },
+  "especialidades/ortopedia-2.jpg": {
+    "fotografo": "Kampus Production",
+    "pagina": "https://www.pexels.com/photo/a-woman-in-gray-tank-top-working-out-in-the-gym-6111610/",
+    "fonte": "Pexels"
+  },
+  "especialidades/pediatria.jpg": {
+    "fotografo": "Pavel Danilyuk",
+    "pagina": "https://www.pexels.com/photo/doctor-in-white-lab-coat-examining-girl-s-breath-5998445/",
+    "fonte": "Pexels"
+  },
+  "especialidades/pediatria-2.jpg": {
+    "fotografo": "Tahir Xəlfəquliyev",
+    "pagina": "https://www.pexels.com/photo/optometrist-performing-eye-exam-on-child-33029347/",
+    "fonte": "Pexels"
+  },
+  "especialidades/psiquiatria.jpg": {
+    "fotografo": "Alena Darmel",
+    "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
+    "fonte": "Pexels"
+  },
+  "especialidades/psiquiatria-2.jpg": {
+    "fotografo": "Andrea Piacquadio",
+    "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
+    "fonte": "Pexels"
+  },
+  "especialidades/urologia.jpg": {
+    "fotografo": "MART  PRODUCTION",
+    "pagina": "https://www.pexels.com/photo/hands-doctor-health-anonymous-7088834/",
+    "fonte": "Pexels"
+  },
+  "especialidades/urologia-2.jpg": {
+    "fotografo": "Los Muertos Crew",
+    "pagina": "https://www.pexels.com/photo/a-patient-at-a-doctor-s-office-8460095/",
+    "fonte": "Pexels"
+  },
+  "especialidades/geral.jpg": {
+    "fotografo": "Edward Jenner",
+    "pagina": "https://www.pexels.com/photo/female-laboratory-scientist-looking-at-a-microscope-4031525/",
+    "fonte": "Pexels"
+  },
+  "especialidades/geral-2.jpg": {
+    "fotografo": "https://kaboompics.com/",
+    "pagina": "https://www.pexels.com/photo/glassware-with-colorful-liquid-substances-on-a-lab-desk-8540819/",
+    "fonte": "Pexels"
+  },
+  "artigos/anabolizante-coracao-oslo.jpg": {
+    "fotografo": "Tima Miroshnichenko",
+    "pagina": "https://www.pexels.com/photo/a-man-working-out-using-dumbbells-5327471/",
+    "fonte": "Pexels"
+  },
+  "artigos/cafe-de-manha-risco-de-morte.jpg": {
+    "fotografo": "Duygu  M",
+    "pagina": "https://www.pexels.com/photo/a-close-up-shot-of-a-cup-of-coffee-12125694/",
+    "fonte": "Pexels"
+  },
+  "artigos/creatina-12-semanas.jpg": {
+    "fotografo": "Vlada Karpovich",
+    "pagina": "https://www.pexels.com/photo/a-person-scooping-powder-from-a-jar-6944061/",
+    "fonte": "Pexels"
+  },
+  "artigos/musculacao-memoria-idosos.jpg": {
+    "fotografo": "Kampus Production",
+    "pagina": "https://www.pexels.com/photo/elderly-man-in-red-shirt-working-out-in-the-gym-6922172/",
+    "fonte": "Pexels"
+  },
+  "artigos/cafe-trombose.jpg": {
+    "fotografo": "Nur Boyacı",
+    "pagina": "https://www.pexels.com/photo/foamy-coffee-in-a-ceramic-cup-from-above-35061739/",
+    "fonte": "Pexels"
+  },
+  "artigos/luz-no-sono.jpg": {
+    "fotografo": "SHVETS production",
+    "pagina": "https://www.pexels.com/photo/woman-lying-on-bed-while-using-a-cellphone-8036688/",
+    "fonte": "Pexels"
+  },
+  "artigos/antipsicotico-90-dias.jpg": {
+    "fotografo": "MART  PRODUCTION",
+    "pagina": "https://www.pexels.com/photo/close-up-shot-of-softgel-capsules-7277984/",
+    "fonte": "Pexels"
+  },
+  "artigos/dor-depressao-refrataria.jpg": {
+    "fotografo": "Nam Phong Bùi",
+    "pagina": "https://www.pexels.com/photo/photo-of-woman-wearing-eyeglasses-2498128/",
+    "fonte": "Pexels"
+  },
+  "artigos/dor-musculo-nervo.jpg": {
+    "fotografo": "https://kaboompics.com/",
+    "pagina": "https://www.pexels.com/photo/woman-touching-her-back-4506105/",
+    "fonte": "Pexels"
+  },
+  "artigos/forma-fisica-35-anos.jpg": {
+    "fotografo": "Liliana Drew",
+    "pagina": "https://www.pexels.com/photo/man-in-orange-crew-neck-t-shirt-running-8498120/",
+    "fonte": "Pexels"
+  },
+  "artigos/horas-acordado.jpg": {
+    "fotografo": "cottonbro studio",
+    "pagina": "https://www.pexels.com/photo/pretty-woman-covering-her-eyes-9063388/",
+    "fonte": "Pexels"
+  },
+  "artigos/osso-sting.jpg": {
+    "fotografo": "cottonbro studio",
+    "pagina": "https://www.pexels.com/photo/x-ray-of-the-hands-5723885/",
+    "fonte": "Pexels"
+  },
+  "editorias/saude-tech.jpg": {
+    "fotografo": "MART  PRODUCTION",
+    "pagina": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-smartwatch-8032913/",
+    "fonte": "Pexels"
+  },
+  "editorias/canetas-emagrecedoras.jpg": {
+    "fotografo": "Haberdoedas Photography",
+    "pagina": "https://www.pexels.com/photo/close-up-of-semaglutide-injection-pen-on-surface-32532049/",
+    "fonte": "Pexels"
+  },
+  "editorias/mercado-de-saude.jpg": {
+    "fotografo": "World Sikh Organization of Canada",
+    "pagina": "https://www.pexels.com/photo/pharmacist-in-front-of-shelves-with-medicines-14797855/",
+    "fonte": "Pexels"
+  },
+  "artigos/canetas-sem-registro.jpg": {
+    "fotografo": "Pavel Danilyuk",
+    "pagina": "https://www.pexels.com/photo/a-woman-holding-an-insulin-injection-pen-7653692/",
+    "fonte": "Pexels"
+  },
+  "artigos/potassio-por-tipo.jpg": {
+    "fotografo": "Engin Akyurt",
+    "pagina": "https://www.pexels.com/photo/close-up-shot-of-yellow-banana-10112720/",
+    "fonte": "Pexels"
+  },
+  "editorias/saude.jpg": {
+    "fotografo": "cottonbro studio",
+    "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
+    "fonte": "Pexels"
+  },
+  "editorias/saude-2.jpg": {
+    "fotografo": "Cedric Fauntleroy",
+    "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
+    "fonte": "Pexels"
+  },
+  "editorias/sono.jpg": {
+    "fotografo": "Nitin Khajotia",
+    "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
+    "fonte": "Pexels"
+  },
+  "editorias/sono-2.jpg": {
+    "fotografo": "cottonbro studio",
+    "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
+    "fonte": "Pexels"
+  },
+  "editorias/longevidade.jpg": {
+    "fotografo": "Vlada Karpovich",
+    "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
+    "fonte": "Pexels"
+  },
+  "editorias/longevidade-2.jpg": {
+    "fotografo": "Yan Krukau",
+    "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
+    "fonte": "Pexels"
+  },
+  "editorias/nutricao.jpg": {
+    "fotografo": "Valeria Boltneva",
+    "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
+    "fonte": "Pexels"
+  },
+  "editorias/nutricao-2.jpg": {
+    "fotografo": "Nataliya Vaitkevich",
+    "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
+    "fonte": "Pexels"
+  },
+  "editorias/performance.jpg": {
+    "fotografo": "Gustavo Fring",
+    "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
+    "fonte": "Pexels"
+  },
+  "editorias/performance-2.jpg": {
+    "fotografo": "Yaroslav Shuraev",
+    "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
+    "fonte": "Pexels"
+  },
+  "editorias/saude-mental.jpg": {
+    "fotografo": "Alena Darmel",
+    "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
+    "fonte": "Pexels"
+  },
+  "editorias/saude-mental-2.jpg": {
+    "fotografo": "Andrea Piacquadio",
+    "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
+    "fonte": "Pexels"
+  },
+  "artigos/cafe-trombose-fonte.jpg": {
+    "fonte": "News-Medical",
+    "pagina": "https://www.news-medical.net/news/20261014/Coffee-drinkers-had-fewer-repeat-blood-clots-in-a-Norwegian-study.aspx",
+    "tipo": "fonte",
+    "imagem_original": "https://www.news-medical.net/images/news/ImageForNews_848895_17920349279453297.jpg"
+  },
+  "artigos/duas-doses-de-alcool-por-dia-ja-elevam-o-risco-de-morte-por-causas-lig-fonte.jpg": {
+    "fonte": "The Health Brief",
+    "pagina": "https://thehealthbrief.com.br/estudo-aponta-riscos-severos-do-consumo-moderado-de-alcool",
+    "tipo": "fonte",
+    "imagem_original": "https://thehealthbrief.com.br/storage/blog-feature-images/JmaevoQvrrWfmKMttLXp7lylTINvXBTSzGReL5MS.jpg"
+  },
+  "artigos/estatina-pode-abrir-um-canal-de-calcio-no-musculo-o-que-explica-a-dor-fonte.jpg": {
+    "fonte": "ScienceDaily",
+    "pagina": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+    "tipo": "fonte",
+    "imagem_original": "https://www.sciencedaily.com/images/1920/human-muscle-fibers-pain-healing.webp"
+  },
+  "artigos/flo-google-health-fonte.jpg": {
+    "fonte": "Google",
+    "pagina": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+    "tipo": "fonte",
+    "imagem_original": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellness_hero.width-1300.png"
+  },
+  "artigos/forma-fisica-35-anos-fonte.jpg": {
+    "fonte": "ScienceDaily",
+    "pagina": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+    "tipo": "fonte",
+    "imagem_original": "https://www.sciencedaily.com/images/1920/tired-asian-man-fitness-running-exercise-looking-at-watch.webp"
+  },
+  "artigos/goma-de-cannabis-para-dormir-cbn-causou-tolerancia-e-abstinencia-em-ca-fonte.jpg": {
+    "fonte": "ScienceDaily",
+    "pagina": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
+    "tipo": "fonte",
+    "imagem_original": "https://www.sciencedaily.com/images/1920/cannabis-sleep-research.webp"
+  },
+  "artigos/sacituzumabe-tirumotecano-reduz-risco-de-morte-em-um-terco-no-cancer-d-fonte.jpg": {
+    "fonte": "STAT",
+    "pagina": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
+    "tipo": "fonte",
+    "imagem_original": "https://www.statnews.com/wp-content/uploads/2024/03/AdobeStock_421143532_Editorial_Use_Only-1024x576.jpeg"
+  },
+  "artigos/sono-do-alzheimer-em-camundongos-celulas-de-defesa-do-cerebro-tiram-ma-fonte.jpg": {
+    "fonte": "ScienceDaily",
+    "pagina": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+    "tipo": "fonte",
+    "imagem_original": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp"
+  },
+  "artigos/subtipo-circadiano-de-depressao-23-dos-pacientes-e-pior-resposta-a-ant-fonte.jpg": {
+    "fonte": "News-Medical",
+    "pagina": "https://www.news-medical.net/news/20261022/Depression-profile-linked-to-disrupted-sleep-and-poorer-treatment-responses.aspx",
+    "tipo": "fonte",
+    "imagem_original": "https://www.news-medical.net/images/news/ImageForNews_849340_17926601133276861.jpg"
+  },
+  "artigos/taurina-sobe-com-a-idade-e-em-camundongos-idosos-mais-taurina-melhorou-fonte.jpg": {
+    "fonte": "News-Medical",
+    "pagina": "https://www.news-medical.net/news/20261023/Taurine-helps-regulate-inflammation-linked-to-aging-Yale-study-finds.aspx",
+    "tipo": "fonte",
+    "imagem_original": "https://www.news-medical.net/image-handler/picture/2014/7/Pathology-620x480.jpg"
+  },
+  "artigos/canetas-sem-registro-fonte.jpg": {
+    "fonte": "Agência Brasil",
+    "pagina": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
+    "tipo": "fonte",
+    "imagem_original": "https://imagens.ebc.com.br/-ACkQi3vTrCa-zfbTAiEcWFFYm8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/insulina_teste_05082110263.jpg?itok=QN4khn2s"
+  }
 }
