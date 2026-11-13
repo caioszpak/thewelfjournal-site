@@ -8,24 +8,28 @@
 - [Sobre](https://thewelfjournal.com.br/sobre/): quem faz o The Welf Journal
 
 ## Por editoria
-- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 14 artigo(s)
+- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 15 artigo(s)
 - [Saúde + Tech](https://thewelfjournal.com.br/editoria/saude-tech/): 3 artigo(s)
 - [Sono](https://thewelfjournal.com.br/editoria/sono/): 13 artigo(s)
-- [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 15 artigo(s)
+- [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 16 artigo(s)
 - [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 10 artigo(s)
 - [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 12 artigo(s)
-- [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 16 artigo(s)
+- [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 17 artigo(s)
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 4 artigo(s)
 - [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 7 artigo(s)
 - [Curiosidades Médicas](https://thewelfjournal.com.br/editoria/curiosidades-medicas/): 2 artigo(s)
 - [Como Funciona](https://thewelfjournal.com.br/editoria/como-funciona/): 8 artigo(s)
 - [Pesquisa](https://thewelfjournal.com.br/editoria/pesquisa/): 9 artigo(s)
-- [Notícias](https://thewelfjournal.com.br/editoria/noticias/): 13 artigo(s)
+- [Notícias](https://thewelfjournal.com.br/editoria/noticias/): 14 artigo(s)
 - [Cérebro & Comportamento](https://thewelfjournal.com.br/editoria/cerebro-comportamento/): 2 artigo(s)
 - [Envelhecimento](https://thewelfjournal.com.br/editoria/envelhecimento/): 1 artigo(s)
 - [Mitos e Verdades](https://thewelfjournal.com.br/editoria/mitos-e-verdades/): 1 artigo(s)
 
 ## Artigos recentes
+- [Mais fibra foi associada a menos câncer de intestino em meta-análise de 25 estudos](https://thewelfjournal.com.br/artigos/cancer-intestino-2026-11-12/): Uma meta-análise de 25 estudos que acompanharam pessoas ao longo do tempo associou cada 10 gramas a mais de fibra por dia a um risco 10% menor de câncer de intestino. O resultado vem de 16 estudos observacionais, publicados no BMJ em 2011. Ele mostra associação, não prova causa.
+- [FDA manda canetas emagrecedoras alertarem sobre risco raro de doença nos olhos](https://thewelfjournal.com.br/artigos/fda-canetas-olho-2026-11-11/): A FDA, agência de remédios dos Estados Unidos, mandou as fabricantes de canetas emagrecedoras do tipo GLP-1 incluírem na bula o aviso de um risco raro: uma doença do nervo do olho que pode terminar em cegueira. O comunicado saiu em 9 de novembro. A Novo Nordisk diz que não dá para confirmar a relação.
+- [56% dos homens brasileiros dizem não saber como se proteger do câncer de próstata](https://thewelfjournal.com.br/artigos/prostata-tudo-saber-2026-11-11/): Pesquisa de opinião do A.C.Camargo Cancer Center com a Nexus mostra que 56% dos homens brasileiros dizem não saber como se proteger do câncer de próstata, contra 44% em 2024. É o câncer mais comum entre os homens no país: 30,5% dos casos, segundo o Instituto Nacional do Câncer.
+- [O que o SUS faz além da consulta: água, sangue, transplantes e leite humano](https://thewelfjournal.com.br/artigos/sus-que-ninguem-lembra-2026-11-12/): O SUS faz mais do que consultas. Ele vigia a água que a população bebe, guarda o sangue dos hospitais e paga a maior parte dos transplantes do Brasil. Também mantém a maior rede de bancos de leite humano do mundo. Este é um texto editorial, sem estudo único por trás.
 - [Variar o tipo de exercício foi associado a 19% menos mortes em dois estudos de coorte](https://thewelfjournal.com.br/artigos/20261027-variar-exercicios/): Em dois estudos de coorte de Harvard, que acompanharam mais de 111 mil profissionais de saúde dos Estados Unidos por décadas, quem praticava mais tipos de exercício teve 19% menos mortes em geral, já descontada a quantidade total de exercício. É uma associação observacional, e não prova que variar faça viver mais.
 - [Corredora de 24 anos morre na Maratona de Nova York; a causa oficial não foi divulgada](https://thewelfjournal.com.br/artigos/corredora-maratona-ny-2026-11-04/): Uma corredora de 24 anos, Rachel Apa, morreu durante a Maratona de Nova York. O pai atribuiu a morte à rabdomiólise, condição em que o músculo lesionado libera uma proteína no sangue e sobrecarrega o rim. O instituto médico legal de Nova York ainda não divulgou o motivo oficial da morte.
 - [Quase 9 em cada 10 alegações de saúde virais checadas pela Lupa eram falsas](https://thewelfjournal.com.br/artigos/lupa-desinformacao-2026-10-29/): A Agência Lupa checou 764 alegações de saúde de grande alcance entre março de 2017 e junho de 2026. Foram 667 falsas, 87,3%, quase 9 em cada 10. O número vale para o que viralizou e foi checado, não para tudo o que circula sobre saúde.
@@ -52,10 +56,6 @@
 - [Suco de cranberry puro, sem açúcar, reduziu a atividade da placa dental em ensaio pequeno](https://thewelfjournal.com.br/artigos/suco-de-cranberry-sem-acucar-pode-ajudar-contra-carie/): Em dois ensaios randomizados e cruzados, com 8 adultos e 14 crianças, o suco de cranberry puro reduziu o recrescimento e a produção de ácido das bactérias da placa dental, em comparação com antes de beber. O suco com açúcar adicionado e a água não tiveram esse efeito. A amostra é pequena.
 - [Lemborexanto: 30% dos relatos online descrevem melhora do sono e 68% citam efeito adverso](https://thewelfjournal.com.br/artigos/uma-em-cada-quatro-avaliacoes-do-remedio-para-insonia-lemborexanto-rel/): Uma análise de 260 avaliações online do lemborexanto, remédio para insônia, mostrou que cerca de 30% descreveram melhora significativa do sono e 50% relataram pouco ou nenhum benefício. Cerca de 68% citaram ao menos um efeito adverso, sobretudo sonhos vívidos ou pesadelos.
 - [Trocar a válvula do coração cedo reduziu morte ou insuficiência cardíaca em estenose moderada](https://thewelfjournal.com.br/artigos/valvula-do-coracao-com-estreitamento-moderado-trocar-cedo-reduziu-mort/): Em um ensaio sorteado com 744 pacientes com estenose aórtica moderada e fatores de risco, trocar a válvula por cateter (TAVR) reduziu a combinação de morte ou evento de insuficiência cardíaca em 2 anos: 16,7% contra 23,9% com vigilância clínica. A diferença foi de 7,2 pontos percentuais.
-- [Solidão atinge 36,5% dos brasileiros e pesa mais na saúde mental, diz pesquisa](https://thewelfjournal.com.br/artigos/20261027-solidao-saude-mental/): Pesquisa com 4.601 brasileiros mostra que 36,5% sentem solidão, o fator mais associado à pior saúde mental no levantamento. Quem se sentiu sozinho três vezes ou mais ficou com 383 pontos em uma escala de 0 a 1.000, contra 782 de quem não se sentiu. Os dados não mostram o que vem primeiro.
-- [Startup australiana abre fábrica da primeira camisinha de hidrogel, com lançamento em 2028](https://thewelfjournal.com.br/artigos/20261026-camisinha-hidrogel/): A startup australiana Eudaemon abriu uma fábrica em Sydney para produzir em escala a primeira camisinha de hidrogel, tecnologia que nasceu de pesquisa financiada pela Fundação Gates. A empresa tem 61 patentes e mira o lançamento em 2028. São dados da própria empresa e de um estudo inicial.
-- [Energético com álcool: o alerta da cardiologia sobre a mistura](https://thewelfjournal.com.br/artigos/20261026-energetico-alcool/): A Sociedade de Cardiologia do Estado de São Paulo alerta que misturar energético com álcool pode ser mais arriscado do que parece: o álcool deprime o sistema nervoso, a cafeína estimula, e a pessoa pode beber mais por sentir menos. O que não está em disputa é o peso sobre o coração.
-- [O que são as canetas GLP-1: como agem, efeitos comuns e por que exigem receita](https://thewelfjournal.com.br/artigos/20261026-glp1-revisao/): As canetas imitam o GLP-1, hormônio que o intestino solta quando você come e que avisa o corpo de que já deu. A tirzepatida é a única da lista que age em dois hormônios, GIP e GLP-1. Os efeitos mais comuns são do estômago e do intestino.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)
