@@ -1,751 +1,887 @@
 {
-  "especialidades/cardiologia.jpg": {
-    "fotografo": "Puwadon Sang-ngern",
-    "pagina": "https://www.pexels.com/photo/crop-woman-with-stethoscope-and-heart-5340274/",
-    "fonte": "Pexels"
-  },
-  "especialidades/cardiologia-2.jpg": {
-    "fotografo": "https://kaboompics.com/",
-    "pagina": "https://www.pexels.com/photo/part-of-a-person-with-a-stethoscope-5207102/",
-    "fonte": "Pexels"
-  },
-  "especialidades/dermatologia.jpg": {
-    "fotografo": "KATRIN  BOLOVTSOVA",
-    "pagina": "https://www.pexels.com/photo/woman-in-white-robe-massaging-her-face-4672661/",
-    "fonte": "Pexels"
-  },
-  "especialidades/dermatologia-2.jpg": {
-    "fotografo": "Sora Shimazaki",
-    "pagina": "https://www.pexels.com/photo/crop-ethnic-woman-touching-cheek-against-mirror-at-home-5938260/",
-    "fonte": "Pexels"
-  },
-  "especialidades/endocrinologia.jpg": {
-    "fotografo": "Arunangshu Banerjee",
-    "pagina": "https://www.pexels.com/photo/digital-glucometer-and-lancing-device-on-wooden-surface-33200680/",
-    "fonte": "Pexels"
-  },
-  "especialidades/endocrinologia-2.jpg": {
-    "fotografo": "Towfiqu barbhuiya",
-    "pagina": "https://www.pexels.com/photo/close-up-of-person-using-a-blood-glucose-monitor-11391942/",
-    "fonte": "Pexels"
-  },
-  "especialidades/gastroenterologia.jpg": {
-    "fotografo": "Valeria Boltneva",
-    "pagina": "https://www.pexels.com/photo/bowl-of-salad-1484522/",
-    "fonte": "Pexels"
-  },
-  "especialidades/gastroenterologia-2.jpg": {
-    "fotografo": "Kampus Production",
-    "pagina": "https://www.pexels.com/photo/assorted-vegetables-in-brown-wooden-bowl-6670133/",
-    "fonte": "Pexels"
-  },
-  "especialidades/geriatria.jpg": {
-    "fotografo": "Vlada Karpovich",
-    "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
-    "fonte": "Pexels"
-  },
-  "especialidades/geriatria-2.jpg": {
-    "fotografo": "Yan Krukau",
-    "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
-    "fonte": "Pexels"
-  },
-  "especialidades/ginecologia-e-obstetricia.jpg": {
-    "fotografo": "RDNE Stock project",
-    "pagina": "https://www.pexels.com/photo/a-pregnant-woman-wearing-cap-9214910/",
-    "fonte": "Pexels"
-  },
-  "especialidades/ginecologia-e-obstetricia-2.jpg": {
-    "fotografo": "Ivan S",
-    "pagina": "https://www.pexels.com/photo/a-pregnant-woman-holding-an-apple-7990372/",
-    "fonte": "Pexels"
-  },
-  "especialidades/hepatologia.jpg": {
-    "fotografo": "https://kaboompics.com/",
-    "pagina": "https://www.pexels.com/photo/glass-tubes-with-colorful-liquids-on-table-4226902/",
-    "fonte": "Pexels"
-  },
-  "especialidades/hepatologia-2.jpg": {
-    "fotografo": "Gustavo Fring",
-    "pagina": "https://www.pexels.com/photo/person-holding-test-tube-rack-4149031/",
-    "fonte": "Pexels"
-  },
-  "especialidades/infectologia.jpg": {
-    "fotografo": "Tima Miroshnichenko",
-    "pagina": "https://www.pexels.com/photo/a-scientist-using-microscope-9574403/",
-    "fonte": "Pexels"
-  },
-  "especialidades/infectologia-2.jpg": {
-    "fotografo": "Tima Miroshnichenko",
-    "pagina": "https://www.pexels.com/photo/a-white-microscope-9574397/",
-    "fonte": "Pexels"
-  },
-  "especialidades/medicina-de-familia.jpg": {
-    "fotografo": "cottonbro studio",
-    "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
-    "fonte": "Pexels"
-  },
-  "especialidades/medicina-de-familia-2.jpg": {
-    "fotografo": "Cedric Fauntleroy",
-    "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
-    "fonte": "Pexels"
-  },
-  "especialidades/medicina-do-esporte.jpg": {
-    "fotografo": "Gustavo Fring",
-    "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
-    "fonte": "Pexels"
-  },
-  "especialidades/medicina-do-esporte-2.jpg": {
-    "fotografo": "Yaroslav Shuraev",
-    "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
-    "fonte": "Pexels"
-  },
-  "especialidades/medicina-do-sono.jpg": {
-    "fotografo": "Nitin Khajotia",
-    "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
-    "fonte": "Pexels"
-  },
-  "especialidades/medicina-do-sono-2.jpg": {
-    "fotografo": "cottonbro studio",
-    "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
-    "fonte": "Pexels"
-  },
-  "especialidades/neurologia.jpg": {
-    "fotografo": "Anna Shvets",
-    "pagina": "https://www.pexels.com/photo/a-doctor-holding-an-mri-result-of-the-brain-4226219/",
-    "fonte": "Pexels"
-  },
-  "especialidades/neurologia-2.jpg": {
-    "fotografo": "cottonbro studio",
-    "pagina": "https://www.pexels.com/photo/mri-images-of-the-brain-5723883/",
-    "fonte": "Pexels"
-  },
-  "especialidades/nutrologia.jpg": {
-    "fotografo": "Valeria Boltneva",
-    "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
-    "fonte": "Pexels"
-  },
-  "especialidades/nutrologia-2.jpg": {
-    "fotografo": "Nataliya Vaitkevich",
-    "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
-    "fonte": "Pexels"
-  },
-  "especialidades/oncologia.jpg": {
-    "fotografo": "Mikhail Nilov",
-    "pagina": "https://www.pexels.com/photo/scientist-looking-through-microscope-8851548/",
-    "fonte": "Pexels"
-  },
-  "especialidades/oncologia-2.jpg": {
-    "fotografo": "Zakir Rushanly",
-    "pagina": "https://www.pexels.com/photo/a-woman-wearing-a-lab-coat-in-a-laboratory-11811080/",
-    "fonte": "Pexels"
-  },
-  "especialidades/ortopedia.jpg": {
-    "fotografo": "Yan Krukau",
-    "pagina": "https://www.pexels.com/photo/physiotherapist-holding-womans-leg-5793895/",
-    "fonte": "Pexels"
-  },
-  "especialidades/ortopedia-2.jpg": {
-    "fotografo": "Kampus Production",
-    "pagina": "https://www.pexels.com/photo/a-woman-in-gray-tank-top-working-out-in-the-gym-6111610/",
-    "fonte": "Pexels"
-  },
-  "especialidades/pediatria.jpg": {
-    "fotografo": "Pavel Danilyuk",
-    "pagina": "https://www.pexels.com/photo/doctor-in-white-lab-coat-examining-girl-s-breath-5998445/",
-    "fonte": "Pexels"
-  },
-  "especialidades/pediatria-2.jpg": {
-    "fotografo": "Tahir Xəlfəquliyev",
-    "pagina": "https://www.pexels.com/photo/optometrist-performing-eye-exam-on-child-33029347/",
-    "fonte": "Pexels"
-  },
-  "especialidades/psiquiatria.jpg": {
-    "fotografo": "Alena Darmel",
-    "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
-    "fonte": "Pexels"
-  },
-  "especialidades/psiquiatria-2.jpg": {
-    "fotografo": "Andrea Piacquadio",
-    "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
-    "fonte": "Pexels"
-  },
-  "especialidades/urologia.jpg": {
-    "fotografo": "MART  PRODUCTION",
-    "pagina": "https://www.pexels.com/photo/hands-doctor-health-anonymous-7088834/",
-    "fonte": "Pexels"
-  },
-  "especialidades/urologia-2.jpg": {
-    "fotografo": "Los Muertos Crew",
-    "pagina": "https://www.pexels.com/photo/a-patient-at-a-doctor-s-office-8460095/",
-    "fonte": "Pexels"
-  },
-  "especialidades/geral.jpg": {
-    "fotografo": "Edward Jenner",
-    "pagina": "https://www.pexels.com/photo/female-laboratory-scientist-looking-at-a-microscope-4031525/",
-    "fonte": "Pexels"
-  },
-  "especialidades/geral-2.jpg": {
-    "fotografo": "https://kaboompics.com/",
-    "pagina": "https://www.pexels.com/photo/glassware-with-colorful-liquid-substances-on-a-lab-desk-8540819/",
-    "fonte": "Pexels"
-  },
-  "artigos/anabolizante-coracao-oslo.jpg": {
-    "fotografo": "Tima Miroshnichenko",
-    "pagina": "https://www.pexels.com/photo/a-man-working-out-using-dumbbells-5327471/",
-    "fonte": "Pexels"
-  },
-  "artigos/cafe-de-manha-risco-de-morte.jpg": {
-    "fotografo": "Duygu  M",
-    "pagina": "https://www.pexels.com/photo/a-close-up-shot-of-a-cup-of-coffee-12125694/",
-    "fonte": "Pexels"
-  },
-  "artigos/creatina-12-semanas.jpg": {
-    "fotografo": "Vlada Karpovich",
-    "pagina": "https://www.pexels.com/photo/a-person-scooping-powder-from-a-jar-6944061/",
-    "fonte": "Pexels"
-  },
-  "artigos/musculacao-memoria-idosos.jpg": {
-    "fotografo": "Kampus Production",
-    "pagina": "https://www.pexels.com/photo/elderly-man-in-red-shirt-working-out-in-the-gym-6922172/",
-    "fonte": "Pexels"
-  },
-  "artigos/cafe-trombose.jpg": {
-    "fotografo": "Nur Boyacı",
-    "pagina": "https://www.pexels.com/photo/foamy-coffee-in-a-ceramic-cup-from-above-35061739/",
-    "fonte": "Pexels"
-  },
-  "artigos/luz-no-sono.jpg": {
-    "fotografo": "SHVETS production",
-    "pagina": "https://www.pexels.com/photo/woman-lying-on-bed-while-using-a-cellphone-8036688/",
-    "fonte": "Pexels"
-  },
-  "artigos/antipsicotico-90-dias.jpg": {
-    "fotografo": "MART  PRODUCTION",
-    "pagina": "https://www.pexels.com/photo/close-up-shot-of-softgel-capsules-7277984/",
-    "fonte": "Pexels"
-  },
-  "artigos/dor-depressao-refrataria.jpg": {
-    "fotografo": "Nam Phong Bùi",
-    "pagina": "https://www.pexels.com/photo/photo-of-woman-wearing-eyeglasses-2498128/",
-    "fonte": "Pexels"
-  },
-  "artigos/dor-musculo-nervo.jpg": {
-    "fotografo": "https://kaboompics.com/",
-    "pagina": "https://www.pexels.com/photo/woman-touching-her-back-4506105/",
-    "fonte": "Pexels"
-  },
-  "artigos/forma-fisica-35-anos.jpg": {
-    "fotografo": "Liliana Drew",
-    "pagina": "https://www.pexels.com/photo/man-in-orange-crew-neck-t-shirt-running-8498120/",
-    "fonte": "Pexels"
-  },
-  "artigos/horas-acordado.jpg": {
-    "fotografo": "cottonbro studio",
-    "pagina": "https://www.pexels.com/photo/pretty-woman-covering-her-eyes-9063388/",
-    "fonte": "Pexels"
-  },
-  "artigos/osso-sting.jpg": {
-    "fotografo": "cottonbro studio",
-    "pagina": "https://www.pexels.com/photo/x-ray-of-the-hands-5723885/",
-    "fonte": "Pexels"
-  },
-  "editorias/saude-tech.jpg": {
-    "fotografo": "MART  PRODUCTION",
-    "pagina": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-smartwatch-8032913/",
-    "fonte": "Pexels"
-  },
-  "editorias/canetas-emagrecedoras.jpg": {
-    "fotografo": "Haberdoedas Photography",
-    "pagina": "https://www.pexels.com/photo/close-up-of-semaglutide-injection-pen-on-surface-32532049/",
-    "fonte": "Pexels"
-  },
-  "editorias/mercado-de-saude.jpg": {
-    "fotografo": "World Sikh Organization of Canada",
-    "pagina": "https://www.pexels.com/photo/pharmacist-in-front-of-shelves-with-medicines-14797855/",
-    "fonte": "Pexels"
-  },
-  "artigos/canetas-sem-registro.jpg": {
-    "fotografo": "Pavel Danilyuk",
-    "pagina": "https://www.pexels.com/photo/a-woman-holding-an-insulin-injection-pen-7653692/",
-    "fonte": "Pexels"
-  },
-  "artigos/potassio-por-tipo.jpg": {
-    "fotografo": "Engin Akyurt",
-    "pagina": "https://www.pexels.com/photo/close-up-shot-of-yellow-banana-10112720/",
-    "fonte": "Pexels"
-  },
-  "editorias/saude.jpg": {
-    "fotografo": "cottonbro studio",
-    "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
-    "fonte": "Pexels"
-  },
-  "editorias/saude-2.jpg": {
-    "fotografo": "Cedric Fauntleroy",
-    "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
-    "fonte": "Pexels"
-  },
-  "editorias/sono.jpg": {
-    "fotografo": "Nitin Khajotia",
-    "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
-    "fonte": "Pexels"
-  },
-  "editorias/sono-2.jpg": {
-    "fotografo": "cottonbro studio",
-    "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
-    "fonte": "Pexels"
-  },
-  "editorias/longevidade.jpg": {
-    "fotografo": "Vlada Karpovich",
-    "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
-    "fonte": "Pexels"
-  },
-  "editorias/longevidade-2.jpg": {
-    "fotografo": "Yan Krukau",
-    "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
-    "fonte": "Pexels"
-  },
-  "editorias/nutricao.jpg": {
-    "fotografo": "Valeria Boltneva",
-    "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
-    "fonte": "Pexels"
-  },
-  "editorias/nutricao-2.jpg": {
-    "fotografo": "Nataliya Vaitkevich",
-    "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
-    "fonte": "Pexels"
-  },
-  "editorias/performance.jpg": {
-    "fotografo": "Gustavo Fring",
-    "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
-    "fonte": "Pexels"
-  },
-  "editorias/performance-2.jpg": {
-    "fotografo": "Yaroslav Shuraev",
-    "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
-    "fonte": "Pexels"
-  },
-  "editorias/saude-mental.jpg": {
-    "fotografo": "Alena Darmel",
-    "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
-    "fonte": "Pexels"
-  },
-  "editorias/saude-mental-2.jpg": {
-    "fotografo": "Andrea Piacquadio",
-    "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
-    "fonte": "Pexels"
-  },
-  "artigos/cafe-trombose-fonte.jpg": {
-    "fonte": "News-Medical",
-    "pagina": "https://www.news-medical.net/news/20261014/Coffee-drinkers-had-fewer-repeat-blood-clots-in-a-Norwegian-study.aspx",
-    "tipo": "fonte",
-    "imagem_original": "https://www.news-medical.net/images/news/ImageForNews_848895_17920349279453297.jpg"
-  },
-  "artigos/duas-doses-de-alcool-por-dia-ja-elevam-o-risco-de-morte-por-causas-lig-fonte.jpg": {
-    "fonte": "The Health Brief",
-    "pagina": "https://thehealthbrief.com.br/estudo-aponta-riscos-severos-do-consumo-moderado-de-alcool",
-    "tipo": "fonte",
-    "imagem_original": "https://thehealthbrief.com.br/storage/blog-feature-images/JmaevoQvrrWfmKMttLXp7lylTINvXBTSzGReL5MS.jpg"
-  },
-  "artigos/estatina-pode-abrir-um-canal-de-calcio-no-musculo-o-que-explica-a-dor-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/human-muscle-fibers-pain-healing.webp"
-  },
-  "artigos/flo-google-health-fonte.jpg": {
-    "fonte": "Google",
-    "pagina": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
-    "tipo": "fonte",
-    "imagem_original": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellness_hero.width-1300.png"
-  },
-  "artigos/forma-fisica-35-anos-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/tired-asian-man-fitness-running-exercise-looking-at-watch.webp"
-  },
-  "artigos/goma-de-cannabis-para-dormir-cbn-causou-tolerancia-e-abstinencia-em-ca-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/cannabis-sleep-research.webp"
-  },
-  "artigos/sacituzumabe-tirumotecano-reduz-risco-de-morte-em-um-terco-no-cancer-d-fonte.jpg": {
-    "fonte": "STAT",
-    "pagina": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
-    "tipo": "fonte",
-    "imagem_original": "https://www.statnews.com/wp-content/uploads/2024/03/AdobeStock_421143532_Editorial_Use_Only-1024x576.jpeg"
-  },
-  "artigos/sono-do-alzheimer-em-camundongos-celulas-de-defesa-do-cerebro-tiram-ma-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp"
-  },
-  "artigos/subtipo-circadiano-de-depressao-23-dos-pacientes-e-pior-resposta-a-ant-fonte.jpg": {
-    "fonte": "News-Medical",
-    "pagina": "https://www.news-medical.net/news/20261022/Depression-profile-linked-to-disrupted-sleep-and-poorer-treatment-responses.aspx",
-    "tipo": "fonte",
-    "imagem_original": "https://www.news-medical.net/images/news/ImageForNews_849340_17926601133276861.jpg"
-  },
-  "artigos/taurina-sobe-com-a-idade-e-em-camundongos-idosos-mais-taurina-melhorou-fonte.jpg": {
-    "fonte": "News-Medical",
-    "pagina": "https://www.news-medical.net/news/20261023/Taurine-helps-regulate-inflammation-linked-to-aging-Yale-study-finds.aspx",
-    "tipo": "fonte",
-    "imagem_original": "https://www.news-medical.net/image-handler/picture/2014/7/Pathology-620x480.jpg"
-  },
-  "artigos/canetas-sem-registro-fonte.jpg": {
-    "fonte": "Agência Brasil",
-    "pagina": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
-    "tipo": "fonte",
-    "imagem_original": "https://imagens.ebc.com.br/-ACkQi3vTrCa-zfbTAiEcWFFYm8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/insulina_teste_05082110263.jpg?itok=QN4khn2s"
-  },
-  "artigos/anticorpos-que-desligam-a-defesa-natural-explicam-parte-da-doenca-infl-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/human-body-digestive-system-boost.webp"
-  },
-  "artigos/bacterias-do-intestino-explicam-cerca-de-15-da-velocidade-do-envelheci-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp"
-  },
-  "artigos/fibra-inulina-reduziu-dor-no-joelho-de-quem-tem-artrose-em-ensaio-de-6-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/knee-joint-pain-woman.webp"
-  },
-  "artigos/mayo-clinic-apresenta-sete-estudos-sobre-as-celulas-zumbis-do-envelhec-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/aptamers-zombie-cells.webp"
-  },
-  "artigos/spray-nasal-de-veneno-de-sapo-reduziu-depressao-que-nao-respondia-a-re-fonte.jpg": {
-    "fonte": "Metrópoles",
-    "pagina": "https://www.metropoles.com/saude/spray-nasal-a-base-de-veneno-de-sapo-pode-aliviar-depressao-por-semanas",
-    "tipo": "fonte",
-    "imagem_original": "https://i.metroimg.com/dsmXKC6laE0gDWeND6F3hppPgOcl5BSIWQLnLrS6PsE/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/02/nasal-foto.jpg"
-  },
-  "artigos/em-10-de-12-vegetais-e-frutas-o-que-a-gente-joga-fora-tem-mais-fibra-fonte.jpg": {
-    "fonte": "News-Medical",
-    "pagina": "https://www.news-medical.net/news/20261029/Discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefits.aspx",
-    "tipo": "fonte",
-    "imagem_original": "https://www.news-medical.net/image-handler/picture/2019/5/Assortment_of_fresh_fruits_and_vegetables_-_Image_-_Alexander_Raths_A1_3c4a26f865c44eea80b0017c2dc1c858-620x480.jpg"
-  },
-  "artigos/em-camundongos-musculo-velho-sacrifica-forca-para-proteger-as-celulas-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/senior-woman-flexing-muscles.webp"
-  },
-  "artigos/menos-de-42-minutos-de-luz-forte-por-dia-foi-associado-a-mais-demencia-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/senior-woman-outside-in-bright-sunlight.webp"
-  },
-  "artigos/suco-de-cranberry-sem-acucar-pode-ajudar-contra-carie-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/pouring-fresh-cranberry-juice.webp"
-  },
-  "artigos/uma-em-cada-quatro-avaliacoes-do-remedio-para-insonia-lemborexanto-rel-fonte.jpg": {
-    "fonte": "News-Medical",
-    "pagina": "https://www.news-medical.net/news/20261029/Online-reviews-reveal-troubling-side-effects-of-insomnia-drug-lemborexant.aspx",
-    "tipo": "fonte",
-    "imagem_original": "https://www.news-medical.net/image-handler/picture/2014/7/Insomnia-620x480.jpg"
-  },
-  "artigos/20261027-ia-pancreas-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/pancreatic-cancer-male-anatomy.webp"
-  },
-  "artigos/bloquear-uma-enzima-derrubou-o-ldl-em-camundongos-e-o-remedio-ja-passo-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/cholesterol-plaque-buildup-narrowed-blood-vessel.webp"
-  },
-  "artigos/cientistas-acham-onde-a-toxina-de-uma-bacteria-comum-do-intestino-se-p-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp"
-  },
-  "artigos/exame-de-sangue-que-mede-p-tau217-previu-declinio-cognitivo-em-idosos-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/alzheimers-disease-blood-test-tube.webp"
-  },
-  "artigos/20261027-melatonina-coracao-fonte.jpg": {
-    "fonte": "Metrópoles",
-    "pagina": "https://www.metropoles.com/saude/estudo-liga-melatonina-a-risco-89-maior-de-insuficiencia-cardiaca",
-    "tipo": "fonte",
-    "imagem_original": "https://i.metroimg.com/YpP51KGEvgaqvzInkqvwPGNU0uvzbqYuivXskCnKTO4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/melatonina-suplemento-insuficiencia-cardiaca.jpg"
-  },
-  "artigos/20261027-aspirina-demencia-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/aspirin-pills-close.webp"
-  },
-  "artigos/implante-eletrico-baixou-o-acucar-no-sangue-de-camundongos-diabeticos-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/blood-sugar-illustration.webp"
-  },
-  "artigos/peso-a-mais-foi-associado-a-queda-mais-rapida-de-memoria-e-atencao-em-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/male-brain-scan-obesity.webp"
-  },
-  "artigos/em-46-criancas-mais-ultraprocessados-foi-associado-a-mais-resposta-do-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/cute-boy-donut-eyes.webp"
-  },
-  "artigos/20261027-variar-exercicios-fonte.jpg": {
-    "fonte": "Veja Saúde",
-    "pagina": "https://saude.abril.com.br/fitness/variar-os-exercicios-praticados-ajuda-a-prolongar-a-vida-diz-estudo/",
-    "tipo": "fonte",
-    "imagem_original": "https://saude.abril.com.br/wp-content/uploads/2026/10/532-atividade-fisica-variar-exercicio.png?quality=85&strip=info&resize=1200,630&crop=1"
-  },
-  "artigos/horario-de-verao-permanente-poderia-levar-mais-de-1-bilhao-de-criancas-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/school-bus-driving-on-highway-at-dawn.webp"
-  },
-  "artigos/tau-se-acumula-mais-de-duas-vezes-mais-rapido-no-alzheimer-que-comeca-fonte.jpg": {
-    "fonte": "News-Medical",
-    "pagina": "https://www.news-medical.net/news/20261105/Tau-spreads-more-rapidly-in-early-onset-Alzheimers-disease.aspx",
-    "tipo": "fonte",
-    "imagem_original": "https://www.news-medical.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg"
-  },
-  "artigos/mpox-rio-2026-11-04-fonte.jpg": {
-    "fonte": "Governo Federal",
-    "pagina": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-reforca-vacinacao-e-vigilancia-da-mpox-no-rio-de-janeiro",
-    "tipo": "fonte",
-    "imagem_original": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-reforca-vacinacao-e-vigilancia-da-mpox-no-rio-de-janeiro/vacina-mpox.jpg/@@images/caa8329d-0071-4e0a-809c-cfabdb958373.jpeg"
-  },
-  "artigos/comer-tarde-da-noite-e-dormir-fora-de-hora-ligados-a-mais-inflamacao-e-fonte.jpg": {
-    "fonte": "News-Medical",
-    "pagina": "https://www.news-medical.net/news/20261109/Late-night-eating-and-sleep-habits-damage-gut-health-increase-metabolic-disease-risk.aspx",
-    "tipo": "fonte",
-    "imagem_original": "https://www.news-medical.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg"
-  },
-  "artigos/hiv-generico-40-2026-11-04-fonte.jpg": {
-    "fonte": "Exame",
-    "pagina": "https://exame.com/ciencia/eua-aprovam-generico-de-medicamento-que-previne-hiv-e-custa-us-40-por-ano/",
-    "tipo": "fonte",
-    "imagem_original": "https://classic.exame.com/wp-content/uploads/2026/11/AFP__20261102__D67E9G3__v1__HighRes__FilesSafricaHealthHivLenacapavir.jpg"
-  },
-  "artigos/pantetina-derivado-da-vitamina-b5-evitou-psoriase-em-camundongos-e-aju-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/woman-pouring-vitamin-d-omega-3-vitamin-supplements-into-hand.webp"
-  },
-  "artigos/remedios-de-osteoporose-foram-associados-a-ate-24-menos-risco-de-demen-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp"
-  },
-  "artigos/suplemento-oxaloacetato-e-nevoa-mental-depois-do-cancer-de-mama-estudo-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/brain-fog-woman-head-in-clouds.webp"
-  },
-  "artigos/terapia-de-celulas-de-defesa-que-so-liga-dentro-do-cerebro-eliminou-tu-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/brain-cancer-tumor-blood-vessels.webp"
-  },
-  "artigos/20261110-alcool-carcinogeno-fonte.jpg": {
-    "fonte": "OMS",
-    "pagina": "https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health",
-    "tipo": "fonte",
-    "imagem_original": "https://cdn.who.int/media/images/librariesprovider2/default-album/health-topic-images/alcohol/no-level-of-alcohol-consumption-is-safe-for-our-health.tmb-1200v.jpg?sfvrsn=3a117263_4"
-  },
-  "artigos/escitalopram-entre-os-antidepressivos-que-mais-evitam-recaida-melhor-q-fonte.jpg": {
-    "fonte": "BBC News",
-    "pagina": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-    "tipo": "fonte",
-    "imagem_original": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg"
-  },
-  "artigos/sarampo-ny-2026-11-04-fonte.jpg": {
-    "fonte": "STAT",
-    "pagina": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/",
-    "tipo": "fonte",
-    "imagem_original": "https://www.statnews.com/wp-content/uploads/2026/11/AP26281819303780-1024x576.jpg"
-  },
-  "artigos/jejum-intermitente-gordura-figado-dieta-mediterranea-instinct.jpg": {
-    "fonte": "Alesia Kozik / Pexels (https://www.pexels.com/photo/x-6065181/)",
-    "pagina": "https://images.pexels.com/photos/6065181/pexels-photo-6065181.jpeg",
-    "tipo": "banco",
-    "alt": "Dois bowls coloridos de comida saudável sobre a mesa"
-  },
-  "artigos/postar-madrugada-instagram-associa-solidao-emocional-instinct.jpg": {
-    "fonte": "O Globo (https://oglobo.globo.com/saude/noticia/2026/11/10/postagens-noturnas-estudo-mostra-como-seu-comportamento-no-instagram-revela-o-quanto-voce-se-sente-solitario.ghtml)",
-    "pagina": "https://s2-oglobo.glbimg.com/TWXIN2d0-vJtEXy0kEIP-p5fTLU=/1472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/P/i/8j5nBATSG1QalTsTXUIQ/cute-teenage-girl-is-taking-pictures-phone-girl-headphones.jpg",
-    "tipo": "fonte",
-    "alt": "Jovem de fones de ouvido olha o celular sentada ao ar livre"
-  },
-  "artigos/diabetes-tipo-2-risco-53-maior-alzheimer-meta-analise-instinct.jpg": {
-    "fonte": "i-SENS, USA / Pexels (https://www.pexels.com/photo/a-person-holding-a-blood-glucose-meter-on-a-table-17072086/)",
-    "pagina": "https://images.pexels.com/photos/17072086/pexels-photo-17072086/free-photo-of-a-person-holding-a-blood-glucose-meter-on-a-table.jpeg",
-    "tipo": "banco",
-    "alt": "Mão segura um medidor de glicose sobre uma mesa de madeira"
-  },
-  "artigos/treino-de-forca-reduz-perda-de-musculo-com-tirzepatida-instinct.jpg": {
-    "fonte": "University of Western Australia (https://www.uwa.edu.au/news/article/2026/november/resistance-training-key-to-maintaining-muscle-function-during-glp1-weight-loss)",
-    "pagina": "http://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2026/weight-train-card.jpg",
-    "tipo": "fonte",
-    "alt": "Pessoa pegando halteres em um suporte de academia, em treino de força"
-  },
-  "artigos/luminoah-capta-us-25-milhoes-bomba-enteral-instinct.jpg": {
-    "fonte": "Luminoah (https://www.luminoah.com)",
-    "pagina": "https://luminoah.com/wp-content/uploads/2026/11/Luminoah-System-mobile.lum.webp",
-    "tipo": "fonte",
-    "alt": "Bomba de alimentação enteral Luminoah Flow com aplicativo no celular e bolsa de nutrição"
-  },
-  "artigos/comer-menos-proteina-desacelerar-envelhecimento-instinct.jpg": {
-    "fonte": "ScienceDaily (http://www.sciencedaily.com/releases/2026/11/261108203714.htm)",
-    "pagina": "http://www.sciencedaily.com/images/1920/body-rejuvenation-longevity-strength-boost.webp",
-    "tipo": "fonte",
-    "alt": "Ilustração de um corpo humano digital com gráficos ao redor, simbolizando longevidade"
-  },
-  "artigos/zus-health-capta-us-33-milhoes-prontuario-conectado-instinct.jpg": {
-    "fonte": "Zus Health (https://www.zushealth.com)",
-    "pagina": "https://cdn.prod.website-files.com/69ebb86c9c3cd78bac500783/6abd04067021ca4945babb64_dc9fa26c7b17f4a36a4b39aac46f9f43_opengraph%20%282%29.jpg",
-    "tipo": "fonte",
-    "alt": "Logotipo da Zus Health em fundo verde"
-  },
-  "artigos/anvisa-aprova-generico-semaglutida-22-canetas-2026-instinct.jpg": {
-    "fonte": "O Globo (https://oglobo.globo.com/saude/noticia/2026/11/10/anvisa-aprova-generico-de-semaglutida-e-novo-medicamento-similar-ao-ozempic.ghtml)",
-    "pagina": "https://s2-oglobo.glbimg.com/ebVuNmGihKWQFJE6RjHhFKnWDfQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/H/E/cMzPbBQxS3xLhHemdx5Q/semaglutida-pode-ter-novo-beneficio-para-o-coracao-aponta-estudo.jpg",
-    "tipo": "fonte",
-    "alt": "Pessoa aplica caneta injetável de semaglutida na região abdominal"
-  },
-  "artigos/fda-exige-aviso-doenca-rara-visao-canetas-emagrecedoras-instinct.jpg": {
-    "fonte": "Haberdoedas Photography / Pexels (https://www.pexels.com/photo/close-up-of-semaglutide-injection-pen-on-surface-32532049/)",
-    "pagina": "https://images.pexels.com/photos/32532049/pexels-photo-32532049/free-photo-of-close-up-of-semaglutide-injection-pen-on-surface.jpeg",
-    "tipo": "banco",
-    "alt": "Caneta injetável de semaglutida sobre superfície clara"
-  },
-  "artigos/novo-anticoagulante-reduz-26-risco-segundo-avc-instinct.jpg": {
-    "fonte": "Thirdman / Pexels (https://www.pexels.com/photo/a-healthcare-worker-measuring-a-patient-s-blood-pressure-using-a-sphygmomanometer-7659573/)",
-    "pagina": "https://images.pexels.com/photos/7659573/pexels-photo-7659573.jpeg",
-    "tipo": "banco",
-    "alt": "Profissional de saúde mede a pressão arterial de uma paciente"
-  },
-  "artigos/dieta-exercicio-54-remissao-diabetes-tipo-2-jovens-instinct.jpg": {
-    "fonte": "i-SENS, USA / Pexels (https://www.pexels.com/photo/a-person-holding-a-blood-glucose-meter-on-a-table-17072086/)",
-    "pagina": "https://images.pexels.com/photos/17072086/pexels-photo-17072086/free-photo-of-a-person-holding-a-blood-glucose-meter-on-a-table.jpeg",
-    "tipo": "banco",
-    "alt": "Mão segura um medidor de glicose sobre uma mesa de madeira ao ar livre"
-  },
-  "artigos/sono-rem-profundo-menor-risco-90-doencas-instinct.jpg": {
-    "fonte": "Folha de S.Paulo (https://www1.folha.uol.com.br/equilibrio/2026/11/dormir-bem-pode-reduzir-o-risco-de-desenvolver-90-doencas-diz-estudo.shtml)",
-    "pagina": "https://f.i.uol.com.br/fotografia/2023/09/12/16945404666500a2b22d91f_1694540466_3x2_rt.jpg",
-    "tipo": "fonte",
-    "alt": "Mulher dorme abraçada a um travesseiro em cama com lençóis brancos"
-  },
-  "artigos/cerebro-criancas-tdah-ansiedade-tres-biotipos-instinct.jpg": {
-    "fonte": "Dziana Hasanbekava / Pexels (https://www.pexels.com/photo/photograph-of-a-family-playing-a-card-game-8213255/)",
-    "pagina": "https://images.pexels.com/photos/8213255/pexels-photo-8213255.jpeg",
-    "tipo": "banco",
-    "alt": "Dois adultos e uma criança jogam cartas à mesa de casa"
-  },
-  "artigos/imune-ativo-menor-risco-cancer-prostata-instinct.jpg": {
-    "fonte": "SHVETS production / Pexels (https://www.pexels.com/photo/elderly-man-wearing-eyeglasses-looking-at-a-woman-8413389/)",
-    "pagina": "https://images.pexels.com/photos/8413389/pexels-photo-8413389.jpeg",
-    "tipo": "banco",
-    "alt": "Homem mais velho conversa com uma profissional diante do computador no consultório"
-  },
-  "artigos/parar-glp1-dobro-risco-infarto-avc-morte-instinct.jpg": {
-    "fonte": "Euronews (https://pt.euronews.com/2026/11/11/suspender-farmacos-glp-1-em-diabeticos-associa-se-a-risco-duplicado-de-enfarte-avc-e-morte)",
-    "pagina": "https://images.euronews.com/articles/stories/09/98/73/78/1200x675_cmsv2_e4e930f5-4891-5a3a-ad1d-a869b98648e4-9987378.jpg",
-    "tipo": "fonte",
-    "alt": "Pessoa aplica caneta injetável de medicamento na região abdominal"
-  },
-  "artigos/proteina-ip6k-alvo-novos-remedios-doenca-chagas-instinct.jpg": {
-    "fonte": "Thaise Lara Teixeira/IQ-USP, via Agência FAPESP (https://agencia.fapesp.br/little-known-protein-is-a-potential-target-for-treating-chagas-disease-study-shows/59583)",
-    "pagina": "https://agencia.fapesp.br/files/post/59583.jpg",
-    "tipo": "fonte",
-    "alt": "Células cardíacas infectadas pelo Trypanosoma cruzi vistas em microscópio, com núcleos em azul, citoesqueleto em vermelho e parasitas em verde"
-  },
-  "artigos/exame-sangue-lesao-antecede-cancer-ovario-instinct.jpg": {
-    "fonte": "Kaboompics / Pexels (https://www.pexels.com/photo/6629390/)",
-    "pagina": "https://images.pexels.com/photos/6629390/pexels-photo-6629390.jpeg",
-    "tipo": "banco",
-    "alt": "Detalhe de agulha e tubo durante coleta de sangue no braço"
-  },
-  "artigos/vape-prolongado-queda-funcao-pulmonar-jovens-instinct.jpg": {
-    "fonte": "Anastasia Shuraeva / Pexels (https://www.pexels.com/photo/person-s-hands-on-his-chest-8795388/)",
-    "pagina": "https://images.pexels.com/photos/8795388/pexels-photo-8795388.jpeg",
-    "tipo": "banco",
-    "alt": "Homem sentado ao ar livre mantém uma mão no peito e outra no abdômen durante exercício de respiração"
-  },
-  "artigos/pressao-abaixo-120-apos-avc-reduz-eventos-optimal-stroke-instinct.jpg": {
-    "fonte": "Thirdman / Pexels (https://www.pexels.com/photo/a-healthcare-worker-measuring-a-patient-s-blood-pressure-using-a-sphygmomanometer-7659573/)",
-    "pagina": "https://images.pexels.com/photos/7659573/pexels-photo-7659573.jpeg",
-    "tipo": "banco",
-    "alt": "Profissional de saúde mede a pressão no braço de uma pessoa sentada à mesa"
-  },
-  "artigos/11-minutos-sono-exercicio-vegetais-10-menos-risco-cardiaco-instinct.jpg": {
-    "fonte": "Futura (https://www.futura-sciences.com/en/11-more-minutes-of-sleep-4-5-more-minutes-of-exercise-and-a-quarter-cup-of-vegetables-a-day-together-they-were-tied-to-10-fewer-major-heart-problems_902591/)",
-    "pagina": "https://www.futura-sciences.com/en/wp-content/uploads/2026/11/telechargement-38.webp",
-    "tipo": "fonte",
-    "alt": "Mulher sorri esticada em uma cama com lençóis lilases ao acordar"
-  },
-  "artigos/estudo-horizon-pelacarsen-lpa-nao-reduziu-eventos-instinct.jpg": {
-    "fonte": "Kaboompics / Pexels (https://www.pexels.com/photo/close-up-view-of-injection-in-arm-6629390/)",
-    "pagina": "https://images.pexels.com/photos/6629390/pexels-photo-6629390.jpeg",
-    "tipo": "banco",
-    "alt": "Detalhe de agulha e tubo durante coleta de sangue no braço"
-  },
-  "artigos/bisfosfonatos-osteoporose-associados-menos-demencia-instinct.jpg": {
-    "fonte": "ScienceDaily (http://www.sciencedaily.com/releases/2026/11/261108233037.htm)",
-    "pagina": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
-    "tipo": "fonte",
-    "alt": "Ilustração de um cérebro dentro de um escudo azul, simbolizando proteção contra demência"
-  },
-  "artigos/particulas-gordura-sangue-infarto-colesterol-controlado-instinct.jpg": {
-    "fonte": "ScienceDaily (http://www.sciencedaily.com/releases/2026/11/261109205415.htm)",
-    "pagina": "http://www.sciencedaily.com/images/1920/male-anatomy-heart-attack-ecg-graph-cardiology.webp",
-    "tipo": "fonte",
-    "alt": "Ilustração de um coração em destaque no peito com traçado de eletrocardiograma"
-  },
-  "artigos/chiclete-experimental-reduziu-o-hpv-em-ate-93-em-amostras-de-saliva-de-fonte.jpg": {
-    "fonte": "ScienceDaily",
-    "pagina": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
-    "tipo": "fonte",
-    "imagem_original": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp"
-  },
-  "artigos/fda-canetas-olho-2026-11-11-fonte.jpg": {
-    "fonte": "STAT",
-    "pagina": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/",
-    "tipo": "fonte",
-    "imagem_original": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_6400491-1024x576.jpeg"
-  },
-  "artigos/prostata-tudo-saber-2026-11-11-fonte.jpg": {
-    "fonte": "Agência Brasil",
-    "pagina": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nivel-de-conhecimento-e-prevencao-ao-cancer-de-prostata-cai-no-brasil",
-    "tipo": "fonte",
-    "imagem_original": "https://imagens.ebc.com.br/yJsWKa0Pa4N-iiKSz6PfstXUcY8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/27/_int8619.jpg?itok=R0iFZ1Y_"
-  }
+ "especialidades/cardiologia.jpg": {
+  "fotografo": "Puwadon Sang-ngern",
+  "pagina": "https://www.pexels.com/photo/crop-woman-with-stethoscope-and-heart-5340274/",
+  "fonte": "Pexels"
+ },
+ "especialidades/cardiologia-2.jpg": {
+  "fotografo": "https://kaboompics.com/",
+  "pagina": "https://www.pexels.com/photo/part-of-a-person-with-a-stethoscope-5207102/",
+  "fonte": "Pexels"
+ },
+ "especialidades/dermatologia.jpg": {
+  "fotografo": "KATRIN  BOLOVTSOVA",
+  "pagina": "https://www.pexels.com/photo/woman-in-white-robe-massaging-her-face-4672661/",
+  "fonte": "Pexels"
+ },
+ "especialidades/dermatologia-2.jpg": {
+  "fotografo": "Sora Shimazaki",
+  "pagina": "https://www.pexels.com/photo/crop-ethnic-woman-touching-cheek-against-mirror-at-home-5938260/",
+  "fonte": "Pexels"
+ },
+ "especialidades/endocrinologia.jpg": {
+  "fotografo": "Arunangshu Banerjee",
+  "pagina": "https://www.pexels.com/photo/digital-glucometer-and-lancing-device-on-wooden-surface-33200680/",
+  "fonte": "Pexels"
+ },
+ "especialidades/endocrinologia-2.jpg": {
+  "fotografo": "Towfiqu barbhuiya",
+  "pagina": "https://www.pexels.com/photo/close-up-of-person-using-a-blood-glucose-monitor-11391942/",
+  "fonte": "Pexels"
+ },
+ "especialidades/gastroenterologia.jpg": {
+  "fotografo": "Valeria Boltneva",
+  "pagina": "https://www.pexels.com/photo/bowl-of-salad-1484522/",
+  "fonte": "Pexels"
+ },
+ "especialidades/gastroenterologia-2.jpg": {
+  "fotografo": "Kampus Production",
+  "pagina": "https://www.pexels.com/photo/assorted-vegetables-in-brown-wooden-bowl-6670133/",
+  "fonte": "Pexels"
+ },
+ "especialidades/geriatria.jpg": {
+  "fotografo": "Vlada Karpovich",
+  "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
+  "fonte": "Pexels"
+ },
+ "especialidades/geriatria-2.jpg": {
+  "fotografo": "Yan Krukau",
+  "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
+  "fonte": "Pexels"
+ },
+ "especialidades/ginecologia-e-obstetricia.jpg": {
+  "fotografo": "RDNE Stock project",
+  "pagina": "https://www.pexels.com/photo/a-pregnant-woman-wearing-cap-9214910/",
+  "fonte": "Pexels"
+ },
+ "especialidades/ginecologia-e-obstetricia-2.jpg": {
+  "fotografo": "Ivan S",
+  "pagina": "https://www.pexels.com/photo/a-pregnant-woman-holding-an-apple-7990372/",
+  "fonte": "Pexels"
+ },
+ "especialidades/hepatologia.jpg": {
+  "fotografo": "https://kaboompics.com/",
+  "pagina": "https://www.pexels.com/photo/glass-tubes-with-colorful-liquids-on-table-4226902/",
+  "fonte": "Pexels"
+ },
+ "especialidades/hepatologia-2.jpg": {
+  "fotografo": "Gustavo Fring",
+  "pagina": "https://www.pexels.com/photo/person-holding-test-tube-rack-4149031/",
+  "fonte": "Pexels"
+ },
+ "especialidades/infectologia.jpg": {
+  "fotografo": "Tima Miroshnichenko",
+  "pagina": "https://www.pexels.com/photo/a-scientist-using-microscope-9574403/",
+  "fonte": "Pexels"
+ },
+ "especialidades/infectologia-2.jpg": {
+  "fotografo": "Tima Miroshnichenko",
+  "pagina": "https://www.pexels.com/photo/a-white-microscope-9574397/",
+  "fonte": "Pexels"
+ },
+ "especialidades/medicina-de-familia.jpg": {
+  "fotografo": "cottonbro studio",
+  "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
+  "fonte": "Pexels"
+ },
+ "especialidades/medicina-de-familia-2.jpg": {
+  "fotografo": "Cedric Fauntleroy",
+  "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
+  "fonte": "Pexels"
+ },
+ "especialidades/medicina-do-esporte.jpg": {
+  "fotografo": "Gustavo Fring",
+  "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
+  "fonte": "Pexels"
+ },
+ "especialidades/medicina-do-esporte-2.jpg": {
+  "fotografo": "Yaroslav Shuraev",
+  "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
+  "fonte": "Pexels"
+ },
+ "especialidades/medicina-do-sono.jpg": {
+  "fotografo": "Nitin Khajotia",
+  "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
+  "fonte": "Pexels"
+ },
+ "especialidades/medicina-do-sono-2.jpg": {
+  "fotografo": "cottonbro studio",
+  "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
+  "fonte": "Pexels"
+ },
+ "especialidades/neurologia.jpg": {
+  "fotografo": "Anna Shvets",
+  "pagina": "https://www.pexels.com/photo/a-doctor-holding-an-mri-result-of-the-brain-4226219/",
+  "fonte": "Pexels"
+ },
+ "especialidades/neurologia-2.jpg": {
+  "fotografo": "cottonbro studio",
+  "pagina": "https://www.pexels.com/photo/mri-images-of-the-brain-5723883/",
+  "fonte": "Pexels"
+ },
+ "especialidades/nutrologia.jpg": {
+  "fotografo": "Valeria Boltneva",
+  "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
+  "fonte": "Pexels"
+ },
+ "especialidades/nutrologia-2.jpg": {
+  "fotografo": "Nataliya Vaitkevich",
+  "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
+  "fonte": "Pexels"
+ },
+ "especialidades/oncologia.jpg": {
+  "fotografo": "Mikhail Nilov",
+  "pagina": "https://www.pexels.com/photo/scientist-looking-through-microscope-8851548/",
+  "fonte": "Pexels"
+ },
+ "especialidades/oncologia-2.jpg": {
+  "fotografo": "Zakir Rushanly",
+  "pagina": "https://www.pexels.com/photo/a-woman-wearing-a-lab-coat-in-a-laboratory-11811080/",
+  "fonte": "Pexels"
+ },
+ "especialidades/ortopedia.jpg": {
+  "fotografo": "Yan Krukau",
+  "pagina": "https://www.pexels.com/photo/physiotherapist-holding-womans-leg-5793895/",
+  "fonte": "Pexels"
+ },
+ "especialidades/ortopedia-2.jpg": {
+  "fotografo": "Kampus Production",
+  "pagina": "https://www.pexels.com/photo/a-woman-in-gray-tank-top-working-out-in-the-gym-6111610/",
+  "fonte": "Pexels"
+ },
+ "especialidades/pediatria.jpg": {
+  "fotografo": "Pavel Danilyuk",
+  "pagina": "https://www.pexels.com/photo/doctor-in-white-lab-coat-examining-girl-s-breath-5998445/",
+  "fonte": "Pexels"
+ },
+ "especialidades/pediatria-2.jpg": {
+  "fotografo": "Tahir Xəlfəquliyev",
+  "pagina": "https://www.pexels.com/photo/optometrist-performing-eye-exam-on-child-33029347/",
+  "fonte": "Pexels"
+ },
+ "especialidades/psiquiatria.jpg": {
+  "fotografo": "Alena Darmel",
+  "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
+  "fonte": "Pexels"
+ },
+ "especialidades/psiquiatria-2.jpg": {
+  "fotografo": "Andrea Piacquadio",
+  "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
+  "fonte": "Pexels"
+ },
+ "especialidades/urologia.jpg": {
+  "fotografo": "MART  PRODUCTION",
+  "pagina": "https://www.pexels.com/photo/hands-doctor-health-anonymous-7088834/",
+  "fonte": "Pexels"
+ },
+ "especialidades/urologia-2.jpg": {
+  "fotografo": "Los Muertos Crew",
+  "pagina": "https://www.pexels.com/photo/a-patient-at-a-doctor-s-office-8460095/",
+  "fonte": "Pexels"
+ },
+ "especialidades/geral.jpg": {
+  "fotografo": "Edward Jenner",
+  "pagina": "https://www.pexels.com/photo/female-laboratory-scientist-looking-at-a-microscope-4031525/",
+  "fonte": "Pexels"
+ },
+ "especialidades/geral-2.jpg": {
+  "fotografo": "https://kaboompics.com/",
+  "pagina": "https://www.pexels.com/photo/glassware-with-colorful-liquid-substances-on-a-lab-desk-8540819/",
+  "fonte": "Pexels"
+ },
+ "artigos/anabolizante-coracao-oslo.jpg": {
+  "fotografo": "Tima Miroshnichenko",
+  "pagina": "https://www.pexels.com/photo/a-man-working-out-using-dumbbells-5327471/",
+  "fonte": "Pexels"
+ },
+ "artigos/cafe-de-manha-risco-de-morte.jpg": {
+  "fotografo": "Duygu  M",
+  "pagina": "https://www.pexels.com/photo/a-close-up-shot-of-a-cup-of-coffee-12125694/",
+  "fonte": "Pexels"
+ },
+ "artigos/creatina-12-semanas.jpg": {
+  "fotografo": "Vlada Karpovich",
+  "pagina": "https://www.pexels.com/photo/a-person-scooping-powder-from-a-jar-6944061/",
+  "fonte": "Pexels"
+ },
+ "artigos/musculacao-memoria-idosos.jpg": {
+  "fotografo": "Kampus Production",
+  "pagina": "https://www.pexels.com/photo/elderly-man-in-red-shirt-working-out-in-the-gym-6922172/",
+  "fonte": "Pexels"
+ },
+ "artigos/cafe-trombose.jpg": {
+  "fotografo": "Nur Boyacı",
+  "pagina": "https://www.pexels.com/photo/foamy-coffee-in-a-ceramic-cup-from-above-35061739/",
+  "fonte": "Pexels"
+ },
+ "artigos/luz-no-sono.jpg": {
+  "fotografo": "SHVETS production",
+  "pagina": "https://www.pexels.com/photo/woman-lying-on-bed-while-using-a-cellphone-8036688/",
+  "fonte": "Pexels"
+ },
+ "artigos/antipsicotico-90-dias.jpg": {
+  "fotografo": "MART  PRODUCTION",
+  "pagina": "https://www.pexels.com/photo/close-up-shot-of-softgel-capsules-7277984/",
+  "fonte": "Pexels"
+ },
+ "artigos/dor-depressao-refrataria.jpg": {
+  "fotografo": "Nam Phong Bùi",
+  "pagina": "https://www.pexels.com/photo/photo-of-woman-wearing-eyeglasses-2498128/",
+  "fonte": "Pexels"
+ },
+ "artigos/dor-musculo-nervo.jpg": {
+  "fotografo": "https://kaboompics.com/",
+  "pagina": "https://www.pexels.com/photo/woman-touching-her-back-4506105/",
+  "fonte": "Pexels"
+ },
+ "artigos/forma-fisica-35-anos.jpg": {
+  "fotografo": "Liliana Drew",
+  "pagina": "https://www.pexels.com/photo/man-in-orange-crew-neck-t-shirt-running-8498120/",
+  "fonte": "Pexels"
+ },
+ "artigos/horas-acordado.jpg": {
+  "fotografo": "cottonbro studio",
+  "pagina": "https://www.pexels.com/photo/pretty-woman-covering-her-eyes-9063388/",
+  "fonte": "Pexels"
+ },
+ "artigos/osso-sting.jpg": {
+  "fotografo": "cottonbro studio",
+  "pagina": "https://www.pexels.com/photo/x-ray-of-the-hands-5723885/",
+  "fonte": "Pexels"
+ },
+ "editorias/saude-tech.jpg": {
+  "fotografo": "MART  PRODUCTION",
+  "pagina": "https://www.pexels.com/photo/close-up-shot-of-a-person-using-a-smartwatch-8032913/",
+  "fonte": "Pexels"
+ },
+ "editorias/canetas-emagrecedoras.jpg": {
+  "fotografo": "Haberdoedas Photography",
+  "pagina": "https://www.pexels.com/photo/close-up-of-semaglutide-injection-pen-on-surface-32532049/",
+  "fonte": "Pexels"
+ },
+ "editorias/mercado-de-saude.jpg": {
+  "fotografo": "World Sikh Organization of Canada",
+  "pagina": "https://www.pexels.com/photo/pharmacist-in-front-of-shelves-with-medicines-14797855/",
+  "fonte": "Pexels"
+ },
+ "artigos/canetas-sem-registro.jpg": {
+  "fotografo": "Pavel Danilyuk",
+  "pagina": "https://www.pexels.com/photo/a-woman-holding-an-insulin-injection-pen-7653692/",
+  "fonte": "Pexels"
+ },
+ "artigos/potassio-por-tipo.jpg": {
+  "fotografo": "Engin Akyurt",
+  "pagina": "https://www.pexels.com/photo/close-up-shot-of-yellow-banana-10112720/",
+  "fonte": "Pexels"
+ },
+ "editorias/saude.jpg": {
+  "fotografo": "cottonbro studio",
+  "pagina": "https://www.pexels.com/photo/a-doctor-talking-the-patient-7579831/",
+  "fonte": "Pexels"
+ },
+ "editorias/saude-2.jpg": {
+  "fotografo": "Cedric Fauntleroy",
+  "pagina": "https://www.pexels.com/photo/a-doctor-talking-to-a-patient-while-holding-a-tablet-4266931/",
+  "fonte": "Pexels"
+ },
+ "editorias/sono.jpg": {
+  "fotografo": "Nitin Khajotia",
+  "pagina": "https://www.pexels.com/photo/man-in-black-t-shirt-sleeping-10665319/",
+  "fonte": "Pexels"
+ },
+ "editorias/sono-2.jpg": {
+  "fotografo": "cottonbro studio",
+  "pagina": "https://www.pexels.com/photo/warm-light-shining-on-the-man-lying-on-the-bed-6943421/",
+  "fonte": "Pexels"
+ },
+ "editorias/longevidade.jpg": {
+  "fotografo": "Vlada Karpovich",
+  "pagina": "https://www.pexels.com/photo/an-elderly-man-and-woman-carrying-yoga-mats-while-walking-8939885/",
+  "fonte": "Pexels"
+ },
+ "editorias/longevidade-2.jpg": {
+  "fotografo": "Yan Krukau",
+  "pagina": "https://www.pexels.com/photo/an-elderly-couple-swaying-their-hips-6815692/",
+  "fonte": "Pexels"
+ },
+ "editorias/nutricao.jpg": {
+  "fotografo": "Valeria Boltneva",
+  "pagina": "https://www.pexels.com/photo/round-stainless-steel-bowl-with-cooked-meat-and-vegetables-842545/",
+  "fonte": "Pexels"
+ },
+ "editorias/nutricao-2.jpg": {
+  "fotografo": "Nataliya Vaitkevich",
+  "pagina": "https://www.pexels.com/photo/a-person-slicing-a-potato-5377340/",
+  "fonte": "Pexels"
+ },
+ "editorias/performance.jpg": {
+  "fotografo": "Gustavo Fring",
+  "pagina": "https://www.pexels.com/photo/a-man-getting-ready-for-a-run-4920437/",
+  "fonte": "Pexels"
+ },
+ "editorias/performance-2.jpg": {
+  "fotografo": "Yaroslav Shuraev",
+  "pagina": "https://www.pexels.com/photo/woman-in-activewear-tying-her-shoe-8692132/",
+  "fonte": "Pexels"
+ },
+ "editorias/saude-mental.jpg": {
+  "fotografo": "Alena Darmel",
+  "pagina": "https://www.pexels.com/photo/a-woman-meditating-while-her-hands-are-together-6643230/",
+  "fonte": "Pexels"
+ },
+ "editorias/saude-mental-2.jpg": {
+  "fotografo": "Andrea Piacquadio",
+  "pagina": "https://www.pexels.com/photo/calm-woman-in-sleepwear-on-bed-at-home-3791605/",
+  "fonte": "Pexels"
+ },
+ "artigos/cafe-trombose-fonte.jpg": {
+  "fonte": "News-Medical",
+  "pagina": "https://www.news-medical.net/news/20261014/Coffee-drinkers-had-fewer-repeat-blood-clots-in-a-Norwegian-study.aspx",
+  "tipo": "fonte",
+  "imagem_original": "https://www.news-medical.net/images/news/ImageForNews_848895_17920349279453297.jpg"
+ },
+ "artigos/duas-doses-de-alcool-por-dia-ja-elevam-o-risco-de-morte-por-causas-lig-fonte.jpg": {
+  "fonte": "The Health Brief",
+  "pagina": "https://thehealthbrief.com.br/estudo-aponta-riscos-severos-do-consumo-moderado-de-alcool",
+  "tipo": "fonte",
+  "imagem_original": "https://thehealthbrief.com.br/storage/blog-feature-images/JmaevoQvrrWfmKMttLXp7lylTINvXBTSzGReL5MS.jpg"
+ },
+ "artigos/estatina-pode-abrir-um-canal-de-calcio-no-musculo-o-que-explica-a-dor-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/human-muscle-fibers-pain-healing.webp"
+ },
+ "artigos/flo-google-health-fonte.jpg": {
+  "fonte": "Google",
+  "pagina": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+  "tipo": "fonte",
+  "imagem_original": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellness_hero.width-1300.png"
+ },
+ "artigos/forma-fisica-35-anos-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/tired-asian-man-fitness-running-exercise-looking-at-watch.webp"
+ },
+ "artigos/goma-de-cannabis-para-dormir-cbn-causou-tolerancia-e-abstinencia-em-ca-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/cannabis-sleep-research.webp"
+ },
+ "artigos/sacituzumabe-tirumotecano-reduz-risco-de-morte-em-um-terco-no-cancer-d-fonte.jpg": {
+  "fonte": "STAT",
+  "pagina": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
+  "tipo": "fonte",
+  "imagem_original": "https://www.statnews.com/wp-content/uploads/2024/03/AdobeStock_421143532_Editorial_Use_Only-1024x576.jpeg"
+ },
+ "artigos/sono-do-alzheimer-em-camundongos-celulas-de-defesa-do-cerebro-tiram-ma-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp"
+ },
+ "artigos/subtipo-circadiano-de-depressao-23-dos-pacientes-e-pior-resposta-a-ant-fonte.jpg": {
+  "fonte": "News-Medical",
+  "pagina": "https://www.news-medical.net/news/20261022/Depression-profile-linked-to-disrupted-sleep-and-poorer-treatment-responses.aspx",
+  "tipo": "fonte",
+  "imagem_original": "https://www.news-medical.net/images/news/ImageForNews_849340_17926601133276861.jpg"
+ },
+ "artigos/taurina-sobe-com-a-idade-e-em-camundongos-idosos-mais-taurina-melhorou-fonte.jpg": {
+  "fonte": "News-Medical",
+  "pagina": "https://www.news-medical.net/news/20261023/Taurine-helps-regulate-inflammation-linked-to-aging-Yale-study-finds.aspx",
+  "tipo": "fonte",
+  "imagem_original": "https://www.news-medical.net/image-handler/picture/2014/7/Pathology-620x480.jpg"
+ },
+ "artigos/canetas-sem-registro-fonte.jpg": {
+  "fonte": "Agência Brasil",
+  "pagina": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
+  "tipo": "fonte",
+  "imagem_original": "https://imagens.ebc.com.br/-ACkQi3vTrCa-zfbTAiEcWFFYm8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/insulina_teste_05082110263.jpg?itok=QN4khn2s"
+ },
+ "artigos/anticorpos-que-desligam-a-defesa-natural-explicam-parte-da-doenca-infl-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/human-body-digestive-system-boost.webp"
+ },
+ "artigos/bacterias-do-intestino-explicam-cerca-de-15-da-velocidade-do-envelheci-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp"
+ },
+ "artigos/fibra-inulina-reduziu-dor-no-joelho-de-quem-tem-artrose-em-ensaio-de-6-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/knee-joint-pain-woman.webp"
+ },
+ "artigos/mayo-clinic-apresenta-sete-estudos-sobre-as-celulas-zumbis-do-envelhec-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/aptamers-zombie-cells.webp"
+ },
+ "artigos/spray-nasal-de-veneno-de-sapo-reduziu-depressao-que-nao-respondia-a-re-fonte.jpg": {
+  "fonte": "Metrópoles",
+  "pagina": "https://www.metropoles.com/saude/spray-nasal-a-base-de-veneno-de-sapo-pode-aliviar-depressao-por-semanas",
+  "tipo": "fonte",
+  "imagem_original": "https://i.metroimg.com/dsmXKC6laE0gDWeND6F3hppPgOcl5BSIWQLnLrS6PsE/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/02/nasal-foto.jpg"
+ },
+ "artigos/em-10-de-12-vegetais-e-frutas-o-que-a-gente-joga-fora-tem-mais-fibra-fonte.jpg": {
+  "fonte": "News-Medical",
+  "pagina": "https://www.news-medical.net/news/20261029/Discarded-fruit-and-vegetable-parts-offer-overlooked-fiber-benefits.aspx",
+  "tipo": "fonte",
+  "imagem_original": "https://www.news-medical.net/image-handler/picture/2019/5/Assortment_of_fresh_fruits_and_vegetables_-_Image_-_Alexander_Raths_A1_3c4a26f865c44eea80b0017c2dc1c858-620x480.jpg"
+ },
+ "artigos/em-camundongos-musculo-velho-sacrifica-forca-para-proteger-as-celulas-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/senior-woman-flexing-muscles.webp"
+ },
+ "artigos/menos-de-42-minutos-de-luz-forte-por-dia-foi-associado-a-mais-demencia-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/senior-woman-outside-in-bright-sunlight.webp"
+ },
+ "artigos/suco-de-cranberry-sem-acucar-pode-ajudar-contra-carie-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/pouring-fresh-cranberry-juice.webp"
+ },
+ "artigos/uma-em-cada-quatro-avaliacoes-do-remedio-para-insonia-lemborexanto-rel-fonte.jpg": {
+  "fonte": "News-Medical",
+  "pagina": "https://www.news-medical.net/news/20261029/Online-reviews-reveal-troubling-side-effects-of-insomnia-drug-lemborexant.aspx",
+  "tipo": "fonte",
+  "imagem_original": "https://www.news-medical.net/image-handler/picture/2014/7/Insomnia-620x480.jpg"
+ },
+ "artigos/20261027-ia-pancreas-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/pancreatic-cancer-male-anatomy.webp"
+ },
+ "artigos/bloquear-uma-enzima-derrubou-o-ldl-em-camundongos-e-o-remedio-ja-passo-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/cholesterol-plaque-buildup-narrowed-blood-vessel.webp"
+ },
+ "artigos/cientistas-acham-onde-a-toxina-de-uma-bacteria-comum-do-intestino-se-p-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp"
+ },
+ "artigos/exame-de-sangue-que-mede-p-tau217-previu-declinio-cognitivo-em-idosos-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/alzheimers-disease-blood-test-tube.webp"
+ },
+ "artigos/20261027-melatonina-coracao-fonte.jpg": {
+  "fonte": "Metrópoles",
+  "pagina": "https://www.metropoles.com/saude/estudo-liga-melatonina-a-risco-89-maior-de-insuficiencia-cardiaca",
+  "tipo": "fonte",
+  "imagem_original": "https://i.metroimg.com/YpP51KGEvgaqvzInkqvwPGNU0uvzbqYuivXskCnKTO4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/melatonina-suplemento-insuficiencia-cardiaca.jpg"
+ },
+ "artigos/20261027-aspirina-demencia-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/aspirin-pills-close.webp"
+ },
+ "artigos/implante-eletrico-baixou-o-acucar-no-sangue-de-camundongos-diabeticos-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/blood-sugar-illustration.webp"
+ },
+ "artigos/peso-a-mais-foi-associado-a-queda-mais-rapida-de-memoria-e-atencao-em-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/male-brain-scan-obesity.webp"
+ },
+ "artigos/em-46-criancas-mais-ultraprocessados-foi-associado-a-mais-resposta-do-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/cute-boy-donut-eyes.webp"
+ },
+ "artigos/20261027-variar-exercicios-fonte.jpg": {
+  "fonte": "Veja Saúde",
+  "pagina": "https://saude.abril.com.br/fitness/variar-os-exercicios-praticados-ajuda-a-prolongar-a-vida-diz-estudo/",
+  "tipo": "fonte",
+  "imagem_original": "https://saude.abril.com.br/wp-content/uploads/2026/10/532-atividade-fisica-variar-exercicio.png?quality=85&strip=info&resize=1200,630&crop=1"
+ },
+ "artigos/horario-de-verao-permanente-poderia-levar-mais-de-1-bilhao-de-criancas-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/school-bus-driving-on-highway-at-dawn.webp"
+ },
+ "artigos/tau-se-acumula-mais-de-duas-vezes-mais-rapido-no-alzheimer-que-comeca-fonte.jpg": {
+  "fonte": "News-Medical",
+  "pagina": "https://www.news-medical.net/news/20261105/Tau-spreads-more-rapidly-in-early-onset-Alzheimers-disease.aspx",
+  "tipo": "fonte",
+  "imagem_original": "https://www.news-medical.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg"
+ },
+ "artigos/mpox-rio-2026-11-04-fonte.jpg": {
+  "fonte": "Governo Federal",
+  "pagina": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-reforca-vacinacao-e-vigilancia-da-mpox-no-rio-de-janeiro",
+  "tipo": "fonte",
+  "imagem_original": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-reforca-vacinacao-e-vigilancia-da-mpox-no-rio-de-janeiro/vacina-mpox.jpg/@@images/caa8329d-0071-4e0a-809c-cfabdb958373.jpeg"
+ },
+ "artigos/comer-tarde-da-noite-e-dormir-fora-de-hora-ligados-a-mais-inflamacao-e-fonte.jpg": {
+  "fonte": "News-Medical",
+  "pagina": "https://www.news-medical.net/news/20261109/Late-night-eating-and-sleep-habits-damage-gut-health-increase-metabolic-disease-risk.aspx",
+  "tipo": "fonte",
+  "imagem_original": "https://www.news-medical.net/image-handler/picture/2014/7/Gastroenterology-620x480.jpg"
+ },
+ "artigos/hiv-generico-40-2026-11-04-fonte.jpg": {
+  "fonte": "Exame",
+  "pagina": "https://exame.com/ciencia/eua-aprovam-generico-de-medicamento-que-previne-hiv-e-custa-us-40-por-ano/",
+  "tipo": "fonte",
+  "imagem_original": "https://classic.exame.com/wp-content/uploads/2026/11/AFP__20261102__D67E9G3__v1__HighRes__FilesSafricaHealthHivLenacapavir.jpg"
+ },
+ "artigos/pantetina-derivado-da-vitamina-b5-evitou-psoriase-em-camundongos-e-aju-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/woman-pouring-vitamin-d-omega-3-vitamin-supplements-into-hand.webp"
+ },
+ "artigos/remedios-de-osteoporose-foram-associados-a-ate-24-menos-risco-de-demen-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp"
+ },
+ "artigos/suplemento-oxaloacetato-e-nevoa-mental-depois-do-cancer-de-mama-estudo-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/brain-fog-woman-head-in-clouds.webp"
+ },
+ "artigos/terapia-de-celulas-de-defesa-que-so-liga-dentro-do-cerebro-eliminou-tu-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/brain-cancer-tumor-blood-vessels.webp"
+ },
+ "artigos/20261110-alcool-carcinogeno-fonte.jpg": {
+  "fonte": "OMS",
+  "pagina": "https://www.who.int/europe/news/item/04-01-2023-no-level-of-alcohol-consumption-is-safe-for-our-health",
+  "tipo": "fonte",
+  "imagem_original": "https://cdn.who.int/media/images/librariesprovider2/default-album/health-topic-images/alcohol/no-level-of-alcohol-consumption-is-safe-for-our-health.tmb-1200v.jpg?sfvrsn=3a117263_4"
+ },
+ "artigos/escitalopram-entre-os-antidepressivos-que-mais-evitam-recaida-melhor-q-fonte.jpg": {
+  "fonte": "BBC News",
+  "pagina": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+  "tipo": "fonte",
+  "imagem_original": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg"
+ },
+ "artigos/sarampo-ny-2026-11-04-fonte.jpg": {
+  "fonte": "STAT",
+  "pagina": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/",
+  "tipo": "fonte",
+  "imagem_original": "https://www.statnews.com/wp-content/uploads/2026/11/AP26281819303780-1024x576.jpg"
+ },
+ "artigos/jejum-intermitente-gordura-figado-dieta-mediterranea-instinct.jpg": {
+  "fonte": "Alesia Kozik / Pexels (https://www.pexels.com/photo/x-6065181/)",
+  "pagina": "https://images.pexels.com/photos/6065181/pexels-photo-6065181.jpeg",
+  "tipo": "banco",
+  "alt": "Dois bowls coloridos de comida saudável sobre a mesa"
+ },
+ "artigos/postar-madrugada-instagram-associa-solidao-emocional-instinct.jpg": {
+  "fonte": "O Globo (https://oglobo.globo.com/saude/noticia/2026/11/10/postagens-noturnas-estudo-mostra-como-seu-comportamento-no-instagram-revela-o-quanto-voce-se-sente-solitario.ghtml)",
+  "pagina": "https://s2-oglobo.glbimg.com/TWXIN2d0-vJtEXy0kEIP-p5fTLU=/1472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/P/i/8j5nBATSG1QalTsTXUIQ/cute-teenage-girl-is-taking-pictures-phone-girl-headphones.jpg",
+  "tipo": "fonte",
+  "alt": "Jovem de fones de ouvido olha o celular sentada ao ar livre"
+ },
+ "artigos/diabetes-tipo-2-risco-53-maior-alzheimer-meta-analise-instinct.jpg": {
+  "fonte": "i-SENS, USA / Pexels (https://www.pexels.com/photo/a-person-holding-a-blood-glucose-meter-on-a-table-17072086/)",
+  "pagina": "https://images.pexels.com/photos/17072086/pexels-photo-17072086/free-photo-of-a-person-holding-a-blood-glucose-meter-on-a-table.jpeg",
+  "tipo": "banco",
+  "alt": "Mão segura um medidor de glicose sobre uma mesa de madeira"
+ },
+ "artigos/treino-de-forca-reduz-perda-de-musculo-com-tirzepatida-instinct.jpg": {
+  "fonte": "University of Western Australia (https://www.uwa.edu.au/news/article/2026/november/resistance-training-key-to-maintaining-muscle-function-during-glp1-weight-loss)",
+  "pagina": "http://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2026/weight-train-card.jpg",
+  "tipo": "fonte",
+  "alt": "Pessoa pegando halteres em um suporte de academia, em treino de força"
+ },
+ "artigos/luminoah-capta-us-25-milhoes-bomba-enteral-instinct.jpg": {
+  "fonte": "Luminoah (https://www.luminoah.com)",
+  "pagina": "https://luminoah.com/wp-content/uploads/2026/11/Luminoah-System-mobile.lum.webp",
+  "tipo": "fonte",
+  "alt": "Bomba de alimentação enteral Luminoah Flow com aplicativo no celular e bolsa de nutrição"
+ },
+ "artigos/comer-menos-proteina-desacelerar-envelhecimento-instinct.jpg": {
+  "fonte": "ScienceDaily (http://www.sciencedaily.com/releases/2026/11/261108203714.htm)",
+  "pagina": "http://www.sciencedaily.com/images/1920/body-rejuvenation-longevity-strength-boost.webp",
+  "tipo": "fonte",
+  "alt": "Ilustração de um corpo humano digital com gráficos ao redor, simbolizando longevidade"
+ },
+ "artigos/zus-health-capta-us-33-milhoes-prontuario-conectado-instinct.jpg": {
+  "fonte": "Zus Health (https://www.zushealth.com)",
+  "pagina": "https://cdn.prod.website-files.com/69ebb86c9c3cd78bac500783/6abd04067021ca4945babb64_dc9fa26c7b17f4a36a4b39aac46f9f43_opengraph%20%282%29.jpg",
+  "tipo": "fonte",
+  "alt": "Logotipo da Zus Health em fundo verde"
+ },
+ "artigos/anvisa-aprova-generico-semaglutida-22-canetas-2026-instinct.jpg": {
+  "fonte": "O Globo (https://oglobo.globo.com/saude/noticia/2026/11/10/anvisa-aprova-generico-de-semaglutida-e-novo-medicamento-similar-ao-ozempic.ghtml)",
+  "pagina": "https://s2-oglobo.glbimg.com/ebVuNmGihKWQFJE6RjHhFKnWDfQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/H/E/cMzPbBQxS3xLhHemdx5Q/semaglutida-pode-ter-novo-beneficio-para-o-coracao-aponta-estudo.jpg",
+  "tipo": "fonte",
+  "alt": "Pessoa aplica caneta injetável de semaglutida na região abdominal"
+ },
+ "artigos/fda-exige-aviso-doenca-rara-visao-canetas-emagrecedoras-instinct.jpg": {
+  "fonte": "Haberdoedas Photography / Pexels (https://www.pexels.com/photo/close-up-of-semaglutide-injection-pen-on-surface-32532049/)",
+  "pagina": "https://images.pexels.com/photos/32532049/pexels-photo-32532049/free-photo-of-close-up-of-semaglutide-injection-pen-on-surface.jpeg",
+  "tipo": "banco",
+  "alt": "Caneta injetável de semaglutida sobre superfície clara"
+ },
+ "artigos/novo-anticoagulante-reduz-26-risco-segundo-avc-instinct.jpg": {
+  "fonte": "Thirdman / Pexels (https://www.pexels.com/photo/a-healthcare-worker-measuring-a-patient-s-blood-pressure-using-a-sphygmomanometer-7659573/)",
+  "pagina": "https://images.pexels.com/photos/7659573/pexels-photo-7659573.jpeg",
+  "tipo": "banco",
+  "alt": "Profissional de saúde mede a pressão arterial de uma paciente"
+ },
+ "artigos/dieta-exercicio-54-remissao-diabetes-tipo-2-jovens-instinct.jpg": {
+  "fonte": "i-SENS, USA / Pexels (https://www.pexels.com/photo/a-person-holding-a-blood-glucose-meter-on-a-table-17072086/)",
+  "pagina": "https://images.pexels.com/photos/17072086/pexels-photo-17072086/free-photo-of-a-person-holding-a-blood-glucose-meter-on-a-table.jpeg",
+  "tipo": "banco",
+  "alt": "Mão segura um medidor de glicose sobre uma mesa de madeira ao ar livre"
+ },
+ "artigos/sono-rem-profundo-menor-risco-90-doencas-instinct.jpg": {
+  "fonte": "Folha de S.Paulo (https://www1.folha.uol.com.br/equilibrio/2026/11/dormir-bem-pode-reduzir-o-risco-de-desenvolver-90-doencas-diz-estudo.shtml)",
+  "pagina": "https://f.i.uol.com.br/fotografia/2023/09/12/16945404666500a2b22d91f_1694540466_3x2_rt.jpg",
+  "tipo": "fonte",
+  "alt": "Mulher dorme abraçada a um travesseiro em cama com lençóis brancos"
+ },
+ "artigos/cerebro-criancas-tdah-ansiedade-tres-biotipos-instinct.jpg": {
+  "fonte": "Dziana Hasanbekava / Pexels (https://www.pexels.com/photo/photograph-of-a-family-playing-a-card-game-8213255/)",
+  "pagina": "https://images.pexels.com/photos/8213255/pexels-photo-8213255.jpeg",
+  "tipo": "banco",
+  "alt": "Dois adultos e uma criança jogam cartas à mesa de casa"
+ },
+ "artigos/imune-ativo-menor-risco-cancer-prostata-instinct.jpg": {
+  "fonte": "SHVETS production / Pexels (https://www.pexels.com/photo/elderly-man-wearing-eyeglasses-looking-at-a-woman-8413389/)",
+  "pagina": "https://images.pexels.com/photos/8413389/pexels-photo-8413389.jpeg",
+  "tipo": "banco",
+  "alt": "Homem mais velho conversa com uma profissional diante do computador no consultório"
+ },
+ "artigos/parar-glp1-dobro-risco-infarto-avc-morte-instinct.jpg": {
+  "fonte": "Euronews (https://pt.euronews.com/2026/11/11/suspender-farmacos-glp-1-em-diabeticos-associa-se-a-risco-duplicado-de-enfarte-avc-e-morte)",
+  "pagina": "https://images.euronews.com/articles/stories/09/98/73/78/1200x675_cmsv2_e4e930f5-4891-5a3a-ad1d-a869b98648e4-9987378.jpg",
+  "tipo": "fonte",
+  "alt": "Pessoa aplica caneta injetável de medicamento na região abdominal"
+ },
+ "artigos/proteina-ip6k-alvo-novos-remedios-doenca-chagas-instinct.jpg": {
+  "fonte": "Thaise Lara Teixeira/IQ-USP, via Agência FAPESP (https://agencia.fapesp.br/little-known-protein-is-a-potential-target-for-treating-chagas-disease-study-shows/59583)",
+  "pagina": "https://agencia.fapesp.br/files/post/59583.jpg",
+  "tipo": "fonte",
+  "alt": "Células cardíacas infectadas pelo Trypanosoma cruzi vistas em microscópio, com núcleos em azul, citoesqueleto em vermelho e parasitas em verde"
+ },
+ "artigos/exame-sangue-lesao-antecede-cancer-ovario-instinct.jpg": {
+  "fonte": "Kaboompics / Pexels (https://www.pexels.com/photo/6629390/)",
+  "pagina": "https://images.pexels.com/photos/6629390/pexels-photo-6629390.jpeg",
+  "tipo": "banco",
+  "alt": "Detalhe de agulha e tubo durante coleta de sangue no braço"
+ },
+ "artigos/vape-prolongado-queda-funcao-pulmonar-jovens-instinct.jpg": {
+  "fonte": "Anastasia Shuraeva / Pexels (https://www.pexels.com/photo/person-s-hands-on-his-chest-8795388/)",
+  "pagina": "https://images.pexels.com/photos/8795388/pexels-photo-8795388.jpeg",
+  "tipo": "banco",
+  "alt": "Homem sentado ao ar livre mantém uma mão no peito e outra no abdômen durante exercício de respiração"
+ },
+ "artigos/pressao-abaixo-120-apos-avc-reduz-eventos-optimal-stroke-instinct.jpg": {
+  "fonte": "Thirdman / Pexels (https://www.pexels.com/photo/a-healthcare-worker-measuring-a-patient-s-blood-pressure-using-a-sphygmomanometer-7659573/)",
+  "pagina": "https://images.pexels.com/photos/7659573/pexels-photo-7659573.jpeg",
+  "tipo": "banco",
+  "alt": "Profissional de saúde mede a pressão no braço de uma pessoa sentada à mesa"
+ },
+ "artigos/11-minutos-sono-exercicio-vegetais-10-menos-risco-cardiaco-instinct.jpg": {
+  "fonte": "Futura (https://www.futura-sciences.com/en/11-more-minutes-of-sleep-4-5-more-minutes-of-exercise-and-a-quarter-cup-of-vegetables-a-day-together-they-were-tied-to-10-fewer-major-heart-problems_902591/)",
+  "pagina": "https://www.futura-sciences.com/en/wp-content/uploads/2026/11/telechargement-38.webp",
+  "tipo": "fonte",
+  "alt": "Mulher sorri esticada em uma cama com lençóis lilases ao acordar"
+ },
+ "artigos/estudo-horizon-pelacarsen-lpa-nao-reduziu-eventos-instinct.jpg": {
+  "fonte": "Kaboompics / Pexels (https://www.pexels.com/photo/close-up-view-of-injection-in-arm-6629390/)",
+  "pagina": "https://images.pexels.com/photos/6629390/pexels-photo-6629390.jpeg",
+  "tipo": "banco",
+  "alt": "Detalhe de agulha e tubo durante coleta de sangue no braço"
+ },
+ "artigos/bisfosfonatos-osteoporose-associados-menos-demencia-instinct.jpg": {
+  "fonte": "ScienceDaily (http://www.sciencedaily.com/releases/2026/11/261108233037.htm)",
+  "pagina": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
+  "tipo": "fonte",
+  "alt": "Ilustração de um cérebro dentro de um escudo azul, simbolizando proteção contra demência"
+ },
+ "artigos/particulas-gordura-sangue-infarto-colesterol-controlado-instinct.jpg": {
+  "fonte": "ScienceDaily (http://www.sciencedaily.com/releases/2026/11/261109205415.htm)",
+  "pagina": "http://www.sciencedaily.com/images/1920/male-anatomy-heart-attack-ecg-graph-cardiology.webp",
+  "tipo": "fonte",
+  "alt": "Ilustração de um coração em destaque no peito com traçado de eletrocardiograma"
+ },
+ "artigos/chiclete-experimental-reduziu-o-hpv-em-ate-93-em-amostras-de-saliva-de-fonte.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
+  "tipo": "fonte",
+  "imagem_original": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp"
+ },
+ "artigos/fda-canetas-olho-2026-11-11-fonte.jpg": {
+  "fonte": "STAT",
+  "pagina": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/",
+  "tipo": "fonte",
+  "imagem_original": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_6400491-1024x576.jpeg"
+ },
+ "artigos/prostata-tudo-saber-2026-11-11-fonte.jpg": {
+  "fonte": "Agência Brasil",
+  "pagina": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/nivel-de-conhecimento-e-prevencao-ao-cancer-de-prostata-cai-no-brasil",
+  "tipo": "fonte",
+  "imagem_original": "https://imagens.ebc.com.br/yJsWKa0Pa4N-iiKSz6PfstXUcY8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/27/_int8619.jpg?itok=R0iFZ1Y_"
+ },
+ "artigos/ai-pathology-ia-celular-triagem-cancer-pele-instinct.jpg": {
+  "fonte": "Divulgação / AI Pathology (via Revista PEGN)",
+  "pagina": "https://s2-pegn.glbimg.com/9c5dPKTQetIvSoD2JUJ0srXF9a0=/0x0:2000x3000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba41d7b1ff5f48b28d3c5f84f30a06af/internal_photos/bs/2026/g/7/KCsF1QT7AO9zCth5D7fw/39a06dc02626bcfaca7dabf5-img-9708.jpg",
+  "tipo": "instinct",
+  "alt": "Willian Boelcke, fundador e CEO da AI Pathology"
+ },
+ "artigos/treino-de-forca-reduz-perda-de-musculo-com-tirzepatida-planilha.jpg": {
+  "fonte": "University of Western Australia",
+  "pagina": "http://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2026/weight-train-card.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/bisfosfonatos-osteoporose-associados-menos-demencia-planilha.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
+  "tipo": "fonte"
+ },
+ "artigos/luminoah-capta-us-25-milhoes-bomba-enteral-planilha.jpg": {
+  "fonte": "Luminoah",
+  "pagina": "https://luminoah.com/wp-content/uploads/2026/11/Luminoah-System-mobile.lum.webp",
+  "tipo": "fonte"
+ },
+ "artigos/particulas-gordura-sangue-infarto-colesterol-controlado-planilha.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "http://www.sciencedaily.com/images/1920/male-anatomy-heart-attack-ecg-graph-cardiology.webp",
+  "tipo": "fonte"
+ },
+ "artigos/comer-menos-proteina-desacelerar-envelhecimento-planilha.jpg": {
+  "fonte": "ScienceDaily",
+  "pagina": "http://www.sciencedaily.com/images/1920/body-rejuvenation-longevity-strength-boost.webp",
+  "tipo": "fonte"
+ },
+ "artigos/zus-health-capta-us-33-milhoes-prontuario-conectado-planilha.jpg": {
+  "fonte": "Zus Health",
+  "pagina": "https://cdn.prod.website-files.com/69ebb86c9c3cd78bac500783/6abd04067021ca4945babb64_dc9fa26c7b17f4a36a4b39aac46f9f43_opengraph%20%282%29.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/anvisa-aprova-generico-semaglutida-22-canetas-2026-planilha.jpg": {
+  "fonte": "O Globo",
+  "pagina": "https://s2-oglobo.glbimg.com/ebVuNmGihKWQFJE6RjHhFKnWDfQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/H/E/cMzPbBQxS3xLhHemdx5Q/semaglutida-pode-ter-novo-beneficio-para-o-coracao-aponta-estudo.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/fda-exige-aviso-doenca-rara-visao-canetas-emagrecedoras-planilha.jpg": {
+  "fonte": "Haberdoedas Photography / Pexels",
+  "pagina": "https://images.pexels.com/photos/32532049/pexels-photo-32532049/free-photo-of-close-up-of-semaglutide-injection-pen-on-surface.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/novo-anticoagulante-reduz-26-risco-segundo-avc-planilha.jpg": {
+  "fonte": "Thirdman / Pexels",
+  "pagina": "https://images.pexels.com/photos/7659573/pexels-photo-7659573.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/postar-madrugada-instagram-associa-solidao-emocional-planilha.jpg": {
+  "fonte": "O Globo",
+  "pagina": "https://s2-oglobo.glbimg.com/TWXIN2d0-vJtEXy0kEIP-p5fTLU=/1472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/P/i/8j5nBATSG1QalTsTXUIQ/cute-teenage-girl-is-taking-pictures-phone-girl-headphones.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/dieta-exercicio-54-remissao-diabetes-tipo-2-jovens-planilha.jpg": {
+  "fonte": "i-SENS, USA / Pexels",
+  "pagina": "https://images.pexels.com/photos/17072086/pexels-photo-17072086/free-photo-of-a-person-holding-a-blood-glucose-meter-on-a-table.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/sono-rem-profundo-menor-risco-90-doencas-planilha.jpg": {
+  "fonte": "Folha de S.Paulo",
+  "pagina": "https://f.i.uol.com.br/fotografia/2023/09/12/16945404666500a2b22d91f_1694540466_3x2_rt.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/cerebro-criancas-tdah-ansiedade-tres-biotipos-planilha.jpg": {
+  "fonte": "Dziana Hasanbekava / Pexels",
+  "pagina": "https://images.pexels.com/photos/8213255/pexels-photo-8213255.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/imune-ativo-menor-risco-cancer-prostata-planilha.jpg": {
+  "fonte": "SHVETS production / Pexels",
+  "pagina": "https://images.pexels.com/photos/8413389/pexels-photo-8413389.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/parar-glp1-dobro-risco-infarto-avc-morte-planilha.jpg": {
+  "fonte": "Euronews",
+  "pagina": "https://images.euronews.com/articles/stories/09/98/73/78/1200x675_cmsv2_e4e930f5-4891-5a3a-ad1d-a869b98648e4-9987378.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/proteina-ip6k-alvo-novos-remedios-doenca-chagas-planilha.jpg": {
+  "fonte": "Thaise Lara Teixeira/IQ-USP, via Agência FAPESP",
+  "pagina": "https://agencia.fapesp.br/files/post/59583.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/exame-sangue-lesao-antecede-cancer-ovario-planilha.jpg": {
+  "fonte": "Kaboompics / Pexels",
+  "pagina": "https://images.pexels.com/photos/6629390/pexels-photo-6629390.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/jejum-intermitente-gordura-figado-dieta-mediterranea-planilha.jpg": {
+  "fonte": "Alesia Kozik / Pexels",
+  "pagina": "https://images.pexels.com/photos/6065181/pexels-photo-6065181.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/vape-prolongado-queda-funcao-pulmonar-jovens-planilha.jpg": {
+  "fonte": "Anastasia Shuraeva / Pexels",
+  "pagina": "https://images.pexels.com/photos/8795388/pexels-photo-8795388.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/pressao-abaixo-120-apos-avc-reduz-eventos-optimal-stroke-planilha.jpg": {
+  "fonte": "Thirdman / Pexels",
+  "pagina": "https://images.pexels.com/photos/7659573/pexels-photo-7659573.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/diabetes-tipo-2-risco-53-maior-alzheimer-meta-analise-planilha.jpg": {
+  "fonte": "i-SENS, USA / Pexels",
+  "pagina": "https://images.pexels.com/photos/17072086/pexels-photo-17072086/free-photo-of-a-person-holding-a-blood-glucose-meter-on-a-table.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/11-minutos-sono-exercicio-vegetais-10-menos-risco-cardiaco-planilha.jpg": {
+  "fonte": "Futura",
+  "pagina": "https://www.futura-sciences.com/en/wp-content/uploads/2026/11/telechargement-38.webp",
+  "tipo": "fonte"
+ },
+ "artigos/estudo-horizon-pelacarsen-lpa-nao-reduziu-eventos-planilha.jpg": {
+  "fonte": "Kaboompics / Pexels",
+  "pagina": "https://images.pexels.com/photos/6629390/pexels-photo-6629390.jpeg",
+  "tipo": "banco"
+ },
+ "artigos/anvisa-aprova-wegovy-comprimido-obesidade-brasil-planilha.jpg": {
+  "fonte": "Nelson R. de Lima Filho / Wikimedia Commons",
+  "pagina": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wegovy_-_Semaglutide.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/ai-pathology-ia-celular-triagem-cancer-pele-planilha.jpg": {
+  "fonte": "Divulgação / AI Pathology (via Revista PEGN)",
+  "pagina": "https://s2-pegn.glbimg.com/9c5dPKTQetIvSoD2JUJ0srXF9a0=/0x0:2000x3000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba41d7b1ff5f48b28d3c5f84f30a06af/internal_photos/bs/2026/g/7/KCsF1QT7AO9zCth5D7fw/39a06dc02626bcfaca7dabf5-img-9708.jpg",
+  "tipo": "fonte"
+ },
+ "artigos/anvisa-suspende-lote-mucarela-fatiada-italy-180926-planilha.jpg": {
+  "fonte": "Instagram / Laticínios Italy, via Rede98. Foto do produto em outro lote, não do lote recolhido.",
+  "pagina": "https://98site-assets.s3.amazonaws.com/wp-content/uploads/2026/11/12172448/queijo-mucarela.jpg",
+  "tipo": "fonte"
+ }
 }
