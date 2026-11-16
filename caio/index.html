@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Caio Szpak · The Welf Journal</title>
+<meta name="description" content="Caio Szpak, fundador do The Welf Journal. Ciência da saúde em linguagem de gente. Parcerias e projetos.">
+<meta property="og:title" content="Caio Szpak · The Welf Journal">
+<meta property="og:description" content="Ciência da saúde em linguagem de gente. Parcerias e projetos.">
+<meta property="og:image" content="https://thewelfjournal.com.br/og.png">
+<meta name="theme-color" content="#F7F0EA">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<style>
+@font-face{font-family:"Instrument Serif";src:url(f/InstrumentSerif-Regular.ttf) format("truetype");font-display:swap}
+@font-face{font-family:"Instrument Sans";src:url(f/InstrumentSans-Variable.ttf) format("truetype");font-weight:400 700;font-display:swap}
+:root{--creme:#F7F0EA;--grafite:#2E2A27;--suave:#7C736C;--fraca:#A79E96;--mark:#FFE680;--branco:#fff;--linha:rgba(46,42,39,.14)}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--creme);color:var(--grafite);font-family:"Instrument Sans",system-ui,sans-serif;line-height:1.45;min-height:100vh}
+main{max-width:480px;margin:0 auto;padding:28px 16px 40px}
+.topo{display:flex;align-items:center;justify-content:space-between;margin-bottom:28px}
+.topo img{height:22px}
+.topo span{font-family:"Instrument Serif",serif;font-size:19px}
+.perfil{text-align:center}
+.foto{width:112px;height:112px;border-radius:50%;object-fit:cover;background:#efe6dd;border:1px solid var(--linha)}
+h1{font-family:"Instrument Serif",serif;font-weight:400;font-size:42px;line-height:1.05;margin-top:14px}
+.cargo{font-size:15px;color:var(--suave);margin-top:6px}
+.frase{display:inline-block;margin-top:14px;font-size:16px;background:var(--mark);padding:3px 10px}
+.numeros{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:20px}
+.numeros span{font-size:13px;border:1px solid var(--linha);border-radius:999px;padding:6px 12px;background:rgba(255,255,255,.55)}
+.salvar{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-top:26px;padding:16px;border-radius:14px;background:var(--grafite);color:var(--creme);font-size:16px;font-weight:600;text-decoration:none}
+.salvar svg{width:20px;height:20px}
+.links{list-style:none;margin-top:12px;display:grid;gap:10px}
+.links a{display:block;padding:15px 18px;border-radius:14px;background:var(--branco);border:1px solid var(--linha);color:inherit;text-decoration:none;transition:transform .15s}
+.links a:active{transform:scale(.98)}
+.links strong{display:block;font-size:16px;font-weight:600}
+.links small{display:block;font-size:13px;color:var(--suave);margin-top:2px}
+section.form{margin-top:36px;padding:22px 18px;border-radius:18px;background:var(--branco);border:1px solid var(--linha)}
+h2{font-family:"Instrument Serif",serif;font-weight:400;font-size:30px;line-height:1.1}
+.form p.sub{font-size:14px;color:var(--suave);margin-top:6px}
+form{margin-top:16px;display:grid;gap:10px}
+label{font-size:13px;font-weight:600;display:grid;gap:4px}
+input,textarea{font:inherit;font-size:16px;font-weight:400;padding:12px;border:1px solid var(--linha);border-radius:10px;background:var(--creme);color:var(--grafite);width:100%}
+textarea{min-height:80px;resize:vertical}
+input:focus,textarea:focus{outline:2px solid var(--grafite);outline-offset:1px}
+.dupla{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media(max-width:380px){.dupla{grid-template-columns:1fr}}
+.aceite{display:flex;gap:8px;align-items:flex-start;font-weight:400;font-size:13px;color:var(--suave)}
+.aceite input{width:18px;height:18px;margin-top:1px;flex:none}
+.hp{position:absolute;left:-9999px}
+button{font:inherit;font-size:16px;font-weight:600;padding:14px;border:0;border-radius:12px;background:var(--grafite);color:var(--creme);cursor:pointer}
+button:disabled{opacity:.6}
+.status{font-size:14px;padding:10px 12px;border-radius:10px}
+.status.ok{background:var(--mark)}
+.status.erro{background:#f6d9cf}
+footer{text-align:center;margin-top:30px;font-size:12px;color:var(--fraca)}
+footer a{color:inherit}
+</style>
+</head>
+<body>
+<main>
+  <div class="topo"><img src="marca.svg" alt="The Welf Journal"><span>The Welf Journal</span></div>
+
+  <div class="perfil">
+    <img class="foto" src="foto.png" alt="Caio Szpak" width="112" height="112">
+    <h1 id="p-nome">Caio Szpak</h1>
+    <p class="cargo" id="p-cargo">Fundador · The Welf Journal</p>
+    <p class="frase" id="p-frase">Ciência da saúde em linguagem de gente.</p>
+    <div class="numeros" id="p-numeros"><span>4 meses de existência</span><span>+15 milhões de visualizações</span><span>+30 mil seguidores</span></div>
+  </div>
+
+  <a class="salvar" href="caio-szpak.vcf" download id="salvar">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg>
+    Salvar meu contato
+  </a>
+
+  <ul class="links" id="links">
+    <li><a href="https://instagram.com/thewelfjournal" data-t="Instagram @thewelfjournal"><strong>Instagram @thewelfjournal</strong><small>Ciência da saúde em linguagem de gente</small></a></li>
+    <li><a href="https://wa.me/5541988909815" data-t="Falar no WhatsApp"><strong>Falar no WhatsApp</strong><small>Parcerias e projetos</small></a></li>
+    <li><a href="https://thewelfjournal.com.br/?utm_source=caio" data-t="Blog The Welf Journal"><strong>Blog The Welf Journal</strong><small>Artigos com a fonte de cada dado</small></a></li>
+    <li><a href="mailto:caio@thewelfjournal.com.br" data-t="E-mail"><strong>E-mail</strong><small>caio@thewelfjournal.com.br</small></a></li>
+  </ul>
+
+  <section class="form" id="conversar">
+    <h2 id="p-ftitulo">Vamos conversar?</h2>
+    <p class="sub" id="p-ftexto">Deixa seu contato e o nome da sua empresa que eu te chamo.</p>
+    <form id="form" novalidate>
+      <label>Seu nome<input name="nome" autocomplete="name" required></label>
+      <div class="dupla">
+        <label>Empresa<input name="empresa" autocomplete="organization"></label>
+        <label>Cargo<input name="cargo" autocomplete="organization-title"></label>
+      </div>
+      <div class="dupla">
+        <label>WhatsApp<input name="whatsapp" type="tel" autocomplete="tel" inputmode="tel" placeholder="(11) 99999-9999"></label>
+        <label>E-mail<input name="email" type="email" autocomplete="email"></label>
+      </div>
+      <label>Sobre o que quer falar? (opcional)<textarea name="mensagem"></textarea></label>
+      <input class="hp" name="site_url" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="aceite"><input type="checkbox" name="aceite" value="sim"> Autorizo o Caio a me chamar por WhatsApp ou e-mail. Os dados ficam só com ele.</label>
+      <button type="submit">Quero conversar</button>
+      <p class="status" id="status" hidden></p>
+    </form>
+  </section>
+
+  <footer><a href="https://thewelfjournal.com.br/">thewelfjournal.com.br</a> · <a href="https://thewelfjournal.com.br/privacidade/">privacidade</a></footer>
+</main>
+<script>
+(function () {
+  var EP = "https://script.google.com/macros/s/AKfycbwcYAdsWR_HD2hcpuhtIzo8Ai5SCq0Csgg44lbRrZWN-kB7Ookh2KABpxJt0OnSeD3wcQ/exec";
+  function guarda(t, k, v) { try { return v === undefined ? window[t].getItem(k) : window[t].setItem(k, v); } catch (e) { return null; } }
+
+  // de onde veio: ?o=cartao (QR do cartão), ?o=instagram (bio) ou utm_source; fica para a sessão inteira
+  var q = new URLSearchParams(location.search);
+  var origem = (q.get("o") || q.get("utm_source") || guarda("sessionStorage", "twj_o") || (document.referrer.indexOf("instagram") > -1 ? "instagram" : "direto")).toLowerCase().slice(0, 40);
+  guarda("sessionStorage", "twj_o", origem);
+  var vis = guarda("localStorage", "twj_v");
+  if (!vis) { vis = Math.random().toString(36).slice(2, 12); guarda("localStorage", "twj_v", vis); }
+  var ua = navigator.userAgent;
+  var aparelho = /iPhone|iPad/.test(ua) ? "iPhone" : /Android/.test(ua) ? "Android" : /Mac/.test(ua) ? "Mac" : /Windows/.test(ua) ? "Windows" : "outro";
+  aparelho += /Mobi|iPhone|Android/.test(ua) ? " (celular)" : " (computador)";
+
+  function evento(ev, alvo) {
+    var corpo = JSON.stringify({ tipo: "evento", evento: ev, alvo: alvo || "", origem: origem, aparelho: aparelho, visitante: vis, veio_de: document.referrer || "" });
+    try { if (navigator.sendBeacon && navigator.sendBeacon(EP, new Blob([corpo], { type: "text/plain;charset=utf-8" }))) return; } catch (e) {}
+    fetch(EP, { method: "POST", mode: "no-cors", keepalive: true, headers: { "Content-Type": "text/plain;charset=utf-8" }, body: corpo }).catch(function () {});
+  }
+  evento("visita");
+
+  document.getElementById("salvar").addEventListener("click", function () { evento("salvar_contato", "vCard"); });
+  document.getElementById("links").addEventListener("click", function (e) {
+    var a = e.target.closest("a"); if (a) evento("clique", a.getAttribute("data-t") || a.href);
+  });
+
+  // links e textos vêm da planilha "TWJ Página de Links (/caio)"; sem resposta, fica o que está no HTML
+  function txt(id, v) { if (v) document.getElementById(id).textContent = v; }
+  function aplicar(d) {
+    if (!d || !d.ok) return;
+    var p = d.perfil || {};
+    txt("p-nome", p.nome); txt("p-cargo", p.cargo); txt("p-frase", p.frase);
+    txt("p-ftitulo", p.titulo_formulario); txt("p-ftexto", p.texto_formulario);
+    var nums = [p.numero_1, p.numero_2, p.numero_3, p.numero_4].filter(Boolean);
+    if (nums.length) {
+      var box = document.getElementById("p-numeros"); box.textContent = "";
+      nums.forEach(function (n) { var s = document.createElement("span"); s.textContent = n; box.appendChild(s); });
+    }
+    if (d.links && d.links.length) {
+      var ul = document.getElementById("links"); ul.textContent = "";
+      d.links.forEach(function (l) {
+        if (!/^(https?:|mailto:|tel:)/i.test(l.link)) return;
+        var li = document.createElement("li"), a = document.createElement("a"), s = document.createElement("strong");
+        a.href = l.link; a.setAttribute("data-t", l.titulo); s.textContent = l.titulo; a.appendChild(s);
+        if (l.descricao) { var m = document.createElement("small"); m.textContent = l.descricao; a.appendChild(m); }
+        if (/^https?:/i.test(l.link) && l.link.indexOf("thewelfjournal.com.br") < 0) { a.target = "_blank"; a.rel = "noopener"; }
+        li.appendChild(a); ul.appendChild(li);
+      });
+    }
+  }
+  try { aplicar(JSON.parse(guarda("localStorage", "twj_links") || "null")); } catch (e) {}
+  fetch(EP + "?p=links").then(function (r) { return r.json(); }).then(function (d) {
+    aplicar(d); if (d && d.ok) guarda("localStorage", "twj_links", JSON.stringify(d));
+  }).catch(function () {});
+
+  // formulário "Vamos conversar?"
+  var f = document.getElementById("form"), st = document.getElementById("status"), btn = f.querySelector("button");
+  function msg(t, ok) { st.textContent = t; st.className = "status " + (ok ? "ok" : "erro"); st.hidden = false; }
+  f.addEventListener("submit", function (e) {
+    e.preventDefault();
+    if (f.site_url.value) { msg("Recebido.", true); return; }
+    var c = { nome: f.nome.value.trim(), empresa: f.empresa.value.trim(), cargo: f.cargo.value.trim(), whatsapp: f.whatsapp.value.trim(), email: f.email.value.trim(), mensagem: f.mensagem.value.trim(), aceite: f.aceite.checked ? "sim" : "" };
+    if (!c.nome) { msg("Coloca seu nome.", false); return; }
+    if (!c.whatsapp && !c.email) { msg("Deixa um WhatsApp ou e-mail para eu te chamar.", false); return; }
+    if (!c.aceite) { msg("Marque a autorização para eu te chamar.", false); return; }
+    btn.disabled = true; msg("Enviando…", true);
+    fetch(EP, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify({ tipo: "contato_caio", campos: c, origem: origem, aparelho: aparelho }) })
+      .then(function (r) { return r.json(); })
+      .then(function (j) {
+        if (j && j.ok) { f.reset(); msg("Recebi! Te chamo em breve. Obrigado, " + c.nome.split(" ")[0] + ".", true); }
+        else msg((j && j.erro) || "Não deu certo. Tenta de novo em alguns minutos.", false);
+      })
+      .catch(function () { msg("Não deu certo. Tenta de novo ou me chama no WhatsApp.", false); })
+      .then(function () { btn.disabled = false; });
+  });
+})();
+</script>
+</body>
+</html>
