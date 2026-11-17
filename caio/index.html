@@ -193,9 +193,9 @@ footer a{color:inherit}
       a.insertBefore(i, a.firstChild);
     });
   }
-  // WhatsApp já abre com mensagem pronta (cartão do evento ou página)
+  // WhatsApp já abre com mensagem pronta (uma só, para qualquer origem)
   function zap() {
-    var msg = origem === "cartao" ? "Oi Caio, peguei seu cartão no evento." : "Oi Caio, vim pela sua página de links.";
+    var msg = "Oi, Caio. Tudo bem? Aqui é o (nome), da (empresa).";
     Array.prototype.forEach.call(document.querySelectorAll("#links a"), function (a) {
       var h = a.getAttribute("href") || "";
       if (/wa\.me\//.test(h) && h.indexOf("text=") < 0) a.setAttribute("href", h + (h.indexOf("?") < 0 ? "?" : "&") + "text=" + encodeURIComponent(msg));
