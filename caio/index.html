@@ -26,9 +26,9 @@ main{max-width:480px;margin:0 auto;padding:40px 16px 40px}
 h1{font-family:"Instrument Serif",serif;font-weight:400;font-size:42px;line-height:1.05;margin-top:14px}
 .cargo{font-size:15px;color:var(--suave);margin-top:6px}
 .frase{display:inline-block;margin-top:14px;font-size:16px;background:var(--mark);padding:3px 10px}
-.numeros{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:20px}
+.numeros{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:18px}
 .numeros span{font-size:13px;border:1px solid var(--linha);border-radius:999px;padding:6px 12px;background:rgba(255,255,255,.55)}
-.salvar{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-top:26px;padding:16px;border-radius:14px;background:var(--grafite);color:var(--creme);font-size:16px;font-weight:600;text-decoration:none}
+.salvar{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;margin-top:22px;padding:16px;border-radius:14px;background:var(--grafite);color:var(--creme);font-size:16px;font-weight:600;text-decoration:none}
 .salvar svg{width:20px;height:20px}
 .links{list-style:none;margin-top:12px;display:grid;gap:10px}
 .links a{display:grid;grid-template-columns:40px 1fr;column-gap:14px;align-items:center;padding:13px 16px;border-radius:14px;background:var(--branco);border:1px solid var(--linha);color:inherit;text-decoration:none;transition:transform .15s}
@@ -68,16 +68,17 @@ footer a{color:inherit}
     <h1 id="p-nome">Caio Szpak</h1>
     <p class="cargo" id="p-cargo">Fundador · The Welf Journal</p>
     <p class="frase" id="p-frase">Ciência da saúde em linguagem de gente.</p>
-    <div class="numeros" id="p-numeros"><span>4 meses de existência</span><span>+15 milhões de visualizações</span><span>+30 mil seguidores no @thewelfjournal</span></div>
   </div>
 
   <a class="salvar" href="caio-szpak.vcf" download id="salvar">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg>
     Salvar meu contato
   </a>
+  <div class="numeros" id="p-numeros"><span>Desde julho de 2026</span><span>+15 milhões de visualizações</span><span>+30 mil seguidores no @thewelfjournal</span></div>
 
   <ul class="links" id="links">
     <li><a href="https://instagram.com/caioszpak" data-t="Meu Instagram @caioszpak"><strong>Meu Instagram @caioszpak</strong><small>Pessoal</small></a></li>
+    <li><a href="https://www.linkedin.com/in/caioszpak" data-t="LinkedIn"><strong>LinkedIn</strong><small>Caio Szpak</small></a></li>
     <li><a href="https://instagram.com/thewelfjournal" data-t="Instagram @thewelfjournal"><strong>Instagram @thewelfjournal</strong><small>Ciência da saúde em linguagem de gente</small></a></li>
     <li><a href="https://wa.me/5541988909815" data-t="Falar no WhatsApp"><strong>Falar no WhatsApp</strong><small>Parcerias e projetos</small></a></li>
     <li><a href="https://thewelfjournal.com.br/?utm_source=caio" data-t="Blog The Welf Journal"><strong>Blog The Welf Journal</strong><small>Artigos com a fonte de cada dado</small></a></li>
@@ -192,8 +193,16 @@ footer a{color:inherit}
       a.insertBefore(i, a.firstChild);
     });
   }
-  icones();
-  var aplicarBase = aplicar; aplicar = function (d) { aplicarBase(d); icones(); };
+  // WhatsApp já abre com mensagem pronta (cartão do evento ou página)
+  function zap() {
+    var msg = origem === "cartao" ? "Oi Caio, peguei seu cartão no evento." : "Oi Caio, vim pela sua página de links.";
+    Array.prototype.forEach.call(document.querySelectorAll("#links a"), function (a) {
+      var h = a.getAttribute("href") || "";
+      if (/wa\.me\//.test(h) && h.indexOf("text=") < 0) a.setAttribute("href", h + (h.indexOf("?") < 0 ? "?" : "&") + "text=" + encodeURIComponent(msg));
+    });
+  }
+  icones(); zap();
+  var aplicarBase = aplicar; aplicar = function (d) { aplicarBase(d); icones(); zap(); };
 
   try { aplicar(JSON.parse(guarda("localStorage", "twj_links") || "null")); } catch (e) {}
   fetch(EP + "?p=links").then(function (r) { return r.json(); }).then(function (d) {
