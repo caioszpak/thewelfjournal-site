@@ -130,5 +130,20 @@
   </p>
   <p class="aviso">Conteúdo informativo. Não substitui consulta, diagnóstico nem orientação de profissional de saúde.</p>
 </footer>
-</body>
+<script>
+/* contador de visitas: grava na aba Acessos da planilha "TWJ Página de Links" com origem "blog" */
+(function () {
+  var ua = navigator.userAgent || "";
+  if (navigator.webdriver || /bot|crawl|spider|preview|facebookexternalhit|whatsapp|telegram|slack|discord|headless|lighthouse/i.test(ua)) return;
+  if (location.hostname !== "thewelfjournal.com.br" && location.hostname !== "www.thewelfjournal.com.br") return;
+  var vis = "";
+  try { vis = localStorage.getItem("twj_v"); if (!vis) { vis = Math.random().toString(36).slice(2, 12); localStorage.setItem("twj_v", vis); } } catch (e) {}
+  var ap = /iPhone|iPad/.test(ua) ? "iPhone" : /Android/.test(ua) ? "Android" : /Mac/.test(ua) ? "Mac" : /Windows/.test(ua) ? "Windows" : "outro";
+  ap += /Mobi|iPhone|Android/.test(ua) ? " (celular)" : " (computador)";
+  var corpo = JSON.stringify({ tipo: "evento", evento: "visita", alvo: location.pathname, origem: "blog", aparelho: ap, visitante: vis, veio_de: document.referrer || "" });
+  var EP = "https://script.google.com/macros/s/AKfycbwcYAdsWR_HD2hcpuhtIzo8Ai5SCq0Csgg44lbRrZWN-kB7Ookh2KABpxJt0OnSeD3wcQ/exec";
+  try { if (navigator.sendBeacon && navigator.sendBeacon(EP, new Blob([corpo], { type: "text/plain;charset=utf-8" }))) return; } catch (e) {}
+  fetch(EP, { method: "POST", mode: "no-cors", keepalive: true, headers: { "Content-Type": "text/plain;charset=utf-8" }, body: corpo }).catch(function () {});
+})();
+</script></body>
 </html>
