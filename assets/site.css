@@ -8,15 +8,18 @@ body{margin:0;background:var(--creme);color:var(--grafite);font-family:var(--san
 img{max-width:100%;height:auto}
 a{color:var(--laranja);text-underline-offset:3px}
 a:hover{color:var(--grafite)}
-.topo{position:sticky;top:0;z-index:50;background:var(--grafite)}
-.topo-in{max-width:1200px;margin:0 auto;padding:14px 16px;display:flex;align-items:center;gap:28px}
-.marca{flex:none;display:block;line-height:0}
-.marca img{width:190px;max-width:100%;height:auto}
-.topo nav{display:flex;flex-wrap:wrap;align-items:center;gap:4px 22px;font-size:15px;margin-left:auto}
-.topo nav a{color:#D9D2CB;text-decoration:none;font-weight:500}
-.topo nav a:hover{color:var(--branco)}
-.topo .nav-news{flex:none;background:var(--laranja);color:var(--branco);padding:8px 18px;border-radius:999px;font-weight:600;font-size:15px;text-decoration:none;margin-left:-6px}
-.topo .nav-news:hover{background:var(--branco);color:var(--grafite)}
+.topo{background:var(--creme);border-bottom:1px solid var(--grafite)}
+.topo-in{max-width:1200px;margin:0 auto;padding:26px 16px 6px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:20px}
+.topo-ig{justify-self:start;font-size:13px;letter-spacing:.08em;color:var(--grafite);text-decoration:none;font-weight:500}
+.topo-ig:hover{color:var(--laranja)}
+.marca{display:block;line-height:0}
+.marca img{width:320px;max-width:100%;height:auto}
+.topo .nav-news{justify-self:end;background:transparent;color:var(--grafite);border:1px solid var(--grafite);padding:8px 20px;border-radius:999px;font-weight:600;font-size:13px;letter-spacing:.1em;text-transform:uppercase;text-decoration:none}
+.topo .nav-news:hover{background:var(--grafite);color:var(--creme)}
+.topo-lema{margin:4px 0 16px;text-align:center;font-family:var(--serif);font-style:italic;font-size:19px;color:var(--suave)}
+.topo-nav{display:flex;justify-content:center;flex-wrap:wrap;gap:4px 30px;max-width:1200px;margin:0 auto;padding:13px 16px;border-top:1px solid var(--linha);font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:600}
+.topo-nav a{color:var(--grafite);text-decoration:none;padding:2px 0;border-bottom:1px solid transparent}
+.topo-nav a:hover{border-bottom-color:var(--grafite)}
 .so-celular{display:none}
 main{padding:8px 0 24px}
 .wrap{max-width:1200px;margin:0 auto;padding:0 16px}
@@ -149,3 +152,88 @@ th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--suav
 .faca-parte .participe-grade{margin-top:12px}
 @media (max-width:900px){.participe-grade{grid-template-columns:1fr}}
 @media (max-width:600px){body{font-size:17px}.feed{grid-template-columns:1fr}.cartao{padding:26px 20px 20px;border-radius:20px}.artigo h1{font-size:34px}.titulo-pagina h1{font-size:38px}h2{font-size:26px}.lista a{font-size:22px}.marca img{width:160px}}
+/* camada editorial (20/11/2026): revista em creme, mesma identidade do Instagram (W grafite sobre creme, marca-texto amarelo) */
+.faixa-confianca{background:transparent;border-bottom:1px solid var(--linha);font-family:var(--serif);font-style:italic;font-size:16px;color:var(--suave);padding:10px 16px}
+.faixa-confianca a{font-family:var(--sans);font-style:normal;font-size:13px;letter-spacing:.06em;color:var(--grafite);border-bottom:1px solid var(--grafite);text-decoration:none}
+.card-img{border-radius:6px;box-shadow:none}
+.card-img img{transition:transform .5s ease}
+.card:hover .card-img img{transform:scale(1.03)}
+.tag{background:var(--marca);color:var(--grafite);border-radius:2px;font-size:10.5px;letter-spacing:.14em;padding:5px 9px}
+.card:hover h2,.card:hover h3{color:var(--grafite);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
+.card h2,.card h3{font-size:28px;line-height:1.12;letter-spacing:-.005em}
+.destaque h2{font-size:54px;line-height:1.04;letter-spacing:-.01em}
+.card .meta{font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+.feed{gap:44px 30px}
+.caixa{background:transparent;box-shadow:none;border-radius:0;border-top:2px solid var(--grafite);padding:14px 0 6px}
+.caixa h2{font-size:12.5px;letter-spacing:.16em;text-transform:uppercase;margin:0 0 6px}
+.rank li{padding:14px 0;gap:14px}
+.rank li:before{width:auto;height:auto;border-radius:0;background:none;color:var(--laranja);font-family:var(--serif);font-weight:400;font-size:34px;line-height:.9;min-width:26px;justify-content:flex-start}
+.rank a{font-family:var(--serif);font-weight:400;font-size:19px;line-height:1.2}
+.cats a{border:0;border-bottom:1px solid var(--linha);border-radius:0;padding:10px 0}
+.caixa.news{background:var(--grafite);border-top:0;border-radius:6px;padding:26px 24px 24px}
+.caixa.news h2{font-size:28px;letter-spacing:0;text-transform:none}
+.caixa.news .botao{background:var(--marca);color:var(--grafite)}
+.sec-titulo{font-size:13px;font-family:var(--sans);font-weight:700;letter-spacing:.16em;text-transform:uppercase;border-top:2px solid var(--grafite);padding-top:14px}
+.tiles a{border-radius:6px}
+.participe-card{border-radius:6px;background:transparent}
+.cartao{border-radius:8px;box-shadow:0 1px 0 var(--linha)}
+.artigo h1{font-size:52px;line-height:1.05;letter-spacing:-.01em}
+.etiqueta a{background:var(--marca);color:var(--grafite);padding:3px 8px;border-radius:2px;font-size:11px;letter-spacing:.14em}
+.byline{font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid var(--linha);padding-bottom:16px}
+.foto-artigo img{border-radius:6px}
+.resposta{border-radius:6px;border-left-width:4px}
+.cta-news{border-radius:8px}
+.cta-news .botao{background:var(--marca);color:var(--grafite)}
+.botao{border-radius:999px;letter-spacing:.02em}
+.titulo-pagina h1{font-size:56px;letter-spacing:-.01em}
+.titulo-pagina.com-foto .foto-hub{border-radius:6px}
+.rodape{margin-top:64px}
+@media (max-width:900px){.topo-in{grid-template-columns:1fr auto;padding:18px 16px 4px;gap:12px}.topo-ig{display:none}.marca img{width:230px}.topo .nav-news{padding:7px 14px;font-size:12px}.topo-lema{text-align:left;margin:2px 16px 10px;font-size:16px}.topo .topo-nav{justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;gap:24px;scrollbar-width:none;margin:0;width:auto;padding:12px 16px;font-size:12px}.topo-nav::-webkit-scrollbar{display:none}.topo-nav a{white-space:nowrap}.destaque h2{font-size:38px}.artigo h1{font-size:40px}}
+@media (max-width:600px){.marca img{width:190px}.destaque h2{font-size:32px}.artigo h1{font-size:34px}.titulo-pagina h1{font-size:40px}.card h2,.card h3{font-size:25px}}
+/* contraste e cor (20/11/2026): menu em faixa grafite, etiqueta com a cor do tema (paletas do Instagram), seções alternadas */
+.topo{border-bottom:0}
+.topo-lema{margin-bottom:18px}
+.topo-faixa{background:var(--grafite)}
+.topo .topo-nav{border-top:0;padding:0 16px;overflow:hidden}
+.nav-trilho{display:flex;justify-content:center;flex-wrap:wrap;gap:4px 24px;padding:14px 0}
+.destaque .sec-titulo,.destaque h2.sec-titulo{font-size:13px;line-height:1.2;letter-spacing:.16em;margin:36px 0 16px}
+.participe-card h3{font-size:26px;margin:0}
+.nav-eco{display:none}
+.topo-nav a{color:#E9E1D9}
+.topo-nav a:hover{color:var(--marca);border-bottom-color:var(--marca)}
+.faixa-confianca{background:var(--branco);border-bottom:1px solid var(--linha)}
+.faixa-confianca:before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--verde);margin-right:8px;vertical-align:1px}
+.ed-saude-tech,.ed-como-funciona{--ed-bg:#CFE4EF;--ed-tx:#1F4E66}
+.ed-sono{--ed-bg:#F3E0B5;--ed-tx:#6B4A12}
+.ed-canetas-emagrecedoras{--ed-bg:#F6D3C7;--ed-tx:#8A3A1F}
+.ed-longevidade,.ed-envelhecimento{--ed-bg:#D7E9DF;--ed-tx:#24553F}
+.ed-mercado-de-saude,.ed-noticias{--ed-bg:#2E2A27;--ed-tx:#F7F0EA}
+.ed-nutricao{--ed-bg:#E3EDC8;--ed-tx:#44591A}
+.ed-performance{--ed-bg:#FBD9B8;--ed-tx:#7A3E0C}
+.ed-saude-mental,.ed-cerebro-comportamento{--ed-bg:#E2DFFA;--ed-tx:#4B4399}
+.tag{background:var(--ed-bg,var(--marca));color:var(--ed-tx,var(--grafite))}
+.etiqueta a{background:var(--ed-bg,var(--marca));color:var(--ed-tx,var(--grafite))}
+.lateral .caixa:not(.news){background:var(--branco);border-radius:6px;border-top:3px solid var(--laranja);padding:18px 20px 8px;box-shadow:0 1px 0 var(--linha)}
+.card-img{box-shadow:0 10px 24px -14px rgba(46,42,39,.45)}
+.card.destaque .card-img{aspect-ratio:16/9}
+.sec-titulo{border-top-color:var(--laranja)}
+.participe-card{border:0;color:var(--grafite)}
+.participe-card.pc-1{background:var(--marca)}
+.participe-card.pc-2{background:#D7E9DF}
+.participe-card.pc-3{background:var(--grafite);color:var(--creme)}
+.participe-card.pc-3 p{color:#D9D2CB}
+.participe-card.pc-3 .p-num,.participe-card.pc-3 .p-ir{color:var(--marca)}
+.participe-card .p-num,.participe-card .p-ir{color:var(--grafite)}
+.participe-card:hover{transform:translateY(-2px);transition:transform .15s}
+.resposta{background:#FFF8D6;border-left-color:var(--marca)}
+.rodape{border-top:4px solid var(--marca)}
+@keyframes twj-rola{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (max-width:900px){
+.topo .topo-nav{overflow:hidden;padding:0;display:flex;width:max-content;max-width:none;animation:twj-rola 32s linear infinite}
+.topo-faixa{overflow:hidden}
+.nav-trilho,.nav-eco{display:flex;flex-wrap:nowrap;justify-content:flex-start;gap:26px;padding:13px 13px}
+.nav-trilho a{white-space:nowrap}
+.topo-faixa:hover .topo-nav,.topo-faixa:active .topo-nav,.topo-faixa:focus-within .topo-nav{animation-play-state:paused}
+.lateral .caixa:not(.news){padding:16px 16px 6px}
+}
+@media (max-width:900px) and (prefers-reduced-motion:reduce){.topo .topo-nav{animation:none;width:auto;overflow-x:auto}.nav-eco{display:none}}

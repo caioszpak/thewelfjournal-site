@@ -1,0 +1,1 @@
+{"name": "The Welf Journal", "short_name": "TWJ", "start_url": "/", "display": "browser", "background_color": "#F7F0EA", "theme_color": "#F7F0EA", "icons": [{"src": "/assets/twj_favicon_180.png", "sizes": "180x180", "type": "image/png"}, {"src": "/assets/twj_favicon_512.png", "sizes": "512x512", "type": "image/png"}]}
