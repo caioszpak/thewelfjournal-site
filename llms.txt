@@ -8,12 +8,12 @@
 - [Sobre](https://thewelfjournal.com.br/sobre/): quem faz o The Welf Journal
 
 ## Por editoria
-- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 54 artigo(s)
+- [Saúde](https://thewelfjournal.com.br/editoria/saude/): 55 artigo(s)
 - [Saúde + Tech](https://thewelfjournal.com.br/editoria/saude-tech/): 9 artigo(s)
 - [Sono](https://thewelfjournal.com.br/editoria/sono/): 18 artigo(s)
 - [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 27 artigo(s)
-- [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 12 artigo(s)
-- [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 22 artigo(s)
+- [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 13 artigo(s)
+- [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 23 artigo(s)
 - [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 22 artigo(s)
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 4 artigo(s)
 - [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 11 artigo(s)
@@ -27,6 +27,9 @@
 - [História da Medicina](https://thewelfjournal.com.br/editoria/historia-da-medicina/): 1 artigo(s)
 
 ## Artigos recentes
+- [RingConn anuncia anel de O Senhor dos Anéis por US$399, sem promessa de uso médico](https://thewelfjournal.com.br/artigos/2026-11-22-ringconn-anel-senhor-dos-aneis-anuncio/): A RingConn anunciou uma edição limitada do anel inteligente de terceira geração inspirada em O Senhor dos Anéis, por US$399, com preço sujeito a variação regional. O comunicado comercial não apresenta estudo clínico. A fabricante diz que o produto não se destina a diagnóstico ou tratamento de doenças.
+- [Suplemento precursor de NAD não melhora Parkinson em ensaio com 410 pessoas](https://thewelfjournal.com.br/artigos/2026-11-23-nad-ribosideo-nicotinamida-parkinson-nopark/): Em ensaio randomizado com 410 pessoas com Parkinson inicial, ribosídeo de nicotinamida não melhorou os resultados clínicos após 52 semanas. A diferença favoreceu o placebo, embora pequena em termos clínicos. O estudo não apoia usar o suplemento para desacelerar a doença nem substituir o tratamento habitual.
+- [Treino de força e envelhecimento: benefícios sem promessa de juventude](https://thewelfjournal.com.br/artigos/treino-forca-envelhecimento-beneficios-limites/): Uma revisão de 16 estudos de acompanhamento associou atividades de fortalecimento a menor risco de morte, doença cardiovascular e diabetes em adultos. As amostras variaram conforme o desfecho. O resultado não prova causa e efeito nem promete rejuvenescimento; a rotina precisa incluir outros tipos de exercício.
 - [Vacina da gripe: análise de 18 temporadas mostra variação de proteção nos EUA](https://thewelfjournal.com.br/artigos/2026-11-21-vacina-gripe-variacao-protecao-18-temporadas/): Uma meta-análise de 18 estudos observacionais, um por temporada, nos Estados Unidos encontrou mediana de efetividade de 39,5% contra gripe com atendimento médico, com mais de noventa mil participantes. A proteção variou entre temporadas. O trabalho não mediu diretamente internações e mortes nem muda a recomendação de vacinação anual.
 - [Emenda propõe liberar vapes, mas Anvisa mantém proibição no Brasil](https://thewelfjournal.com.br/artigos/2026-11-22-emenda-vapes-anvisa-proibicao-brasil/): Uma emenda ao Imposto Seletivo propõe autorizar fabricação, importação e comércio de produtos com nicotina, incluindo vapes. A Anvisa mantém a informação de que os dispositivos eletrônicos para fumar são proibidos no Brasil. São documentos legislativos e sanitários, não um estudo clínico nem uma legalização já concluída.
 - [FDA recusa terapia da Capricor para Duchenne e aponta falhas nos dados](https://thewelfjournal.com.br/artigos/2026-11-22-fda-recusa-capricor-deramiocel-duchenne/): A autoridade sanitária dos Estados Unidos, a FDA, recusou o pedido de aprovação do deramiocel para distrofia muscular de Duchenne. Em comunicado de 20 de novembro, apontou problemas de integridade nos dados do estudo. A Capricor contesta essa avaliação. Trata-se de decisão regulatória, não de um novo ensaio clínico.
@@ -54,9 +57,6 @@
 - [Diabetes tipo 2 foi associado a risco 53% maior de Alzheimer, aponta meta-análise](https://thewelfjournal.com.br/artigos/diabetes-tipo-2-risco-53-maior-alzheimer-meta-analise/): Uma meta-análise de 40 estudos, liderada pela Universidade Curtin, estimou que o diabetes tipo 2 foi associado a um risco 53% maior de desenvolver Alzheimer. Na incidência calculada, a cada mil pessoas com diabetes acompanhadas por um ano, em média 4,7 desenvolvem a doença.
 - [Adesivo de ultrassom e sono REM: estudo pequeno ainda não comprova tratar insônia](https://thewelfjournal.com.br/artigos/2026-11-19-adesivo-ultrassom-sono-rem-estudo-pequeno/): Um teste com adesivo de ultrassom incluiu 28 voluntários e analisou o sono de 26. Na noite com estimulação, o sono REM começou cerca de 43 minutos antes, em média. Como a ordem das noites foi fixa e a amostra pequena, o resultado não comprova tratamento para insônia.
 - [Alergia a antibiótico na infância: por que revisar o registro com um profissional](https://thewelfjournal.com.br/artigos/2026-11-19-alergia-antibiotico-criancas-revisao-registro/): Um guia clínico discute como revisar registros de alergia a antibióticos em crianças. Manchas durante uma infecção ou histórico familiar podem ter sido confundidos com alergia ao remédio. A avaliação depende dos detalhes da reação e, quando indicado, de testes supervisionados. Não é autorização para experimentar o medicamento em casa.
-- [Dengue pode voltar pior? Entenda reinfecção, gravidade e sinais de alarme](https://thewelfjournal.com.br/artigos/2026-11-19-dengue-reinfeccao-gravidade-sinais-alarme/): Ter dengue uma vez não garante proteção contra todos os tipos do vírus. Fontes oficiais descrevem maior risco de dengue grave em infecções posteriores, mas a piora não é obrigatória. Reinfecção é um novo episódio, e sinais de alarme podem surgir quando a febre está baixando.
-- [Enxaqueca e cigarro foram associados a maior risco de AVC precoce](https://thewelfjournal.com.br/artigos/2026-11-19-enxaqueca-cigarro-associacao-avc-precoce/): Um estudo observacional de quase um milhão e setecentas mil pessoas que haviam dado à luz encontrou associação entre enxaqueca, tabagismo e AVC até os sessenta anos. A combinação dos fatores teve a maior estimativa de risco. O trabalho não demonstra causalidade nem se aplica automaticamente a quem não engravidou.
-- [Resistência antimicrobiana: planos nacionais ainda esbarram em verba e diagnóstico](https://thewelfjournal.com.br/artigos/2026-11-19-resistencia-antimicrobiana-planos-verba-diagnostico/): A Organização Mundial da Saúde informa que 173 países têm planos contra a resistência antimicrobiana, mas só 22% relatam financiamento e implementação completa. O levantamento acompanha políticas nacionais, não testa um medicamento. Lacunas de laboratório e acesso ao tratamento ajudam a explicar por que ter um plano não basta.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)
