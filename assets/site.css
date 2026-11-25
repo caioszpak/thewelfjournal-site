@@ -134,6 +134,9 @@ th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--suav
 .form-twj .check input{width:auto;margin-top:5px;flex:none}
 .form-twj fieldset{border:0;padding:0;margin:0;display:grid;gap:8px}
 .form-twj legend{font-weight:600;font-size:16px;padding:0;margin-bottom:6px}
+.form-twj>fieldset{gap:16px;padding-top:18px;border-top:1px solid var(--linha)}
+.form-twj>fieldset>legend{font-family:var(--serif);font-weight:400;font-size:26px;float:left;width:100%;margin-bottom:4px}
+.form-twj .opcoes{gap:6px}
 .form-twj .botao{justify-self:start;border:0;cursor:pointer;font-family:inherit}
 .form-twj .botao:disabled{opacity:.6;cursor:wait}
 .armadilha{position:absolute!important;left:-9999px;height:0;width:0;opacity:0}

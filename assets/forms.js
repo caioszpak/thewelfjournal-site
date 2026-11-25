@@ -16,6 +16,10 @@
       var ep = f.getAttribute("data-endpoint");
       if (!ep) { msg("O formulário ainda não está no ar. Volte em breve.", false); return; }
       if (f.elements["site_url"] && f.elements["site_url"].value) { msg("Recebido.", true); return; }
+      var faltou = Array.prototype.filter.call(f.querySelectorAll("[required]"), function (el) {
+        return el.type === "checkbox" ? !el.checked : !String(el.value || "").trim();
+      });
+      if (faltou.length) { msg("Falta preencher os campos com *.", false); faltou[0].focus(); return; }
       var arqs = Array.prototype.slice.call(f.querySelectorAll("input[type=file]")).reduce(function (a, i) { return a.concat(Array.prototype.slice.call(i.files)); }, []);
       if (arqs.length > MAX_QTD) { msg("Envie no máximo " + MAX_QTD + " arquivos.", false); return; }
       for (var i = 0; i < arqs.length; i++) {

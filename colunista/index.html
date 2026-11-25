@@ -78,37 +78,82 @@
 <div class="wrap estreito">
 <article class="cartao artigo">
   <h1>Seja colunista</h1>
-  <p class="lead">Quer escrever no The Welf Journal? Estamos formando um time de colunistas fixos. <strong>Não precisa ser médico.</strong> Precisa saber do que fala, explicar em português claro e mostrar de onde vem cada dado.</p>
+  <p class="lead">O The Welf Journal está formando um time de colunistas: gente que traz conhecimento, dicas e as dúvidas reais da sua área para quem lê o jornal. <strong>Não precisa ser médico.</strong> Precisa saber do que fala, explicar em português claro e mostrar de onde vem cada dado.</p>
 
 <h2>O que a gente procura</h2>
 <ul>
-  <li>Uma voz com tema próprio: nutrição, sono, treino, saúde mental, tecnologia em saúde, mercado de saúde, história da medicina ou outro.</li>
+  <li>Uma voz com tema próprio: nutrição, sono, treino, saúde mental, pele, saúde da mulher, tecnologia em saúde, mercado de saúde, história da medicina ou outro.</li>
   <li>Texto que passe no nosso método: <a href="/como-apuramos/">fonte primária, tipo de estudo e limites</a>.</li>
   <li>Constância. Coluna fixa é compromisso, não texto avulso.</li>
+  <li>Transparência: vínculo com empresa, marca ou produto ligado ao tema é declarado antes, sempre.</li>
 </ul>
-<p>Se tiver registro profissional (CRM, CRN, CREF, CRP e outros), informe. Se não tiver, conte sua experiência e mostre seu trabalho.</p>
+
+<h2>Como funciona</h2>
+<ol>
+  <li>Você preenche o formulário abaixo (uns 5 minutos).</li>
+  <li>A redação lê todas as candidaturas e, quando houver encaixe, chama por e-mail para uma conversa e um texto de teste.</li>
+  <li>Toda coluna passa pela checagem do jornal antes de sair: fonte com link, verbo que respeita o tipo de estudo e linguagem de gente.</li>
+</ol>
 
 <h2>Candidate-se</h2>
 <form class="form-twj" data-form="colunista" data-endpoint="https://script.google.com/macros/s/AKfycbwcYAdsWR_HD2hcpuhtIzo8Ai5SCq0Csgg44lbRrZWN-kB7Ookh2KABpxJt0OnSeD3wcQ/exec" novalidate>
-  <label>Nome completo *<input name="nome" required maxlength="120" autocomplete="name"></label>
-  <label>E-mail *<input type="email" name="email" required maxlength="160" autocomplete="email"></label>
-  <label>O que você faz *<span class="dica">Profissão, formação ou experiência. Ex.: nutricionista, jornalista de ciência, pesquisador, educador físico.</span><input name="atuacao" required maxlength="200"></label>
-  <label>Registro profissional <span class="dica">Opcional. Ex.: CRN 12345.</span><input name="registro" maxlength="80"></label>
-  <label>Cidade e estado<input name="cidade" maxlength="80" autocomplete="address-level2"></label>
-  <label>Tema da sua coluna *<span class="dica">Sobre o que você escreveria (toda semana, quinzena ou mês)?</span><textarea name="tema" required rows="4" maxlength="1500"></textarea></label>
-  <label>Frequência possível
-    <select name="frequencia"><option value="">Escolha</option><option>Toda semana</option><option>A cada 15 dias</option><option>Uma vez por mês</option></select>
-  </label>
-  <label>Links de textos ou trabalhos seus<span class="dica">Um por linha. Pode ser artigo, perfil, canal ou portfólio.</span><textarea name="links" rows="3" maxlength="1500"></textarea></label>
-  <label>Instagram ou outra rede<input name="redes" maxlength="160"></label>
-  <label>Por que o The Welf Journal?<textarea name="motivo" rows="3" maxlength="1500"></textarea></label>
-  <label>Anexos <span class="dica">Currículo, texto-amostra ou imagem. PDF, PNG ou JPG, até 3 arquivos de 5 MB.</span><input type="file" accept=".pdf,.png,.jpg,.jpeg,.webp" multiple></label>
+  <fieldset>
+    <legend>Quem é você</legend>
+    <label>Nome completo *<input name="nome" required maxlength="120" autocomplete="name"></label>
+    <label>E-mail *<span class="dica">É por ele que a gente responde.</span><input type="email" name="email" required maxlength="160" autocomplete="email"></label>
+    <label>Seu Instagram *<span class="dica">Ex.: @seuperfil</span><input name="redes" required maxlength="160" autocapitalize="off"></label>
+    <label>WhatsApp <span class="dica">Opcional, com DDD.</span><input type="tel" name="whatsapp" maxlength="30" autocomplete="tel"></label>
+    <label>Cidade e estado<input name="cidade" maxlength="80" autocomplete="address-level2"></label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Sua área</legend>
+    <label>Área principal *
+      <select name="area" required>
+        <option value="">Escolha</option>
+        <option>Medicina</option><option>Nutrição</option><option>Educação física</option><option>Psicologia</option>
+        <option>Enfermagem</option><option>Fisioterapia</option><option>Farmácia</option><option>Odontologia</option>
+        <option>Biomedicina</option><option>Pesquisa ou docência</option><option>Jornalismo de ciência</option>
+        <option>Estudante da saúde</option><option>Outra</option>
+      </select>
+    </label>
+    <label>Especialidade, formação e onde atua *<span class="dica">Ex.: endocrinologista em hospital universitário; nutricionista esportiva em consultório; doutoranda em neurociência.</span><input name="atuacao" required maxlength="200"></label>
+    <label>Registro profissional <span class="dica">Opcional. Ex.: CRM-SP 123456, CRN 12345.</span><input name="registro" maxlength="80"></label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Sua coluna</legend>
+    <label>Sobre o que seria a sua coluna? *<span class="dica">O tema e o ângulo. Se quiser, dê ideia de 2 ou 3 títulos.</span><textarea name="tema" required rows="4" maxlength="1500"></textarea></label>
+    <label>Uma dúvida que você ouve toda semana, e como responderia *<span class="dica">De paciente, aluno ou cliente. Responda em até 5 linhas, como se fosse para um amigo leigo. É o que mais pesa na avaliação.</span><textarea name="duvida" required rows="5" maxlength="1500"></textarea></label>
+    <fieldset class="opcoes">
+      <legend>Em que formato você toparia participar?</legend>
+      <label class="check"><input type="checkbox" name="formatos" value="Texto para o site"> Texto para o site</label>
+      <label class="check"><input type="checkbox" name="formatos" value="Roteiro de carrossel"> Roteiro de carrossel</label>
+      <label class="check"><input type="checkbox" name="formatos" value="Vídeo falando para a câmera"> Vídeo falando para a câmera</label>
+      <label class="check"><input type="checkbox" name="formatos" value="Responder dúvidas do público"> Responder dúvidas do público</label>
+    </fieldset>
+    <label>Frequência possível
+      <select name="frequencia"><option value="">Escolha</option><option>Toda semana</option><option>A cada 15 dias</option><option>Uma vez por mês</option></select>
+    </label>
+    <label>Links de textos, vídeos ou trabalhos seus<span class="dica">Um por linha. Artigo, perfil, canal, Lattes ou portfólio.</span><textarea name="links" rows="3" maxlength="1500"></textarea></label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Transparência</legend>
+    <label>Você tem vínculo com empresa, marca ou indústria ligada ao tema? *<span class="dica">Patrocínio, consultoria, produto ou curso próprio, palestra paga. Ter vínculo não elimina ninguém; esconder, sim.</span>
+      <select name="vinculo" required><option value="">Escolha</option><option>Não</option><option>Sim</option></select>
+    </label>
+    <label>Se sim, qual?<textarea name="vinculo_detalhe" rows="2" maxlength="800"></textarea></label>
+    <label>Por que o The Welf Journal?<span class="dica">Opcional.</span><textarea name="motivo" rows="3" maxlength="1500"></textarea></label>
+    <label>Anexos <span class="dica">Currículo ou texto-amostra. PDF, PNG ou JPG, até 3 arquivos de 5 MB.</span><input type="file" accept=".pdf,.png,.jpg,.jpeg,.webp" multiple></label>
+  </fieldset>
+
   <input class="armadilha" name="site_url" tabindex="-1" autocomplete="off" aria-hidden="true">
   <label class="check"><input type="checkbox" name="aceite" value="sim" required> Autorizo o The Welf Journal a usar esses dados só para avaliar minha candidatura e responder a mim. *</label>
   <button class="botao" type="submit">Enviar candidatura</button>
   <p class="form-status" role="status" aria-live="polite" hidden></p>
 </form>
-<p class="nota-form">Não prometemos resposta a todas as candidaturas. Quando houver interesse, a gente escreve para o e-mail informado.</p>
+<p class="nota-form">A redação lê todas as candidaturas. Não conseguimos responder uma a uma; quando houver encaixe, a gente escreve para o e-mail informado.</p>
 <script src="/assets/forms.js" defer></script>
 </article>
 </div>
