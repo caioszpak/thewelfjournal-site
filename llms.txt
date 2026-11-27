@@ -13,7 +13,7 @@
 - [Sono](https://thewelfjournal.com.br/editoria/sono/): 18 artigo(s)
 - [Canetas emagrecedoras](https://thewelfjournal.com.br/editoria/canetas-emagrecedoras/): 27 artigo(s)
 - [Longevidade](https://thewelfjournal.com.br/editoria/longevidade/): 13 artigo(s)
-- [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 26 artigo(s)
+- [Mercado de saúde](https://thewelfjournal.com.br/editoria/mercado-de-saude/): 27 artigo(s)
 - [Nutrição](https://thewelfjournal.com.br/editoria/nutricao/): 23 artigo(s)
 - [Performance](https://thewelfjournal.com.br/editoria/performance/): 4 artigo(s)
 - [Saúde mental](https://thewelfjournal.com.br/editoria/saude-mental/): 13 artigo(s)
@@ -27,6 +27,7 @@
 - [História da Medicina](https://thewelfjournal.com.br/editoria/historia-da-medicina/): 1 artigo(s)
 
 ## Artigos recentes
+- [Bruno Lagoeiro: dos 25 apps do Whitebook ao investidor-anjo que quer ser usado](https://thewelfjournal.com.br/artigos/2026-11-27-bruno-lagoeiro-whitebook-investidor-anjo-dicas/): Bruno Lagoeiro é médico, cofundou a PEBMED e o Whitebook e vendeu a empresa à Afya em 2020 por R$ 132,9 milhões. Hoje é investidor-anjo em mais de 15 startups e fundos, está perto da Alma, da Caveo e da Beba e divide dicas para médicos que querem empreender.
 - [FDA aprova giredestrant após cirurgia para um subtipo de câncer de mama inicial](https://thewelfjournal.com.br/artigos/2026-11-24-fda-giredestrant-cancer-mama-inicial/): A FDA aprovou giredestrant nos Estados Unidos para adultos com um subtipo de câncer de mama inicial, após cirurgia. A decisão se apoia em ensaio com 4.170 participantes. Em 3 anos, 92,4% estavam vivos e sem câncer invasivo, ante 89,6% com tratamento hormonal padrão. O ganho de sobrevida geral segue em avaliação.
 - [Uso antigo de remédios é associado a diferenças nas bactérias do intestino](https://thewelfjournal.com.br/artigos/2026-11-24-medicamentos-passados-microbioma-intestinal/): Em estudo observacional com 2.509 participantes da Estônia, o uso passado de medicamentos foi associado a diferenças nas bactérias intestinais. Outra coleta em 328 pessoas reforçou a relação com o histórico de tratamento. A pesquisa não demonstra dano clínico individual nem justifica interromper remédios prescritos.
 - [Racionamento de açúcar no início da vida é associado a menor idade biológica](https://thewelfjournal.com.br/artigos/2026-11-24-racionamento-acucar-inicio-vida-idade-biologica/): Uma coorte histórica com 54.201 participantes encontrou associação entre racionamento de açúcar no início da vida e menor idade biológica estimada por exames na vida adulta. O trabalho também acompanhou doenças por registros de saúde. Não mediu o consumo individual nem demonstra que uma dieta atual reproduza o resultado.
@@ -56,7 +57,6 @@
 - [Semaglutida reduz índice de massa corporal em ensaio com 167 crianças](https://thewelfjournal.com.br/artigos/2026-11-22-semaglutida-obesidade-criancas-step-young/): Em ensaio randomizado com 167 crianças com obesidade, de 6 a menos de 12 anos, a semaglutida reduziu o índice de massa corporal em 13,5% após 68 semanas, contra alta de 2,7% com placebo. Os resultados exigem leitura dos efeitos adversos e não representam autorização de uso nessa idade.
 - [Antocianinas: revisão separa associação com menos infarto de efeito nos vasos](https://thewelfjournal.com.br/artigos/2026-11-23-antocianinas-coracao-coortes-ensaios/): Revisão de 18 estudos de coorte e 65 ensaios separou duas evidências: maior consumo de antocianinas foi associado a menor risco cardiovascular nas coortes; nos testes randomizados, houve melhora da função dos vasos. Não foi demonstrada prevenção de infarto nos ensaios nem diferença geral na pressão arterial.
 - [56% dos brasileiros não sabem se prevenir contra o câncer de próstata](https://thewelfjournal.com.br/artigos/56-por-cento-brasileiros-nao-sabem-prevenir-cancer-prostata/): Pesquisa do A.C.Camargo Cancer Center com o instituto Nexus, com 2.015 entrevistados, aponta que 56% dos brasileiros não sabem como se prevenir do câncer de próstata, contra 44% em 2024. A parcela de homens que fazem ou pretendem fazer o exame de toque caiu de 61% para 48%.
-- [O que acontece no coração de quem para o remédio da classe do Ozempic](https://thewelfjournal.com.br/artigos/parar-remedio-classe-ozempic-coracao-editorial/): Um estudo italiano com 80.302 pessoas com diabetes tipo dois associou parar o remédio da classe do GLP-1 a mais infarto, AVC e morte: cerca de 3,94 casos por 100 pessoas por ano entre quem parou, contra 1,96 entre quem seguiu. Por ser observacional, não prova causa. Quem usa, não deve parar sem conversar com o médico.
 
 ## Contato e redes
 - [Instagram](https://www.instagram.com/thewelfjournal/)

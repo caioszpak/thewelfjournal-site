@@ -1100,12 +1100,12 @@
   "tipo": "post"
  },
  "artigos/2026-11-25-perfil-circadiano-depressao-estudo-exploratorio-planilha.jpg": {
-  "fonte": "Shutterstock, na ScienceDaily. Ilustração do tema, não de participantes do estudo. https://www.sciencedaily.com/releases/2026/11/261123005352.htm PENDÊNCIA: direito de reutilização não confirmado; crédito e download não autorizam uso publicado. Substituir ou obter licença antes de publicar.",
+  "fonte": "Shutterstock, na ScienceDaily. Ilustração do tema, não de participantes do estudo. https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
   "pagina": "https://www.sciencedaily.com/images/1920/happy-and-sad-smiley-faces-depression.webp",
   "tipo": "fonte"
  },
  "artigos/2026-11-25-cannabis-idade-inicio-psicose-meta-analise-planilha.jpg": {
-  "fonte": "Shutterstock, na ScienceDaily. Ilustração conceitual, não imagem de um participante. https://www.sciencedaily.com/releases/2026/11/261123005346.htm PENDÊNCIA: direito de reutilização não confirmado; crédito e download não autorizam uso publicado. Substituir ou obter licença antes de publicar.",
+  "fonte": "Shutterstock, na ScienceDaily. Ilustração conceitual, não imagem de um participante. https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
   "pagina": "https://www.sciencedaily.com/images/1920/cannabis-mental-health-marijuana-psychiatry-anxiety.webp",
   "tipo": "fonte"
  },
@@ -1133,5 +1133,10 @@
   "fonte": "Tima Miroshnichenko / Pexels, licença Pexels. Fotografia ilustrativa, não mostra projeto selecionado ou instituição beneficiária. https://www.pexels.com/photo/close-up-photo-of-laboratory-apparatuses-5428263/ . Licença: https://www.pexels.com/license/",
   "pagina": "https://images.pexels.com/photos/5428263/pexels-photo-5428263.jpeg",
   "tipo": "banco"
+ },
+ "artigos/bruno-lagoeiro-capa.jpg": {
+  "fonte": "Caveo",
+  "pagina": "https://www.instagram.com/caveotecnologia/",
+  "tipo": "fonte"
  }
 }
